@@ -77,6 +77,13 @@
             "name": "Version",
             "type": "str",
             "unit": ""
+          },
+          {
+            "id": "booleansel",
+            "name": "Test Bool",
+            "type": "bool",
+            "unit": "",
+            "options": ["true", "false", ""]
           }
         ]
       },
@@ -140,6 +147,7 @@
             "type": "str",
             "unit": ""
           }
+
         ]
       },
       {
@@ -263,13 +271,8 @@
             "name": "Filter Values",
             "type": "str",
             "unit": ""
-          },
-          {
-            "id": "editMode",
-            "name": "editMode",
-            "type": "bool",
-            "unit": ""
           }
+
         ]
       }
     ]

@@ -1,0 +1,38 @@
+{
+  "selectGroups": {
+    "2": {
+      "label": "Активная нода",
+      "settings": [
+        {
+          "model" : "activeNode",
+          "mobileModeOnly" : false,
+          "currentValue": "c82b25be-1146-4208-8d34-866cbf3e9244",
+          "type": "string",
+          "optionsType" : "node"
+        }
+      ]
+    },
+    "3": {
+      "label": "Тип активной ноды",
+      "settings": [
+        {
+          "model" : "activeNodeScheme",
+          "mobileModeOnly" : false,
+          "currentValue": "c751df2c-module",
+          "type": "string",
+          "optionsType" : "nodeScheme"
+        }
+      ]
+    }
+  },
+  "settingsStructure": {
+    "common": {
+      "label": "Общие",
+      "type"  : "single",
+      "list": [
+        "2",
+        "3"
+      ]
+    }
+  }
+}

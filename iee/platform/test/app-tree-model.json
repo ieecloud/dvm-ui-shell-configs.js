@@ -63,7 +63,7 @@
       "properties": {
         "id": "6",
         "uid": "c751df2c-064d-4c2b-9cd9-c82d91d33112",
-        "code": "6",
+        "code": "catalog_apps",
         "name": "Каталог Приложений",
         "version": "1.0.0",
         "schemeNodeId": "c751df2c-module"
