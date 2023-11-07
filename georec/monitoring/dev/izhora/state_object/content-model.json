@@ -7,11 +7,12 @@
       "id": "255",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "main",
         "groupId": "255",
         "type": "",
         "schemeNodeId": "c751df21-main",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 11,
         "viewerModel": "",
@@ -23,18 +24,19 @@
         "editMode": false,
         "name": "Главная",
         "id": 255,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "1",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
-        "code": "B",
+        "repoId": "journal.objs.states",
+        "code": "izhora",
         "groupId": "1",
         "type": "",
         "schemeNodeId": "c751df2a-object",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 6,
         "viewerModel": "full_new.zip",
@@ -46,18 +48,19 @@
         "editMode": false,
         "name": "Мост Ижора",
         "id": 1,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "2",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "1L",
         "groupId": "2",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "1L.zip",
@@ -69,18 +72,19 @@
         "editMode": false,
         "name": "Опора 01-Л",
         "id": 2,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "26",
       "properties": {
         "filterValues": "1L2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1L2",
         "groupId": "26",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -92,18 +96,19 @@
         "editMode": false,
         "name": "1L2",
         "id": 26,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "27",
       "properties": {
         "filterValues": "1L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1L3",
         "groupId": "27",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -115,18 +120,19 @@
         "editMode": false,
         "name": "1L3",
         "id": 27,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "28",
       "properties": {
         "filterValues": "1L5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1L5",
         "groupId": "28",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -138,18 +144,19 @@
         "editMode": false,
         "name": "1L5",
         "id": 28,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "29",
       "properties": {
         "filterValues": "1L6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1L6",
         "groupId": "29",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -161,18 +168,19 @@
         "editMode": false,
         "name": "1L6",
         "id": 29,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "30",
       "properties": {
         "filterValues": "1L-B4,4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1L-B4,4",
         "groupId": "30",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -184,18 +192,19 @@
         "editMode": false,
         "name": "1L-B4,4",
         "id": 30,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "31",
       "properties": {
         "filterValues": "1L-B5,4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1L-B5,4",
         "groupId": "31",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -207,19 +216,20 @@
         "editMode": false,
         "name": "1L-B5,4",
         "id": 31,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "32",
       "properties": {
-        "filterValues": "Опора 01-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "1L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "1L-nakl",
         "groupId": "32",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -230,18 +240,19 @@
         "editMode": false,
         "name": "1L-nakl",
         "id": 32,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "33",
       "properties": {
         "filterValues": "1L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "1L-R_support",
         "groupId": "33",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -253,18 +264,19 @@
         "editMode": false,
         "name": "1L-R_support",
         "id": 33,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "34",
       "properties": {
         "filterValues": "1L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "1L-L_support",
         "groupId": "34",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -276,18 +288,19 @@
         "editMode": false,
         "name": "1L-L_support",
         "id": 34,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "3",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "1R",
         "groupId": "3",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "1R.zip",
@@ -299,18 +312,19 @@
         "editMode": false,
         "name": "Опора 01-П",
         "id": 3,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "141",
       "properties": {
         "filterValues": "1R1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1R1",
         "groupId": "141",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -322,18 +336,19 @@
         "editMode": false,
         "name": "1R1",
         "id": 141,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "142",
       "properties": {
         "filterValues": "1R2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1R2",
         "groupId": "142",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -345,18 +360,19 @@
         "editMode": false,
         "name": "1R2",
         "id": 142,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "143",
       "properties": {
         "filterValues": "1R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1R5",
         "groupId": "143",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -368,18 +384,19 @@
         "editMode": false,
         "name": "1R5",
         "id": 143,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "144",
       "properties": {
         "filterValues": "1R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1R6",
         "groupId": "144",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -391,18 +408,19 @@
         "editMode": false,
         "name": "1R6",
         "id": 144,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "145",
       "properties": {
         "filterValues": "1R-B4,3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1R-B4,3",
         "groupId": "145",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -414,18 +432,19 @@
         "editMode": false,
         "name": "1R-B4,3",
         "id": 145,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "146",
       "properties": {
         "filterValues": "1R-B5,3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "1R-B5,3",
         "groupId": "146",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -437,19 +456,20 @@
         "editMode": false,
         "name": "1R-B5,3",
         "id": 146,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "147",
       "properties": {
-        "filterValues": "Опора 01-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "1R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "1R-nakl",
         "groupId": "147",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -460,18 +480,19 @@
         "editMode": false,
         "name": "1R-nakl",
         "id": 147,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "148",
       "properties": {
         "filterValues": "1R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "1R-R_support",
         "groupId": "148",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -483,18 +504,19 @@
         "editMode": false,
         "name": "1R-R_support",
         "id": 148,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "149",
       "properties": {
         "filterValues": "1R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "1R-L_support",
         "groupId": "149",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -506,18 +528,19 @@
         "editMode": false,
         "name": "1R-L_support",
         "id": 149,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "4",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "2L",
         "groupId": "4",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "2L.zip",
@@ -529,18 +552,19 @@
         "editMode": false,
         "name": "Опора 02-Л",
         "id": 4,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "44",
       "properties": {
         "filterValues": "2L1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2L1",
         "groupId": "44",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -552,18 +576,19 @@
         "editMode": false,
         "name": "2L1",
         "id": 44,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "45",
       "properties": {
         "filterValues": "2L2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2L2",
         "groupId": "45",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -575,18 +600,19 @@
         "editMode": false,
         "name": "2L2",
         "id": 45,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "46",
       "properties": {
         "filterValues": "2L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2L3",
         "groupId": "46",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -598,18 +624,19 @@
         "editMode": false,
         "name": "2L3",
         "id": 46,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "47",
       "properties": {
         "filterValues": "2L4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2L4",
         "groupId": "47",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -621,18 +648,19 @@
         "editMode": false,
         "name": "2L4",
         "id": 47,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "48",
       "properties": {
         "filterValues": "2L5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2L5",
         "groupId": "48",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -644,18 +672,19 @@
         "editMode": false,
         "name": "2L5",
         "id": 48,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "49",
       "properties": {
         "filterValues": "2L-B3,22",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2L-B3,22",
         "groupId": "49",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -667,18 +696,19 @@
         "editMode": false,
         "name": "2L-B3,22",
         "id": 49,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "50",
       "properties": {
         "filterValues": "2L-B3,23",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2L-B3,23",
         "groupId": "50",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -690,19 +720,20 @@
         "editMode": false,
         "name": "2L-B3,23",
         "id": 50,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "51",
       "properties": {
-        "filterValues": "Опора 02-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "2L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "2L-nakl",
         "groupId": "51",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -713,18 +744,19 @@
         "editMode": false,
         "name": "2L-nakl",
         "id": 51,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "52",
       "properties": {
         "filterValues": "2L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "2L-R_support",
         "groupId": "52",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -736,18 +768,19 @@
         "editMode": false,
         "name": "2L-R_support",
         "id": 52,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "53",
       "properties": {
         "filterValues": "2L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "2L-L_support",
         "groupId": "53",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -759,18 +792,19 @@
         "editMode": false,
         "name": "2L-L_support",
         "id": 53,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "5",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "2R",
         "groupId": "5",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "2R.zip",
@@ -782,18 +816,19 @@
         "editMode": false,
         "name": "Опора 02-П",
         "id": 5,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "150",
       "properties": {
         "filterValues": "2R1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2R1",
         "groupId": "150",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -805,18 +840,19 @@
         "editMode": false,
         "name": "2R1",
         "id": 150,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "151",
       "properties": {
         "filterValues": "2R2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2R2",
         "groupId": "151",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -828,18 +864,19 @@
         "editMode": false,
         "name": "2R2",
         "id": 151,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "152",
       "properties": {
         "filterValues": "2R3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2R3",
         "groupId": "152",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -851,18 +888,19 @@
         "editMode": false,
         "name": "2R3",
         "id": 152,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "153",
       "properties": {
         "filterValues": "2R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2R4",
         "groupId": "153",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -874,18 +912,19 @@
         "editMode": false,
         "name": "2R4",
         "id": 153,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "154",
       "properties": {
         "filterValues": "2R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2R5",
         "groupId": "154",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -897,18 +936,19 @@
         "editMode": false,
         "name": "2R5",
         "id": 154,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "155",
       "properties": {
         "filterValues": "2R-B3,20",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2R-B3,20",
         "groupId": "155",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -920,18 +960,19 @@
         "editMode": false,
         "name": "2R-B3,20",
         "id": 155,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "156",
       "properties": {
         "filterValues": "2R-B3,21",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "2R-B3,21",
         "groupId": "156",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -943,19 +984,20 @@
         "editMode": false,
         "name": "2R-B3,21",
         "id": 156,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "157",
       "properties": {
-        "filterValues": "Опора 02-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "2R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "2R-nakl",
         "groupId": "157",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -966,18 +1008,19 @@
         "editMode": false,
         "name": "2R-nakl",
         "id": 157,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "158",
       "properties": {
         "filterValues": "2R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "2R-R_support",
         "groupId": "158",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -989,18 +1032,19 @@
         "editMode": false,
         "name": "2R-R_support",
         "id": 158,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "159",
       "properties": {
         "filterValues": "2R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "2R-L_support",
         "groupId": "159",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1012,18 +1056,19 @@
         "editMode": false,
         "name": "2R-L_support",
         "id": 159,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "6",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "3L",
         "groupId": "6",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "3L.zip",
@@ -1035,18 +1080,19 @@
         "editMode": false,
         "name": "Опора 03-Л",
         "id": 6,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "54",
       "properties": {
         "filterValues": "3L1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3L1",
         "groupId": "54",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1058,18 +1104,19 @@
         "editMode": false,
         "name": "3L1",
         "id": 54,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "55",
       "properties": {
         "filterValues": "3L2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3L2",
         "groupId": "55",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1081,18 +1128,19 @@
         "editMode": false,
         "name": "3L2",
         "id": 55,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "56",
       "properties": {
         "filterValues": "3L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3L3",
         "groupId": "56",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1104,18 +1152,19 @@
         "editMode": false,
         "name": "3L3",
         "id": 56,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "57",
       "properties": {
         "filterValues": "3L4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3L4",
         "groupId": "57",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1127,18 +1176,19 @@
         "editMode": false,
         "name": "3L4",
         "id": 57,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "58",
       "properties": {
         "filterValues": "3L-B1,22",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3L-B1,22",
         "groupId": "58",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1150,18 +1200,19 @@
         "editMode": false,
         "name": "3L-B1,22",
         "id": 58,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "59",
       "properties": {
         "filterValues": "3L-B2,8",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3L-B2,8",
         "groupId": "59",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1173,18 +1224,19 @@
         "editMode": false,
         "name": "3L-B2,8",
         "id": 59,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "60",
       "properties": {
         "filterValues": "3L-B3,19",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3L-B3,19",
         "groupId": "60",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1196,19 +1248,20 @@
         "editMode": false,
         "name": "3L-B3,19",
         "id": 60,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "61",
       "properties": {
-        "filterValues": "Опора 03-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "3L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "3L-nakl",
         "groupId": "61",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -1219,18 +1272,19 @@
         "editMode": false,
         "name": "3L-nakl",
         "id": 61,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "62",
       "properties": {
         "filterValues": "3L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "3L-R_support",
         "groupId": "62",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1242,18 +1296,19 @@
         "editMode": false,
         "name": "3L-R_support",
         "id": 62,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "63",
       "properties": {
         "filterValues": "3L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "3L-L_support",
         "groupId": "63",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1265,18 +1320,19 @@
         "editMode": false,
         "name": "3L-L_support",
         "id": 63,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "7",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "3R",
         "groupId": "7",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "3R.zip",
@@ -1288,18 +1344,19 @@
         "editMode": false,
         "name": "Опора 03-П",
         "id": 7,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "160",
       "properties": {
         "filterValues": "3R1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3R1",
         "groupId": "160",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1311,18 +1368,19 @@
         "editMode": false,
         "name": "3R1",
         "id": 160,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "161",
       "properties": {
         "filterValues": "3R2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3R2",
         "groupId": "161",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1334,18 +1392,19 @@
         "editMode": false,
         "name": "3R2",
         "id": 161,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "162",
       "properties": {
         "filterValues": "3R3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3R3",
         "groupId": "162",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1357,18 +1416,19 @@
         "editMode": false,
         "name": "3R3",
         "id": 162,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "163",
       "properties": {
         "filterValues": "3R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3R4",
         "groupId": "163",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1380,18 +1440,19 @@
         "editMode": false,
         "name": "3R4",
         "id": 163,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "164",
       "properties": {
         "filterValues": "3R-B1,21",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3R-B1,21",
         "groupId": "164",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1403,18 +1464,19 @@
         "editMode": false,
         "name": "3R-B1,21",
         "id": 164,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "165",
       "properties": {
         "filterValues": "3R-B2,7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3R-B2,7",
         "groupId": "165",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1426,18 +1488,19 @@
         "editMode": false,
         "name": "3R-B2,7",
         "id": 165,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "166",
       "properties": {
         "filterValues": "3R-B3,18",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "3R-B3,18",
         "groupId": "166",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1449,19 +1512,20 @@
         "editMode": false,
         "name": "3R-B3,18",
         "id": 166,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "167",
       "properties": {
-        "filterValues": "Опора 03-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "3R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "3R-nakl",
         "groupId": "167",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -1472,18 +1536,19 @@
         "editMode": false,
         "name": "3R-nakl",
         "id": 167,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "168",
       "properties": {
         "filterValues": "3R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "3R-R_support",
         "groupId": "168",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1495,18 +1560,19 @@
         "editMode": false,
         "name": "3R-R_support",
         "id": 168,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "169",
       "properties": {
         "filterValues": "3R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "3R-L_support",
         "groupId": "169",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1518,18 +1584,19 @@
         "editMode": false,
         "name": "3R-L_support",
         "id": 169,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "8",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "4L",
         "groupId": "8",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "4L.zip",
@@ -1541,18 +1608,19 @@
         "editMode": false,
         "name": "Опора 04-Л",
         "id": 8,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "64",
       "properties": {
         "filterValues": "4L1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4L1",
         "groupId": "64",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1564,18 +1632,19 @@
         "editMode": false,
         "name": "4L1",
         "id": 64,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "65",
       "properties": {
         "filterValues": "4L2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4L2",
         "groupId": "65",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1587,18 +1656,19 @@
         "editMode": false,
         "name": "4L2",
         "id": 65,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "66",
       "properties": {
         "filterValues": "4L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4L3",
         "groupId": "66",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1610,18 +1680,19 @@
         "editMode": false,
         "name": "4L3",
         "id": 66,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "67",
       "properties": {
         "filterValues": "4L4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4L4",
         "groupId": "67",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1633,18 +1704,19 @@
         "editMode": false,
         "name": "4L4",
         "id": 67,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "68",
       "properties": {
         "filterValues": "4L-B1,20",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4L-B1,20",
         "groupId": "68",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1656,18 +1728,19 @@
         "editMode": false,
         "name": "4L-B1,20",
         "id": 68,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "69",
       "properties": {
         "filterValues": "4L-B2,6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4L-B2,6",
         "groupId": "69",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1679,18 +1752,19 @@
         "editMode": false,
         "name": "4L-B2,6",
         "id": 69,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "70",
       "properties": {
         "filterValues": "4L-B3,17",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4L-B3,17",
         "groupId": "70",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1702,19 +1776,20 @@
         "editMode": false,
         "name": "4L-B3,17",
         "id": 70,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "71",
       "properties": {
-        "filterValues": "Опора 04-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "4L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "4L-nakl",
         "groupId": "71",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -1725,18 +1800,19 @@
         "editMode": false,
         "name": "4L-nakl",
         "id": 71,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "9",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "4R",
         "groupId": "9",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "4R.zip",
@@ -1748,18 +1824,19 @@
         "editMode": false,
         "name": "Опора 04-П",
         "id": 9,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "170",
       "properties": {
         "filterValues": "4R3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4R3",
         "groupId": "170",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1771,18 +1848,19 @@
         "editMode": false,
         "name": "4R3",
         "id": 170,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "171",
       "properties": {
         "filterValues": "4R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4R4",
         "groupId": "171",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1794,18 +1872,19 @@
         "editMode": false,
         "name": "4R4",
         "id": 171,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "172",
       "properties": {
         "filterValues": "4R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4R5",
         "groupId": "172",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1817,18 +1896,19 @@
         "editMode": false,
         "name": "4R5",
         "id": 172,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "173",
       "properties": {
         "filterValues": "4R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4R6",
         "groupId": "173",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1840,18 +1920,19 @@
         "editMode": false,
         "name": "4R6",
         "id": 173,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "174",
       "properties": {
         "filterValues": "4R-B1,19",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4R-B1,19",
         "groupId": "174",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1863,18 +1944,19 @@
         "editMode": false,
         "name": "4R-B1,19",
         "id": 174,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "175",
       "properties": {
         "filterValues": "4R-B2,5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4R-B2,5",
         "groupId": "175",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1886,18 +1968,19 @@
         "editMode": false,
         "name": "4R-B2,5",
         "id": 175,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "176",
       "properties": {
         "filterValues": "4R-B3,16",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "4R-B3,16",
         "groupId": "176",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1909,19 +1992,20 @@
         "editMode": false,
         "name": "4R-B3,16",
         "id": 176,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "177",
       "properties": {
-        "filterValues": "Опора 04-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "4R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "4R-nakl",
         "groupId": "177",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -1932,18 +2016,19 @@
         "editMode": false,
         "name": "4R-nakl",
         "id": 177,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "10",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "5L",
         "groupId": "10",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "5L.zip",
@@ -1955,18 +2040,19 @@
         "editMode": false,
         "name": "Опора 05-Л",
         "id": 10,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "72",
       "properties": {
         "filterValues": "5L5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5L5",
         "groupId": "72",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -1978,18 +2064,19 @@
         "editMode": false,
         "name": "5L5",
         "id": 72,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "73",
       "properties": {
         "filterValues": "5L6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5L6",
         "groupId": "73",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2001,18 +2088,19 @@
         "editMode": false,
         "name": "5L6",
         "id": 73,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "74",
       "properties": {
         "filterValues": "5L8",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5L8",
         "groupId": "74",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2024,18 +2112,19 @@
         "editMode": false,
         "name": "5L8",
         "id": 74,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "75",
       "properties": {
         "filterValues": "5L9",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5L9",
         "groupId": "75",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2047,18 +2136,19 @@
         "editMode": false,
         "name": "5L9",
         "id": 75,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "76",
       "properties": {
         "filterValues": "5L-B1,17",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5L-B1,17",
         "groupId": "76",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2070,18 +2160,19 @@
         "editMode": false,
         "name": "5L-B1,17",
         "id": 76,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "77",
       "properties": {
         "filterValues": "5L-B1,18",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5L-B1,18",
         "groupId": "77",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2093,18 +2184,19 @@
         "editMode": false,
         "name": "5L-B1,18",
         "id": 77,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "78",
       "properties": {
         "filterValues": "5L-B3,15",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5L-B3,15",
         "groupId": "78",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2116,19 +2208,20 @@
         "editMode": false,
         "name": "5L-B3,15",
         "id": 78,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "79",
       "properties": {
-        "filterValues": "Опора 05-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "5L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "5L-nakl",
         "groupId": "79",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -2139,18 +2232,19 @@
         "editMode": false,
         "name": "5L-nakl",
         "id": 79,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "80",
       "properties": {
         "filterValues": "5L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "5L-R_support",
         "groupId": "80",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2162,18 +2256,19 @@
         "editMode": false,
         "name": "5L-R_support",
         "id": 80,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "81",
       "properties": {
         "filterValues": "5L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "5L-L_support",
         "groupId": "81",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2185,18 +2280,19 @@
         "editMode": false,
         "name": "5L-L_support",
         "id": 81,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "11",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "5R",
         "groupId": "11",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "5R.zip",
@@ -2208,18 +2304,19 @@
         "editMode": false,
         "name": "Опора 05-П",
         "id": 11,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "178",
       "properties": {
         "filterValues": "5R3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5R3",
         "groupId": "178",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2231,18 +2328,19 @@
         "editMode": false,
         "name": "5R3",
         "id": 178,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "179",
       "properties": {
         "filterValues": "5R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5R4",
         "groupId": "179",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2254,18 +2352,19 @@
         "editMode": false,
         "name": "5R4",
         "id": 179,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "180",
       "properties": {
         "filterValues": "5R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5R5",
         "groupId": "180",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2277,18 +2376,19 @@
         "editMode": false,
         "name": "5R5",
         "id": 180,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "181",
       "properties": {
         "filterValues": "5R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5R6",
         "groupId": "181",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2300,18 +2400,19 @@
         "editMode": false,
         "name": "5R6",
         "id": 181,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "182",
       "properties": {
         "filterValues": "5R-B1,15",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5R-B1,15",
         "groupId": "182",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2323,18 +2424,19 @@
         "editMode": false,
         "name": "5R-B1,15",
         "id": 182,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "183",
       "properties": {
         "filterValues": "5R-B1,16",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5R-B1,16",
         "groupId": "183",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2346,18 +2448,19 @@
         "editMode": false,
         "name": "5R-B1,16",
         "id": 183,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "184",
       "properties": {
         "filterValues": "5R-B3,14",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "5R-B3,14",
         "groupId": "184",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2369,19 +2472,20 @@
         "editMode": false,
         "name": "5R-B3,14",
         "id": 184,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "185",
       "properties": {
-        "filterValues": "Опора 05-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "5R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "5R-nakl",
         "groupId": "185",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -2392,18 +2496,19 @@
         "editMode": false,
         "name": "5R-nakl",
         "id": 185,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "186",
       "properties": {
         "filterValues": "5R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "5R-R_support",
         "groupId": "186",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2415,18 +2520,19 @@
         "editMode": false,
         "name": "5R-R_support",
         "id": 186,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "187",
       "properties": {
         "filterValues": "5R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "5R-L_support",
         "groupId": "187",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2438,18 +2544,19 @@
         "editMode": false,
         "name": "5R-L_support",
         "id": 187,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "12",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "6L",
         "groupId": "12",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "6L.zip",
@@ -2461,18 +2568,19 @@
         "editMode": false,
         "name": "Опора 06-Л",
         "id": 12,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "82",
       "properties": {
         "filterValues": "6L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6L3",
         "groupId": "82",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2484,18 +2592,19 @@
         "editMode": false,
         "name": "6L3",
         "id": 82,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "83",
       "properties": {
         "filterValues": "6L4A",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6L4A",
         "groupId": "83",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2507,18 +2616,19 @@
         "editMode": false,
         "name": "6L4A",
         "id": 83,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "84",
       "properties": {
         "filterValues": "6L5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6L5",
         "groupId": "84",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2530,18 +2640,19 @@
         "editMode": false,
         "name": "6L5",
         "id": 84,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "85",
       "properties": {
         "filterValues": "6L6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6L6",
         "groupId": "85",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2553,18 +2664,19 @@
         "editMode": false,
         "name": "6L6",
         "id": 85,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "86",
       "properties": {
         "filterValues": "6L-B1,11",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6L-B1,11",
         "groupId": "86",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2576,18 +2688,19 @@
         "editMode": false,
         "name": "6L-B1,11",
         "id": 86,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "87",
       "properties": {
         "filterValues": "6L-B1,12",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6L-B1,12",
         "groupId": "87",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2599,18 +2712,19 @@
         "editMode": false,
         "name": "6L-B1,12",
         "id": 87,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "88",
       "properties": {
         "filterValues": "6L-B3,12",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6L-B3,12",
         "groupId": "88",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2622,19 +2736,20 @@
         "editMode": false,
         "name": "6L-B3,12",
         "id": 88,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "89",
       "properties": {
-        "filterValues": "Опора 06-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "6L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "6L-nakl",
         "groupId": "89",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -2645,18 +2760,19 @@
         "editMode": false,
         "name": "6L-nakl",
         "id": 89,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "90",
       "properties": {
         "filterValues": "6L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "6L-R_support",
         "groupId": "90",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2668,18 +2784,19 @@
         "editMode": false,
         "name": "6L-R_support",
         "id": 90,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "91",
       "properties": {
         "filterValues": "6L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "6L-L_support",
         "groupId": "91",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2691,18 +2808,19 @@
         "editMode": false,
         "name": "6L-L_support",
         "id": 91,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "13",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "6R",
         "groupId": "13",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "6R.zip",
@@ -2714,18 +2832,19 @@
         "editMode": false,
         "name": "Опора 06-П",
         "id": 13,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "188",
       "properties": {
         "filterValues": "6R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6R5",
         "groupId": "188",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2737,18 +2856,19 @@
         "editMode": false,
         "name": "6R5",
         "id": 188,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "189",
       "properties": {
         "filterValues": "6R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6R6",
         "groupId": "189",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2760,18 +2880,19 @@
         "editMode": false,
         "name": "6R6",
         "id": 189,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "190",
       "properties": {
         "filterValues": "6R7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6R7",
         "groupId": "190",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2783,18 +2904,19 @@
         "editMode": false,
         "name": "6R7",
         "id": 190,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "191",
       "properties": {
         "filterValues": "6R8",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6R8",
         "groupId": "191",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2806,18 +2928,19 @@
         "editMode": false,
         "name": "6R8",
         "id": 191,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "192",
       "properties": {
         "filterValues": "6R-B1,13",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6R-B1,13",
         "groupId": "192",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2829,18 +2952,19 @@
         "editMode": false,
         "name": "6R-B1,13",
         "id": 192,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "193",
       "properties": {
         "filterValues": "6R-B1,14",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6R-B1,14",
         "groupId": "193",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2852,18 +2976,19 @@
         "editMode": false,
         "name": "6R-B1,14",
         "id": 193,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "194",
       "properties": {
         "filterValues": "6R-B3,14",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "6R-B3,14",
         "groupId": "194",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2875,19 +3000,20 @@
         "editMode": false,
         "name": "6R-B3,14",
         "id": 194,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "195",
       "properties": {
-        "filterValues": "Опора 06-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "6R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "6R-nakl",
         "groupId": "195",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -2898,18 +3024,19 @@
         "editMode": false,
         "name": "6R-nakl",
         "id": 195,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "196",
       "properties": {
         "filterValues": "6R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "6R-R_support",
         "groupId": "196",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2921,18 +3048,19 @@
         "editMode": false,
         "name": "6R-R_support",
         "id": 196,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "197",
       "properties": {
         "filterValues": "6R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "6R-L_support",
         "groupId": "197",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2944,18 +3072,19 @@
         "editMode": false,
         "name": "6R-L_support",
         "id": 197,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "14",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "7L",
         "groupId": "14",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "7L.zip",
@@ -2967,18 +3096,19 @@
         "editMode": false,
         "name": "Опора 07-Л",
         "id": 14,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "92",
       "properties": {
         "filterValues": "7L7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7L7",
         "groupId": "92",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -2990,18 +3120,19 @@
         "editMode": false,
         "name": "7L7",
         "id": 92,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "93",
       "properties": {
         "filterValues": "7L8",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7L8",
         "groupId": "93",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3013,18 +3144,19 @@
         "editMode": false,
         "name": "7L8",
         "id": 93,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "94",
       "properties": {
         "filterValues": "7L12",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7L12",
         "groupId": "94",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3036,18 +3168,19 @@
         "editMode": false,
         "name": "7L12",
         "id": 94,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "95",
       "properties": {
         "filterValues": "7L13A",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7L13A",
         "groupId": "95",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3059,18 +3192,19 @@
         "editMode": false,
         "name": "7L13A",
         "id": 95,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "96",
       "properties": {
         "filterValues": "7L-B1,7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7L-B1,7",
         "groupId": "96",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3082,18 +3216,19 @@
         "editMode": false,
         "name": "7L-B1,7",
         "id": 96,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "97",
       "properties": {
         "filterValues": "7L-B1,8",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7L-B1,8",
         "groupId": "97",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3105,18 +3240,19 @@
         "editMode": false,
         "name": "7L-B1,8",
         "id": 97,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "98",
       "properties": {
         "filterValues": "7L-B3,10",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7L-B3,10",
         "groupId": "98",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3128,19 +3264,20 @@
         "editMode": false,
         "name": "7L-B3,10",
         "id": 98,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "99",
       "properties": {
-        "filterValues": "Опора 07-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "7L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "7L-nakl",
         "groupId": "99",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -3151,18 +3288,19 @@
         "editMode": false,
         "name": "7L-nakl",
         "id": 99,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "100",
       "properties": {
         "filterValues": "7L-R1_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7L-R1_support",
         "groupId": "100",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3174,18 +3312,19 @@
         "editMode": false,
         "name": "7L-R1_support",
         "id": 100,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "101",
       "properties": {
         "filterValues": "7L-L1_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7L-L1_support",
         "groupId": "101",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3197,18 +3336,19 @@
         "editMode": false,
         "name": "7L-L1_support",
         "id": 101,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "102",
       "properties": {
         "filterValues": "7L-R2_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7L-R2_support",
         "groupId": "102",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3220,18 +3360,19 @@
         "editMode": false,
         "name": "7L-R2_support",
         "id": 102,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "103",
       "properties": {
         "filterValues": "7L-L2_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7L-L2_support",
         "groupId": "103",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3243,18 +3384,19 @@
         "editMode": false,
         "name": "7L-L2_support",
         "id": 103,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "15",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "7R",
         "groupId": "15",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "7R.zip",
@@ -3266,18 +3408,19 @@
         "editMode": false,
         "name": "Опора 07-П",
         "id": 15,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "198",
       "properties": {
         "filterValues": "7R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7R4",
         "groupId": "198",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3289,18 +3432,19 @@
         "editMode": false,
         "name": "7R4",
         "id": 198,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "199",
       "properties": {
         "filterValues": "7R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7R6",
         "groupId": "199",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3312,18 +3456,19 @@
         "editMode": false,
         "name": "7R6",
         "id": 199,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "200",
       "properties": {
         "filterValues": "7R7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7R7",
         "groupId": "200",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3335,18 +3480,19 @@
         "editMode": false,
         "name": "7R7",
         "id": 200,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "201",
       "properties": {
         "filterValues": "7R8",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7R8",
         "groupId": "201",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3358,18 +3504,19 @@
         "editMode": false,
         "name": "7R8",
         "id": 201,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "202",
       "properties": {
         "filterValues": "7R-B1,9",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7R-B1,9",
         "groupId": "202",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3381,18 +3528,19 @@
         "editMode": false,
         "name": "7R-B1,9",
         "id": 202,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "203",
       "properties": {
         "filterValues": "7R-B1,10",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7R-B1,10",
         "groupId": "203",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3404,18 +3552,19 @@
         "editMode": false,
         "name": "7R-B1,10",
         "id": 203,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "204",
       "properties": {
         "filterValues": "7R-B3,11",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "7R-B3,11",
         "groupId": "204",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3427,19 +3576,20 @@
         "editMode": false,
         "name": "7R-B3,11",
         "id": 204,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "205",
       "properties": {
-        "filterValues": "Опора 07-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "7R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "7R-nakl",
         "groupId": "205",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -3450,18 +3600,19 @@
         "editMode": false,
         "name": "7R-nakl",
         "id": 205,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "206",
       "properties": {
         "filterValues": "7R-R1_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7R-R1_support",
         "groupId": "206",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3473,18 +3624,19 @@
         "editMode": false,
         "name": "7R-R1_support",
         "id": 206,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "207",
       "properties": {
         "filterValues": "7R-L1_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7R-L1_support",
         "groupId": "207",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3496,18 +3648,19 @@
         "editMode": false,
         "name": "7R-L1_support",
         "id": 207,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "208",
       "properties": {
         "filterValues": "7R-R2_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7R-R2_support",
         "groupId": "208",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3519,18 +3672,19 @@
         "editMode": false,
         "name": "7R-R2_support",
         "id": 208,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "209",
       "properties": {
         "filterValues": "7R-L2_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "7R-L2_support",
         "groupId": "209",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3542,18 +3696,19 @@
         "editMode": false,
         "name": "7R-L2_support",
         "id": 209,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "16",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "8L",
         "groupId": "16",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "8L.zip",
@@ -3565,18 +3720,19 @@
         "editMode": false,
         "name": "Опора 08-Л",
         "id": 16,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "104",
       "properties": {
         "filterValues": "8L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8L3",
         "groupId": "104",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3588,18 +3744,19 @@
         "editMode": false,
         "name": "8L3",
         "id": 104,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "105",
       "properties": {
         "filterValues": "8L4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8L4",
         "groupId": "105",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3611,18 +3768,19 @@
         "editMode": false,
         "name": "8L4",
         "id": 105,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "106",
       "properties": {
         "filterValues": "8L6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8L6",
         "groupId": "106",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3634,18 +3792,19 @@
         "editMode": false,
         "name": "8L6",
         "id": 106,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "107",
       "properties": {
         "filterValues": "8L7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8L7",
         "groupId": "107",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3657,18 +3816,19 @@
         "editMode": false,
         "name": "8L7",
         "id": 107,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "108",
       "properties": {
         "filterValues": "8L-B1,4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8L-B1,4",
         "groupId": "108",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3680,18 +3840,19 @@
         "editMode": false,
         "name": "8L-B1,4",
         "id": 108,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "109",
       "properties": {
         "filterValues": "8L-B2,4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8L-B2,4",
         "groupId": "109",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3703,18 +3864,19 @@
         "editMode": false,
         "name": "8L-B2,4",
         "id": 109,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "110",
       "properties": {
         "filterValues": "8L-B3,8",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8L-B3,8",
         "groupId": "110",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3726,19 +3888,20 @@
         "editMode": false,
         "name": "8L-B3,8",
         "id": 110,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "111",
       "properties": {
-        "filterValues": "Опора 08-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "8L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "8L-nakl",
         "groupId": "111",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -3749,18 +3912,19 @@
         "editMode": false,
         "name": "8L-nakl",
         "id": 111,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "112",
       "properties": {
         "filterValues": "8L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "8L-R_support",
         "groupId": "112",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3772,18 +3936,19 @@
         "editMode": false,
         "name": "8L-R_support",
         "id": 112,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "113",
       "properties": {
         "filterValues": "8L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "8L-L_support",
         "groupId": "113",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3795,18 +3960,19 @@
         "editMode": false,
         "name": "8L-L_support",
         "id": 113,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "17",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "8R",
         "groupId": "17",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "8R.zip",
@@ -3818,18 +3984,19 @@
         "editMode": false,
         "name": "Опора 08-П",
         "id": 17,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "210",
       "properties": {
         "filterValues": "8R3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8R3",
         "groupId": "210",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3841,18 +4008,19 @@
         "editMode": false,
         "name": "8R3",
         "id": 210,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "211",
       "properties": {
         "filterValues": "8R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8R4",
         "groupId": "211",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3864,18 +4032,19 @@
         "editMode": false,
         "name": "8R4",
         "id": 211,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "212",
       "properties": {
         "filterValues": "8R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8R6",
         "groupId": "212",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3887,18 +4056,19 @@
         "editMode": false,
         "name": "8R6",
         "id": 212,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "213",
       "properties": {
         "filterValues": "8R7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8R7",
         "groupId": "213",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3910,18 +4080,19 @@
         "editMode": false,
         "name": "8R7",
         "id": 213,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "214",
       "properties": {
         "filterValues": "8R-B1,5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8R-B1,5",
         "groupId": "214",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3933,18 +4104,19 @@
         "editMode": false,
         "name": "8R-B1,5",
         "id": 214,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "215",
       "properties": {
         "filterValues": "8R-B1,6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8R-B1,6",
         "groupId": "215",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3956,18 +4128,19 @@
         "editMode": false,
         "name": "8R-B1,6",
         "id": 215,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "216",
       "properties": {
         "filterValues": "8R-B3,9",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "8R-B3,9",
         "groupId": "216",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -3979,19 +4152,20 @@
         "editMode": false,
         "name": "8R-B3,9",
         "id": 216,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "217",
       "properties": {
-        "filterValues": "Опора 08-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "8R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "8R-nakl",
         "groupId": "217",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -4002,18 +4176,19 @@
         "editMode": false,
         "name": "8R-nakl",
         "id": 217,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "218",
       "properties": {
         "filterValues": "8R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "8R-R_support",
         "groupId": "218",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4025,18 +4200,19 @@
         "editMode": false,
         "name": "8R-R_support",
         "id": 218,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "219",
       "properties": {
         "filterValues": "8R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "8R-L_support",
         "groupId": "219",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4048,18 +4224,19 @@
         "editMode": false,
         "name": "8R-L_support",
         "id": 219,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "18",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "9L",
         "groupId": "18",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "9L.zip",
@@ -4071,18 +4248,19 @@
         "editMode": false,
         "name": "Опора 09-Л",
         "id": 18,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "114",
       "properties": {
         "filterValues": "9L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9L3",
         "groupId": "114",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4094,18 +4272,19 @@
         "editMode": false,
         "name": "9L3",
         "id": 114,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "115",
       "properties": {
         "filterValues": "9L5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9L5",
         "groupId": "115",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4117,18 +4296,19 @@
         "editMode": false,
         "name": "9L5",
         "id": 115,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "116",
       "properties": {
         "filterValues": "9L6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9L6",
         "groupId": "116",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4140,18 +4320,19 @@
         "editMode": false,
         "name": "9L6",
         "id": 116,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "117",
       "properties": {
         "filterValues": "9L7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9L7",
         "groupId": "117",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4163,18 +4344,19 @@
         "editMode": false,
         "name": "9L7",
         "id": 117,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "118",
       "properties": {
         "filterValues": "9L-B1,2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9L-B1,2",
         "groupId": "118",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4186,18 +4368,19 @@
         "editMode": false,
         "name": "9L-B1,2",
         "id": 118,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "119",
       "properties": {
         "filterValues": "9L-B2,2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9L-B2,2",
         "groupId": "119",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4209,18 +4392,19 @@
         "editMode": false,
         "name": "9L-B2,2",
         "id": 119,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "120",
       "properties": {
         "filterValues": "9L-B3,6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9L-B3,6",
         "groupId": "120",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4232,19 +4416,20 @@
         "editMode": false,
         "name": "9L-B3,6",
         "id": 120,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "121",
       "properties": {
-        "filterValues": "Опора 09-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "9L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "9L-nakl",
         "groupId": "121",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -4255,18 +4440,19 @@
         "editMode": false,
         "name": "9L-nakl",
         "id": 121,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "19",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "9R",
         "groupId": "19",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "9R.zip",
@@ -4278,18 +4464,19 @@
         "editMode": false,
         "name": "Опора 09-П",
         "id": 19,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "220",
       "properties": {
         "filterValues": "9R3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9R3",
         "groupId": "220",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4301,18 +4488,19 @@
         "editMode": false,
         "name": "9R3",
         "id": 220,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "221",
       "properties": {
         "filterValues": "9R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9R4",
         "groupId": "221",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4324,18 +4512,19 @@
         "editMode": false,
         "name": "9R4",
         "id": 221,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "222",
       "properties": {
         "filterValues": "9R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9R6",
         "groupId": "222",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4347,18 +4536,19 @@
         "editMode": false,
         "name": "9R6",
         "id": 222,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "223",
       "properties": {
         "filterValues": "9R7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9R7",
         "groupId": "223",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4370,18 +4560,19 @@
         "editMode": false,
         "name": "9R7",
         "id": 223,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "224",
       "properties": {
         "filterValues": "9R-B1,3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9R-B1,3",
         "groupId": "224",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4393,18 +4584,19 @@
         "editMode": false,
         "name": "9R-B1,3",
         "id": 224,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "225",
       "properties": {
         "filterValues": "9R-B2,3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9R-B2,3",
         "groupId": "225",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4416,18 +4608,19 @@
         "editMode": false,
         "name": "9R-B2,3",
         "id": 225,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "226",
       "properties": {
         "filterValues": "9R-B3,7",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "9R-B3,7",
         "groupId": "226",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4439,19 +4632,20 @@
         "editMode": false,
         "name": "9R-B3,7",
         "id": 226,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "227",
       "properties": {
-        "filterValues": "Опора 09-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "9R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "9R-nakl",
         "groupId": "227",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -4462,18 +4656,19 @@
         "editMode": false,
         "name": "9R-nakl",
         "id": 227,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "20",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "10L",
         "groupId": "20",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "10L.zip",
@@ -4485,18 +4680,19 @@
         "editMode": false,
         "name": "Опора 10-Л",
         "id": 20,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "122",
       "properties": {
         "filterValues": "10L5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10L5",
         "groupId": "122",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4508,18 +4704,19 @@
         "editMode": false,
         "name": "10L5",
         "id": 122,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "123",
       "properties": {
         "filterValues": "10L6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10L6",
         "groupId": "123",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4531,18 +4728,19 @@
         "editMode": false,
         "name": "10L6",
         "id": 123,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "124",
       "properties": {
         "filterValues": "10L9",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10L9",
         "groupId": "124",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4554,18 +4752,19 @@
         "editMode": false,
         "name": "10L9",
         "id": 124,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "125",
       "properties": {
         "filterValues": "10L10",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10L10",
         "groupId": "125",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4577,18 +4776,19 @@
         "editMode": false,
         "name": "10L10",
         "id": 125,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "126",
       "properties": {
         "filterValues": "10L-B3,3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10L-B3,3",
         "groupId": "126",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4600,18 +4800,19 @@
         "editMode": false,
         "name": "10L-B3,3",
         "id": 126,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "127",
       "properties": {
         "filterValues": "10L-B3,4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10L-B3,4",
         "groupId": "127",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4623,19 +4824,20 @@
         "editMode": false,
         "name": "10L-B3,4",
         "id": 127,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "128",
       "properties": {
-        "filterValues": "Опора 10-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "10L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "10L-nakl",
         "groupId": "128",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -4646,18 +4848,19 @@
         "editMode": false,
         "name": "10L-nakl",
         "id": 128,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "129",
       "properties": {
         "filterValues": "10L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "10L-R_support",
         "groupId": "129",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4669,18 +4872,19 @@
         "editMode": false,
         "name": "10L-R_support",
         "id": 129,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "130",
       "properties": {
         "filterValues": "10L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "10L-L_support",
         "groupId": "130",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4692,18 +4896,19 @@
         "editMode": false,
         "name": "10L-L_support",
         "id": 130,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "21",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "10R",
         "groupId": "21",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "10R.zip",
@@ -4715,18 +4920,19 @@
         "editMode": false,
         "name": "Опора 10-П",
         "id": 21,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "228",
       "properties": {
         "filterValues": "10R1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10R1",
         "groupId": "228",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4738,18 +4944,19 @@
         "editMode": false,
         "name": "10R1",
         "id": 228,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "229",
       "properties": {
         "filterValues": "10R2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10R2",
         "groupId": "229",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4761,18 +4968,19 @@
         "editMode": false,
         "name": "10R2",
         "id": 229,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "230",
       "properties": {
         "filterValues": "10R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10R5",
         "groupId": "230",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4784,18 +4992,19 @@
         "editMode": false,
         "name": "10R5",
         "id": 230,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "231",
       "properties": {
         "filterValues": "10R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10R6",
         "groupId": "231",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4807,18 +5016,19 @@
         "editMode": false,
         "name": "10R6",
         "id": 231,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "232",
       "properties": {
         "filterValues": "10R-B1,1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10R-B1,1",
         "groupId": "232",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4830,18 +5040,19 @@
         "editMode": false,
         "name": "10R-B1,1",
         "id": 232,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "233",
       "properties": {
         "filterValues": "10R-B2,1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10R-B2,1",
         "groupId": "233",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4853,18 +5064,19 @@
         "editMode": false,
         "name": "10R-B2,1",
         "id": 233,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "234",
       "properties": {
         "filterValues": "10R-B3,5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "10R-B3,5",
         "groupId": "234",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4876,19 +5088,20 @@
         "editMode": false,
         "name": "10R-B3,5",
         "id": 234,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "235",
       "properties": {
-        "filterValues": "Опора 10-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "10R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "10R-nakl",
         "groupId": "235",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -4899,18 +5112,19 @@
         "editMode": false,
         "name": "10R-nakl",
         "id": 235,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "236",
       "properties": {
         "filterValues": "10R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "10R-R_support",
         "groupId": "236",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4922,18 +5136,19 @@
         "editMode": false,
         "name": "10R-R_support",
         "id": 236,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "237",
       "properties": {
         "filterValues": "10R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "10R-L_support",
         "groupId": "237",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4945,18 +5160,19 @@
         "editMode": false,
         "name": "10R-L_support",
         "id": 237,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "22",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "11L",
         "groupId": "22",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "11L.zip",
@@ -4968,18 +5184,19 @@
         "editMode": false,
         "name": "Опора 11-Л",
         "id": 22,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "131",
       "properties": {
         "filterValues": "11L1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11L1",
         "groupId": "131",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -4991,18 +5208,19 @@
         "editMode": false,
         "name": "11L1",
         "id": 131,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "132",
       "properties": {
         "filterValues": "11L3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11L3",
         "groupId": "132",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5014,18 +5232,19 @@
         "editMode": false,
         "name": "11L3",
         "id": 132,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "133",
       "properties": {
         "filterValues": "11L4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11L4",
         "groupId": "133",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5037,18 +5256,19 @@
         "editMode": false,
         "name": "11L4",
         "id": 133,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "134",
       "properties": {
         "filterValues": "11L5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11L5",
         "groupId": "134",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5060,18 +5280,19 @@
         "editMode": false,
         "name": "11L5",
         "id": 134,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "135",
       "properties": {
         "filterValues": "11L-B4,2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11L-B4,2",
         "groupId": "135",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5083,18 +5304,19 @@
         "editMode": false,
         "name": "11L-B4,2",
         "id": 135,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "136",
       "properties": {
         "filterValues": "11L-B5,1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11L-B5,1",
         "groupId": "136",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5106,18 +5328,19 @@
         "editMode": false,
         "name": "11L-B5,1",
         "id": 136,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "137",
       "properties": {
         "filterValues": "11L-B5,2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11L-B5,2",
         "groupId": "137",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5129,19 +5352,20 @@
         "editMode": false,
         "name": "11L-B5,2",
         "id": 137,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "138",
       "properties": {
-        "filterValues": "Опора 11-Л",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "11L-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "11L-nakl",
         "groupId": "138",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -5152,18 +5376,19 @@
         "editMode": false,
         "name": "11L-nakl",
         "id": 138,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "139",
       "properties": {
         "filterValues": "11L-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "11L-R_support",
         "groupId": "139",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5175,18 +5400,19 @@
         "editMode": false,
         "name": "11L-R_support",
         "id": 139,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "140",
       "properties": {
         "filterValues": "11L-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "11L-L_support",
         "groupId": "140",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5198,18 +5424,19 @@
         "editMode": false,
         "name": "11L-L_support",
         "id": 140,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "23",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "11R",
         "groupId": "23",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "11R.zip",
@@ -5221,18 +5448,19 @@
         "editMode": false,
         "name": "Опора 11-П",
         "id": 23,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "238",
       "properties": {
         "filterValues": "11R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11R5",
         "groupId": "238",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5244,18 +5472,19 @@
         "editMode": false,
         "name": "11R5",
         "id": 238,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "239",
       "properties": {
         "filterValues": "11R6",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11R6",
         "groupId": "239",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5267,18 +5496,19 @@
         "editMode": false,
         "name": "11R6",
         "id": 239,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "240",
       "properties": {
         "filterValues": "11R10",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11R10",
         "groupId": "240",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5290,18 +5520,19 @@
         "editMode": false,
         "name": "11R10",
         "id": 240,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "241",
       "properties": {
         "filterValues": "11R11",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11R11",
         "groupId": "241",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5313,18 +5544,19 @@
         "editMode": false,
         "name": "11R11",
         "id": 241,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "242",
       "properties": {
         "filterValues": "11R-B3,1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11R-B3,1",
         "groupId": "242",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5336,18 +5568,19 @@
         "editMode": false,
         "name": "11R-B3,1",
         "id": 242,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "243",
       "properties": {
         "filterValues": "11R-B3,2",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "11R-B3,2",
         "groupId": "243",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5359,19 +5592,20 @@
         "editMode": false,
         "name": "11R-B3,2",
         "id": 243,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "244",
       "properties": {
-        "filterValues": "Опора 11-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "11R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "11R-nakl",
         "groupId": "244",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -5382,18 +5616,19 @@
         "editMode": false,
         "name": "11R-nakl",
         "id": 244,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "245",
       "properties": {
         "filterValues": "11R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "11R-R_support",
         "groupId": "245",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5405,18 +5640,19 @@
         "editMode": false,
         "name": "11R-R_support",
         "id": 245,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "246",
       "properties": {
         "filterValues": "11R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "11R-L_support",
         "groupId": "246",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5428,18 +5664,19 @@
         "editMode": false,
         "name": "11R-L_support",
         "id": 246,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "25",
       "properties": {
         "filterValues": "",
-        "repoId": "repo.obj_state_latest",
+        "repoId": "journal.objs.states",
         "code": "12R",
         "groupId": "25",
         "type": "",
         "schemeNodeId": "e751df2a-object-element",
+        "viewCode": "latest",
         "filter": "",
         "sys_id": 7,
         "viewerModel": "12R.zip",
@@ -5451,18 +5688,19 @@
         "editMode": false,
         "name": "Опора 12-П",
         "id": 25,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "247",
       "properties": {
         "filterValues": "12R3",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "12R3",
         "groupId": "247",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5474,18 +5712,19 @@
         "editMode": false,
         "name": "12R3",
         "id": 247,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "248",
       "properties": {
         "filterValues": "12R4",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "12R4",
         "groupId": "248",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5497,18 +5736,19 @@
         "editMode": false,
         "name": "12R4",
         "id": 248,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "249",
       "properties": {
         "filterValues": "12R5",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "12R5",
         "groupId": "249",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5520,18 +5760,19 @@
         "editMode": false,
         "name": "12R5",
         "id": 249,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "250",
       "properties": {
         "filterValues": "12R9",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "12R9",
         "groupId": "250",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5543,18 +5784,19 @@
         "editMode": false,
         "name": "12R9",
         "id": 250,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "251",
       "properties": {
         "filterValues": "12R-B4,1",
-        "repoId": "repo.mark.geo.data",
+        "repoId": "journal.geo.data.norm",
         "code": "12R-B4,1",
         "groupId": "251",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5566,19 +5808,20 @@
         "editMode": false,
         "name": "12R-B4,1",
         "id": 251,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "252",
       "properties": {
-        "filterValues": "Опора 12-П",
-        "repoId": "repo.mark.nakl.data",
+        "filterValues": "12R-nakl",
+        "repoId": "journal.nakl.data.norm",
         "code": "12R-nakl",
         "groupId": "252",
         "type": "nakl",
         "schemeNodeId": "e751df2a-object-element-sensor",
-        "filter": "replacement",
+        "viewCode": "",
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
         "defaultView": "",
@@ -5589,18 +5832,19 @@
         "editMode": false,
         "name": "12R-nakl",
         "id": 252,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "253",
       "properties": {
         "filterValues": "12R-R_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "12R-R_support",
         "groupId": "253",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5612,18 +5856,19 @@
         "editMode": false,
         "name": "12R-R_support",
         "id": 253,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "254",
       "properties": {
         "filterValues": "12R-L_support",
-        "repoId": "repo.mark.geo.data.support",
+        "repoId": "journal.geo.support.data.norm",
         "code": "12R-L_support",
         "groupId": "254",
         "type": "support",
         "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "filter": "pointId",
         "sys_id": 8,
         "viewerModel": "",
@@ -5635,7 +5880,7 @@
         "editMode": false,
         "name": "12R-L_support",
         "id": 254,
-        "indicatorsRepoId": "repo.indicators.latest.state"
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     }
   ],
