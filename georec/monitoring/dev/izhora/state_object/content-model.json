@@ -79,7 +79,7 @@
       "id": "26",
       "properties": {
         "filterValues": "1L2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1L2",
         "groupId": "26",
         "type": "geo",
@@ -103,7 +103,7 @@
       "id": "27",
       "properties": {
         "filterValues": "1L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1L3",
         "groupId": "27",
         "type": "geo",
@@ -127,7 +127,7 @@
       "id": "28",
       "properties": {
         "filterValues": "1L5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1L5",
         "groupId": "28",
         "type": "geo",
@@ -151,7 +151,7 @@
       "id": "29",
       "properties": {
         "filterValues": "1L6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1L6",
         "groupId": "29",
         "type": "geo",
@@ -175,7 +175,7 @@
       "id": "30",
       "properties": {
         "filterValues": "1L-B4,4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1L-B4,4",
         "groupId": "30",
         "type": "geo",
@@ -199,7 +199,7 @@
       "id": "31",
       "properties": {
         "filterValues": "1L-B5,4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1L-B5,4",
         "groupId": "31",
         "type": "geo",
@@ -247,7 +247,7 @@
       "id": "33",
       "properties": {
         "filterValues": "1L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "1L-R_support",
         "groupId": "33",
         "type": "support",
@@ -271,7 +271,7 @@
       "id": "34",
       "properties": {
         "filterValues": "1L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "1L-L_support",
         "groupId": "34",
         "type": "support",
@@ -319,7 +319,7 @@
       "id": "141",
       "properties": {
         "filterValues": "1R1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1R1",
         "groupId": "141",
         "type": "geo",
@@ -343,7 +343,7 @@
       "id": "142",
       "properties": {
         "filterValues": "1R2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1R2",
         "groupId": "142",
         "type": "geo",
@@ -367,7 +367,7 @@
       "id": "143",
       "properties": {
         "filterValues": "1R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1R5",
         "groupId": "143",
         "type": "geo",
@@ -391,7 +391,7 @@
       "id": "144",
       "properties": {
         "filterValues": "1R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1R6",
         "groupId": "144",
         "type": "geo",
@@ -415,7 +415,7 @@
       "id": "145",
       "properties": {
         "filterValues": "1R-B4,3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1R-B4,3",
         "groupId": "145",
         "type": "geo",
@@ -439,7 +439,7 @@
       "id": "146",
       "properties": {
         "filterValues": "1R-B5,3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "1R-B5,3",
         "groupId": "146",
         "type": "geo",
@@ -487,7 +487,7 @@
       "id": "148",
       "properties": {
         "filterValues": "1R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "1R-R_support",
         "groupId": "148",
         "type": "support",
@@ -511,7 +511,7 @@
       "id": "149",
       "properties": {
         "filterValues": "1R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "1R-L_support",
         "groupId": "149",
         "type": "support",
@@ -559,7 +559,7 @@
       "id": "44",
       "properties": {
         "filterValues": "2L1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2L1",
         "groupId": "44",
         "type": "geo",
@@ -583,7 +583,7 @@
       "id": "45",
       "properties": {
         "filterValues": "2L2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2L2",
         "groupId": "45",
         "type": "geo",
@@ -607,7 +607,7 @@
       "id": "46",
       "properties": {
         "filterValues": "2L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2L3",
         "groupId": "46",
         "type": "geo",
@@ -631,7 +631,7 @@
       "id": "47",
       "properties": {
         "filterValues": "2L4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2L4",
         "groupId": "47",
         "type": "geo",
@@ -655,7 +655,7 @@
       "id": "48",
       "properties": {
         "filterValues": "2L5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2L5",
         "groupId": "48",
         "type": "geo",
@@ -679,7 +679,7 @@
       "id": "49",
       "properties": {
         "filterValues": "2L-B3,22",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2L-B3,22",
         "groupId": "49",
         "type": "geo",
@@ -703,7 +703,7 @@
       "id": "50",
       "properties": {
         "filterValues": "2L-B3,23",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2L-B3,23",
         "groupId": "50",
         "type": "geo",
@@ -751,7 +751,7 @@
       "id": "52",
       "properties": {
         "filterValues": "2L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "2L-R_support",
         "groupId": "52",
         "type": "support",
@@ -775,7 +775,7 @@
       "id": "53",
       "properties": {
         "filterValues": "2L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "2L-L_support",
         "groupId": "53",
         "type": "support",
@@ -823,7 +823,7 @@
       "id": "150",
       "properties": {
         "filterValues": "2R1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2R1",
         "groupId": "150",
         "type": "geo",
@@ -847,7 +847,7 @@
       "id": "151",
       "properties": {
         "filterValues": "2R2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2R2",
         "groupId": "151",
         "type": "geo",
@@ -871,7 +871,7 @@
       "id": "152",
       "properties": {
         "filterValues": "2R3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2R3",
         "groupId": "152",
         "type": "geo",
@@ -895,7 +895,7 @@
       "id": "153",
       "properties": {
         "filterValues": "2R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2R4",
         "groupId": "153",
         "type": "geo",
@@ -919,7 +919,7 @@
       "id": "154",
       "properties": {
         "filterValues": "2R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2R5",
         "groupId": "154",
         "type": "geo",
@@ -943,7 +943,7 @@
       "id": "155",
       "properties": {
         "filterValues": "2R-B3,20",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2R-B3,20",
         "groupId": "155",
         "type": "geo",
@@ -967,7 +967,7 @@
       "id": "156",
       "properties": {
         "filterValues": "2R-B3,21",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "2R-B3,21",
         "groupId": "156",
         "type": "geo",
@@ -1015,7 +1015,7 @@
       "id": "158",
       "properties": {
         "filterValues": "2R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "2R-R_support",
         "groupId": "158",
         "type": "support",
@@ -1039,7 +1039,7 @@
       "id": "159",
       "properties": {
         "filterValues": "2R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "2R-L_support",
         "groupId": "159",
         "type": "support",
@@ -1087,7 +1087,7 @@
       "id": "54",
       "properties": {
         "filterValues": "3L1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3L1",
         "groupId": "54",
         "type": "geo",
@@ -1111,7 +1111,7 @@
       "id": "55",
       "properties": {
         "filterValues": "3L2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3L2",
         "groupId": "55",
         "type": "geo",
@@ -1135,7 +1135,7 @@
       "id": "56",
       "properties": {
         "filterValues": "3L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3L3",
         "groupId": "56",
         "type": "geo",
@@ -1159,7 +1159,7 @@
       "id": "57",
       "properties": {
         "filterValues": "3L4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3L4",
         "groupId": "57",
         "type": "geo",
@@ -1183,7 +1183,7 @@
       "id": "58",
       "properties": {
         "filterValues": "3L-B1,22",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3L-B1,22",
         "groupId": "58",
         "type": "geo",
@@ -1207,7 +1207,7 @@
       "id": "59",
       "properties": {
         "filterValues": "3L-B2,8",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3L-B2,8",
         "groupId": "59",
         "type": "geo",
@@ -1231,7 +1231,7 @@
       "id": "60",
       "properties": {
         "filterValues": "3L-B3,19",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3L-B3,19",
         "groupId": "60",
         "type": "geo",
@@ -1279,7 +1279,7 @@
       "id": "62",
       "properties": {
         "filterValues": "3L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "3L-R_support",
         "groupId": "62",
         "type": "support",
@@ -1303,7 +1303,7 @@
       "id": "63",
       "properties": {
         "filterValues": "3L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "3L-L_support",
         "groupId": "63",
         "type": "support",
@@ -1351,7 +1351,7 @@
       "id": "160",
       "properties": {
         "filterValues": "3R1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3R1",
         "groupId": "160",
         "type": "geo",
@@ -1375,7 +1375,7 @@
       "id": "161",
       "properties": {
         "filterValues": "3R2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3R2",
         "groupId": "161",
         "type": "geo",
@@ -1399,7 +1399,7 @@
       "id": "162",
       "properties": {
         "filterValues": "3R3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3R3",
         "groupId": "162",
         "type": "geo",
@@ -1423,7 +1423,7 @@
       "id": "163",
       "properties": {
         "filterValues": "3R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3R4",
         "groupId": "163",
         "type": "geo",
@@ -1447,7 +1447,7 @@
       "id": "164",
       "properties": {
         "filterValues": "3R-B1,21",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3R-B1,21",
         "groupId": "164",
         "type": "geo",
@@ -1471,7 +1471,7 @@
       "id": "165",
       "properties": {
         "filterValues": "3R-B2,7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3R-B2,7",
         "groupId": "165",
         "type": "geo",
@@ -1495,7 +1495,7 @@
       "id": "166",
       "properties": {
         "filterValues": "3R-B3,18",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "3R-B3,18",
         "groupId": "166",
         "type": "geo",
@@ -1543,7 +1543,7 @@
       "id": "168",
       "properties": {
         "filterValues": "3R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "3R-R_support",
         "groupId": "168",
         "type": "support",
@@ -1567,7 +1567,7 @@
       "id": "169",
       "properties": {
         "filterValues": "3R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "3R-L_support",
         "groupId": "169",
         "type": "support",
@@ -1615,7 +1615,7 @@
       "id": "64",
       "properties": {
         "filterValues": "4L1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4L1",
         "groupId": "64",
         "type": "geo",
@@ -1639,7 +1639,7 @@
       "id": "65",
       "properties": {
         "filterValues": "4L2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4L2",
         "groupId": "65",
         "type": "geo",
@@ -1663,7 +1663,7 @@
       "id": "66",
       "properties": {
         "filterValues": "4L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4L3",
         "groupId": "66",
         "type": "geo",
@@ -1687,7 +1687,7 @@
       "id": "67",
       "properties": {
         "filterValues": "4L4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4L4",
         "groupId": "67",
         "type": "geo",
@@ -1711,7 +1711,7 @@
       "id": "68",
       "properties": {
         "filterValues": "4L-B1,20",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4L-B1,20",
         "groupId": "68",
         "type": "geo",
@@ -1735,7 +1735,7 @@
       "id": "69",
       "properties": {
         "filterValues": "4L-B2,6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4L-B2,6",
         "groupId": "69",
         "type": "geo",
@@ -1759,7 +1759,7 @@
       "id": "70",
       "properties": {
         "filterValues": "4L-B3,17",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4L-B3,17",
         "groupId": "70",
         "type": "geo",
@@ -1831,7 +1831,7 @@
       "id": "170",
       "properties": {
         "filterValues": "4R3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4R3",
         "groupId": "170",
         "type": "geo",
@@ -1855,7 +1855,7 @@
       "id": "171",
       "properties": {
         "filterValues": "4R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4R4",
         "groupId": "171",
         "type": "geo",
@@ -1879,7 +1879,7 @@
       "id": "172",
       "properties": {
         "filterValues": "4R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4R5",
         "groupId": "172",
         "type": "geo",
@@ -1903,7 +1903,7 @@
       "id": "173",
       "properties": {
         "filterValues": "4R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4R6",
         "groupId": "173",
         "type": "geo",
@@ -1927,7 +1927,7 @@
       "id": "174",
       "properties": {
         "filterValues": "4R-B1,19",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4R-B1,19",
         "groupId": "174",
         "type": "geo",
@@ -1951,7 +1951,7 @@
       "id": "175",
       "properties": {
         "filterValues": "4R-B2,5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4R-B2,5",
         "groupId": "175",
         "type": "geo",
@@ -1975,7 +1975,7 @@
       "id": "176",
       "properties": {
         "filterValues": "4R-B3,16",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "4R-B3,16",
         "groupId": "176",
         "type": "geo",
@@ -2047,7 +2047,7 @@
       "id": "72",
       "properties": {
         "filterValues": "5L5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5L5",
         "groupId": "72",
         "type": "geo",
@@ -2071,7 +2071,7 @@
       "id": "73",
       "properties": {
         "filterValues": "5L6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5L6",
         "groupId": "73",
         "type": "geo",
@@ -2095,7 +2095,7 @@
       "id": "74",
       "properties": {
         "filterValues": "5L8",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5L8",
         "groupId": "74",
         "type": "geo",
@@ -2119,7 +2119,7 @@
       "id": "75",
       "properties": {
         "filterValues": "5L9",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5L9",
         "groupId": "75",
         "type": "geo",
@@ -2143,7 +2143,7 @@
       "id": "76",
       "properties": {
         "filterValues": "5L-B1,17",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5L-B1,17",
         "groupId": "76",
         "type": "geo",
@@ -2167,7 +2167,7 @@
       "id": "77",
       "properties": {
         "filterValues": "5L-B1,18",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5L-B1,18",
         "groupId": "77",
         "type": "geo",
@@ -2191,7 +2191,7 @@
       "id": "78",
       "properties": {
         "filterValues": "5L-B3,15",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5L-B3,15",
         "groupId": "78",
         "type": "geo",
@@ -2239,7 +2239,7 @@
       "id": "80",
       "properties": {
         "filterValues": "5L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "5L-R_support",
         "groupId": "80",
         "type": "support",
@@ -2263,7 +2263,7 @@
       "id": "81",
       "properties": {
         "filterValues": "5L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "5L-L_support",
         "groupId": "81",
         "type": "support",
@@ -2311,7 +2311,7 @@
       "id": "178",
       "properties": {
         "filterValues": "5R3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5R3",
         "groupId": "178",
         "type": "geo",
@@ -2335,7 +2335,7 @@
       "id": "179",
       "properties": {
         "filterValues": "5R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5R4",
         "groupId": "179",
         "type": "geo",
@@ -2359,7 +2359,7 @@
       "id": "180",
       "properties": {
         "filterValues": "5R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5R5",
         "groupId": "180",
         "type": "geo",
@@ -2383,7 +2383,7 @@
       "id": "181",
       "properties": {
         "filterValues": "5R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5R6",
         "groupId": "181",
         "type": "geo",
@@ -2407,7 +2407,7 @@
       "id": "182",
       "properties": {
         "filterValues": "5R-B1,15",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5R-B1,15",
         "groupId": "182",
         "type": "geo",
@@ -2431,7 +2431,7 @@
       "id": "183",
       "properties": {
         "filterValues": "5R-B1,16",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5R-B1,16",
         "groupId": "183",
         "type": "geo",
@@ -2455,7 +2455,7 @@
       "id": "184",
       "properties": {
         "filterValues": "5R-B3,14",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "5R-B3,14",
         "groupId": "184",
         "type": "geo",
@@ -2503,7 +2503,7 @@
       "id": "186",
       "properties": {
         "filterValues": "5R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "5R-R_support",
         "groupId": "186",
         "type": "support",
@@ -2527,7 +2527,7 @@
       "id": "187",
       "properties": {
         "filterValues": "5R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "5R-L_support",
         "groupId": "187",
         "type": "support",
@@ -2575,7 +2575,7 @@
       "id": "82",
       "properties": {
         "filterValues": "6L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6L3",
         "groupId": "82",
         "type": "geo",
@@ -2599,7 +2599,7 @@
       "id": "83",
       "properties": {
         "filterValues": "6L4A",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6L4A",
         "groupId": "83",
         "type": "geo",
@@ -2623,7 +2623,7 @@
       "id": "84",
       "properties": {
         "filterValues": "6L5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6L5",
         "groupId": "84",
         "type": "geo",
@@ -2647,7 +2647,7 @@
       "id": "85",
       "properties": {
         "filterValues": "6L6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6L6",
         "groupId": "85",
         "type": "geo",
@@ -2671,7 +2671,7 @@
       "id": "86",
       "properties": {
         "filterValues": "6L-B1,11",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6L-B1,11",
         "groupId": "86",
         "type": "geo",
@@ -2695,7 +2695,7 @@
       "id": "87",
       "properties": {
         "filterValues": "6L-B1,12",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6L-B1,12",
         "groupId": "87",
         "type": "geo",
@@ -2719,7 +2719,7 @@
       "id": "88",
       "properties": {
         "filterValues": "6L-B3,12",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6L-B3,12",
         "groupId": "88",
         "type": "geo",
@@ -2767,7 +2767,7 @@
       "id": "90",
       "properties": {
         "filterValues": "6L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "6L-R_support",
         "groupId": "90",
         "type": "support",
@@ -2791,7 +2791,7 @@
       "id": "91",
       "properties": {
         "filterValues": "6L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "6L-L_support",
         "groupId": "91",
         "type": "support",
@@ -2839,7 +2839,7 @@
       "id": "188",
       "properties": {
         "filterValues": "6R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6R5",
         "groupId": "188",
         "type": "geo",
@@ -2863,7 +2863,7 @@
       "id": "189",
       "properties": {
         "filterValues": "6R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6R6",
         "groupId": "189",
         "type": "geo",
@@ -2887,7 +2887,7 @@
       "id": "190",
       "properties": {
         "filterValues": "6R7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6R7",
         "groupId": "190",
         "type": "geo",
@@ -2911,7 +2911,7 @@
       "id": "191",
       "properties": {
         "filterValues": "6R8",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6R8",
         "groupId": "191",
         "type": "geo",
@@ -2935,7 +2935,7 @@
       "id": "192",
       "properties": {
         "filterValues": "6R-B1,13",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6R-B1,13",
         "groupId": "192",
         "type": "geo",
@@ -2959,7 +2959,7 @@
       "id": "193",
       "properties": {
         "filterValues": "6R-B1,14",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6R-B1,14",
         "groupId": "193",
         "type": "geo",
@@ -2983,7 +2983,7 @@
       "id": "194",
       "properties": {
         "filterValues": "6R-B3,14",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "6R-B3,14",
         "groupId": "194",
         "type": "geo",
@@ -3031,7 +3031,7 @@
       "id": "196",
       "properties": {
         "filterValues": "6R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "6R-R_support",
         "groupId": "196",
         "type": "support",
@@ -3055,7 +3055,7 @@
       "id": "197",
       "properties": {
         "filterValues": "6R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "6R-L_support",
         "groupId": "197",
         "type": "support",
@@ -3103,7 +3103,7 @@
       "id": "92",
       "properties": {
         "filterValues": "7L7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7L7",
         "groupId": "92",
         "type": "geo",
@@ -3127,7 +3127,7 @@
       "id": "93",
       "properties": {
         "filterValues": "7L8",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7L8",
         "groupId": "93",
         "type": "geo",
@@ -3151,7 +3151,7 @@
       "id": "94",
       "properties": {
         "filterValues": "7L12",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7L12",
         "groupId": "94",
         "type": "geo",
@@ -3175,7 +3175,7 @@
       "id": "95",
       "properties": {
         "filterValues": "7L13A",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7L13A",
         "groupId": "95",
         "type": "geo",
@@ -3199,7 +3199,7 @@
       "id": "96",
       "properties": {
         "filterValues": "7L-B1,7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7L-B1,7",
         "groupId": "96",
         "type": "geo",
@@ -3223,7 +3223,7 @@
       "id": "97",
       "properties": {
         "filterValues": "7L-B1,8",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7L-B1,8",
         "groupId": "97",
         "type": "geo",
@@ -3247,7 +3247,7 @@
       "id": "98",
       "properties": {
         "filterValues": "7L-B3,10",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7L-B3,10",
         "groupId": "98",
         "type": "geo",
@@ -3295,7 +3295,7 @@
       "id": "100",
       "properties": {
         "filterValues": "7L-R1_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7L-R1_support",
         "groupId": "100",
         "type": "support",
@@ -3319,7 +3319,7 @@
       "id": "101",
       "properties": {
         "filterValues": "7L-L1_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7L-L1_support",
         "groupId": "101",
         "type": "support",
@@ -3343,7 +3343,7 @@
       "id": "102",
       "properties": {
         "filterValues": "7L-R2_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7L-R2_support",
         "groupId": "102",
         "type": "support",
@@ -3367,7 +3367,7 @@
       "id": "103",
       "properties": {
         "filterValues": "7L-L2_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7L-L2_support",
         "groupId": "103",
         "type": "support",
@@ -3415,7 +3415,7 @@
       "id": "198",
       "properties": {
         "filterValues": "7R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7R4",
         "groupId": "198",
         "type": "geo",
@@ -3439,7 +3439,7 @@
       "id": "199",
       "properties": {
         "filterValues": "7R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7R6",
         "groupId": "199",
         "type": "geo",
@@ -3463,7 +3463,7 @@
       "id": "200",
       "properties": {
         "filterValues": "7R7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7R7",
         "groupId": "200",
         "type": "geo",
@@ -3487,7 +3487,7 @@
       "id": "201",
       "properties": {
         "filterValues": "7R8",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7R8",
         "groupId": "201",
         "type": "geo",
@@ -3511,7 +3511,7 @@
       "id": "202",
       "properties": {
         "filterValues": "7R-B1,9",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7R-B1,9",
         "groupId": "202",
         "type": "geo",
@@ -3535,7 +3535,7 @@
       "id": "203",
       "properties": {
         "filterValues": "7R-B1,10",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7R-B1,10",
         "groupId": "203",
         "type": "geo",
@@ -3559,7 +3559,7 @@
       "id": "204",
       "properties": {
         "filterValues": "7R-B3,11",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "7R-B3,11",
         "groupId": "204",
         "type": "geo",
@@ -3607,7 +3607,7 @@
       "id": "206",
       "properties": {
         "filterValues": "7R-R1_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7R-R1_support",
         "groupId": "206",
         "type": "support",
@@ -3631,7 +3631,7 @@
       "id": "207",
       "properties": {
         "filterValues": "7R-L1_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7R-L1_support",
         "groupId": "207",
         "type": "support",
@@ -3655,7 +3655,7 @@
       "id": "208",
       "properties": {
         "filterValues": "7R-R2_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7R-R2_support",
         "groupId": "208",
         "type": "support",
@@ -3679,7 +3679,7 @@
       "id": "209",
       "properties": {
         "filterValues": "7R-L2_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "7R-L2_support",
         "groupId": "209",
         "type": "support",
@@ -3727,7 +3727,7 @@
       "id": "104",
       "properties": {
         "filterValues": "8L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8L3",
         "groupId": "104",
         "type": "geo",
@@ -3751,7 +3751,7 @@
       "id": "105",
       "properties": {
         "filterValues": "8L4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8L4",
         "groupId": "105",
         "type": "geo",
@@ -3775,7 +3775,7 @@
       "id": "106",
       "properties": {
         "filterValues": "8L6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8L6",
         "groupId": "106",
         "type": "geo",
@@ -3799,7 +3799,7 @@
       "id": "107",
       "properties": {
         "filterValues": "8L7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8L7",
         "groupId": "107",
         "type": "geo",
@@ -3823,7 +3823,7 @@
       "id": "108",
       "properties": {
         "filterValues": "8L-B1,4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8L-B1,4",
         "groupId": "108",
         "type": "geo",
@@ -3847,7 +3847,7 @@
       "id": "109",
       "properties": {
         "filterValues": "8L-B2,4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8L-B2,4",
         "groupId": "109",
         "type": "geo",
@@ -3871,7 +3871,7 @@
       "id": "110",
       "properties": {
         "filterValues": "8L-B3,8",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8L-B3,8",
         "groupId": "110",
         "type": "geo",
@@ -3919,7 +3919,7 @@
       "id": "112",
       "properties": {
         "filterValues": "8L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "8L-R_support",
         "groupId": "112",
         "type": "support",
@@ -3943,7 +3943,7 @@
       "id": "113",
       "properties": {
         "filterValues": "8L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "8L-L_support",
         "groupId": "113",
         "type": "support",
@@ -3991,7 +3991,7 @@
       "id": "210",
       "properties": {
         "filterValues": "8R3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8R3",
         "groupId": "210",
         "type": "geo",
@@ -4015,7 +4015,7 @@
       "id": "211",
       "properties": {
         "filterValues": "8R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8R4",
         "groupId": "211",
         "type": "geo",
@@ -4039,7 +4039,7 @@
       "id": "212",
       "properties": {
         "filterValues": "8R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8R6",
         "groupId": "212",
         "type": "geo",
@@ -4063,7 +4063,7 @@
       "id": "213",
       "properties": {
         "filterValues": "8R7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8R7",
         "groupId": "213",
         "type": "geo",
@@ -4087,7 +4087,7 @@
       "id": "214",
       "properties": {
         "filterValues": "8R-B1,5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8R-B1,5",
         "groupId": "214",
         "type": "geo",
@@ -4111,7 +4111,7 @@
       "id": "215",
       "properties": {
         "filterValues": "8R-B1,6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8R-B1,6",
         "groupId": "215",
         "type": "geo",
@@ -4135,7 +4135,7 @@
       "id": "216",
       "properties": {
         "filterValues": "8R-B3,9",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "8R-B3,9",
         "groupId": "216",
         "type": "geo",
@@ -4183,7 +4183,7 @@
       "id": "218",
       "properties": {
         "filterValues": "8R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "8R-R_support",
         "groupId": "218",
         "type": "support",
@@ -4207,7 +4207,7 @@
       "id": "219",
       "properties": {
         "filterValues": "8R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "8R-L_support",
         "groupId": "219",
         "type": "support",
@@ -4255,7 +4255,7 @@
       "id": "114",
       "properties": {
         "filterValues": "9L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9L3",
         "groupId": "114",
         "type": "geo",
@@ -4279,7 +4279,7 @@
       "id": "115",
       "properties": {
         "filterValues": "9L5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9L5",
         "groupId": "115",
         "type": "geo",
@@ -4303,7 +4303,7 @@
       "id": "116",
       "properties": {
         "filterValues": "9L6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9L6",
         "groupId": "116",
         "type": "geo",
@@ -4327,7 +4327,7 @@
       "id": "117",
       "properties": {
         "filterValues": "9L7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9L7",
         "groupId": "117",
         "type": "geo",
@@ -4351,7 +4351,7 @@
       "id": "118",
       "properties": {
         "filterValues": "9L-B1,2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9L-B1,2",
         "groupId": "118",
         "type": "geo",
@@ -4375,7 +4375,7 @@
       "id": "119",
       "properties": {
         "filterValues": "9L-B2,2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9L-B2,2",
         "groupId": "119",
         "type": "geo",
@@ -4399,7 +4399,7 @@
       "id": "120",
       "properties": {
         "filterValues": "9L-B3,6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9L-B3,6",
         "groupId": "120",
         "type": "geo",
@@ -4471,7 +4471,7 @@
       "id": "220",
       "properties": {
         "filterValues": "9R3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9R3",
         "groupId": "220",
         "type": "geo",
@@ -4495,7 +4495,7 @@
       "id": "221",
       "properties": {
         "filterValues": "9R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9R4",
         "groupId": "221",
         "type": "geo",
@@ -4519,7 +4519,7 @@
       "id": "222",
       "properties": {
         "filterValues": "9R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9R6",
         "groupId": "222",
         "type": "geo",
@@ -4543,7 +4543,7 @@
       "id": "223",
       "properties": {
         "filterValues": "9R7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9R7",
         "groupId": "223",
         "type": "geo",
@@ -4567,7 +4567,7 @@
       "id": "224",
       "properties": {
         "filterValues": "9R-B1,3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9R-B1,3",
         "groupId": "224",
         "type": "geo",
@@ -4591,7 +4591,7 @@
       "id": "225",
       "properties": {
         "filterValues": "9R-B2,3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9R-B2,3",
         "groupId": "225",
         "type": "geo",
@@ -4615,7 +4615,7 @@
       "id": "226",
       "properties": {
         "filterValues": "9R-B3,7",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "9R-B3,7",
         "groupId": "226",
         "type": "geo",
@@ -4687,7 +4687,7 @@
       "id": "122",
       "properties": {
         "filterValues": "10L5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10L5",
         "groupId": "122",
         "type": "geo",
@@ -4711,7 +4711,7 @@
       "id": "123",
       "properties": {
         "filterValues": "10L6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10L6",
         "groupId": "123",
         "type": "geo",
@@ -4735,7 +4735,7 @@
       "id": "124",
       "properties": {
         "filterValues": "10L9",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10L9",
         "groupId": "124",
         "type": "geo",
@@ -4759,7 +4759,7 @@
       "id": "125",
       "properties": {
         "filterValues": "10L10",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10L10",
         "groupId": "125",
         "type": "geo",
@@ -4783,7 +4783,7 @@
       "id": "126",
       "properties": {
         "filterValues": "10L-B3,3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10L-B3,3",
         "groupId": "126",
         "type": "geo",
@@ -4807,7 +4807,7 @@
       "id": "127",
       "properties": {
         "filterValues": "10L-B3,4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10L-B3,4",
         "groupId": "127",
         "type": "geo",
@@ -4855,7 +4855,7 @@
       "id": "129",
       "properties": {
         "filterValues": "10L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "10L-R_support",
         "groupId": "129",
         "type": "support",
@@ -4879,7 +4879,7 @@
       "id": "130",
       "properties": {
         "filterValues": "10L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "10L-L_support",
         "groupId": "130",
         "type": "support",
@@ -4927,7 +4927,7 @@
       "id": "228",
       "properties": {
         "filterValues": "10R1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10R1",
         "groupId": "228",
         "type": "geo",
@@ -4951,7 +4951,7 @@
       "id": "229",
       "properties": {
         "filterValues": "10R2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10R2",
         "groupId": "229",
         "type": "geo",
@@ -4975,7 +4975,7 @@
       "id": "230",
       "properties": {
         "filterValues": "10R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10R5",
         "groupId": "230",
         "type": "geo",
@@ -4999,7 +4999,7 @@
       "id": "231",
       "properties": {
         "filterValues": "10R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10R6",
         "groupId": "231",
         "type": "geo",
@@ -5023,7 +5023,7 @@
       "id": "232",
       "properties": {
         "filterValues": "10R-B1,1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10R-B1,1",
         "groupId": "232",
         "type": "geo",
@@ -5047,7 +5047,7 @@
       "id": "233",
       "properties": {
         "filterValues": "10R-B2,1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10R-B2,1",
         "groupId": "233",
         "type": "geo",
@@ -5071,7 +5071,7 @@
       "id": "234",
       "properties": {
         "filterValues": "10R-B3,5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "10R-B3,5",
         "groupId": "234",
         "type": "geo",
@@ -5119,7 +5119,7 @@
       "id": "236",
       "properties": {
         "filterValues": "10R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "10R-R_support",
         "groupId": "236",
         "type": "support",
@@ -5143,7 +5143,7 @@
       "id": "237",
       "properties": {
         "filterValues": "10R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "10R-L_support",
         "groupId": "237",
         "type": "support",
@@ -5191,7 +5191,7 @@
       "id": "131",
       "properties": {
         "filterValues": "11L1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11L1",
         "groupId": "131",
         "type": "geo",
@@ -5215,7 +5215,7 @@
       "id": "132",
       "properties": {
         "filterValues": "11L3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11L3",
         "groupId": "132",
         "type": "geo",
@@ -5239,7 +5239,7 @@
       "id": "133",
       "properties": {
         "filterValues": "11L4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11L4",
         "groupId": "133",
         "type": "geo",
@@ -5263,7 +5263,7 @@
       "id": "134",
       "properties": {
         "filterValues": "11L5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11L5",
         "groupId": "134",
         "type": "geo",
@@ -5287,7 +5287,7 @@
       "id": "135",
       "properties": {
         "filterValues": "11L-B4,2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11L-B4,2",
         "groupId": "135",
         "type": "geo",
@@ -5311,7 +5311,7 @@
       "id": "136",
       "properties": {
         "filterValues": "11L-B5,1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11L-B5,1",
         "groupId": "136",
         "type": "geo",
@@ -5335,7 +5335,7 @@
       "id": "137",
       "properties": {
         "filterValues": "11L-B5,2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11L-B5,2",
         "groupId": "137",
         "type": "geo",
@@ -5383,7 +5383,7 @@
       "id": "139",
       "properties": {
         "filterValues": "11L-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "11L-R_support",
         "groupId": "139",
         "type": "support",
@@ -5407,7 +5407,7 @@
       "id": "140",
       "properties": {
         "filterValues": "11L-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "11L-L_support",
         "groupId": "140",
         "type": "support",
@@ -5455,7 +5455,7 @@
       "id": "238",
       "properties": {
         "filterValues": "11R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11R5",
         "groupId": "238",
         "type": "geo",
@@ -5479,7 +5479,7 @@
       "id": "239",
       "properties": {
         "filterValues": "11R6",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11R6",
         "groupId": "239",
         "type": "geo",
@@ -5503,7 +5503,7 @@
       "id": "240",
       "properties": {
         "filterValues": "11R10",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11R10",
         "groupId": "240",
         "type": "geo",
@@ -5527,7 +5527,7 @@
       "id": "241",
       "properties": {
         "filterValues": "11R11",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11R11",
         "groupId": "241",
         "type": "geo",
@@ -5551,7 +5551,7 @@
       "id": "242",
       "properties": {
         "filterValues": "11R-B3,1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11R-B3,1",
         "groupId": "242",
         "type": "geo",
@@ -5575,7 +5575,7 @@
       "id": "243",
       "properties": {
         "filterValues": "11R-B3,2",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "11R-B3,2",
         "groupId": "243",
         "type": "geo",
@@ -5623,7 +5623,7 @@
       "id": "245",
       "properties": {
         "filterValues": "11R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "11R-R_support",
         "groupId": "245",
         "type": "support",
@@ -5647,7 +5647,7 @@
       "id": "246",
       "properties": {
         "filterValues": "11R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "11R-L_support",
         "groupId": "246",
         "type": "support",
@@ -5695,7 +5695,7 @@
       "id": "247",
       "properties": {
         "filterValues": "12R3",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "12R3",
         "groupId": "247",
         "type": "geo",
@@ -5719,7 +5719,7 @@
       "id": "248",
       "properties": {
         "filterValues": "12R4",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "12R4",
         "groupId": "248",
         "type": "geo",
@@ -5743,7 +5743,7 @@
       "id": "249",
       "properties": {
         "filterValues": "12R5",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "12R5",
         "groupId": "249",
         "type": "geo",
@@ -5767,7 +5767,7 @@
       "id": "250",
       "properties": {
         "filterValues": "12R9",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "12R9",
         "groupId": "250",
         "type": "geo",
@@ -5791,7 +5791,7 @@
       "id": "251",
       "properties": {
         "filterValues": "12R-B4,1",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc",
         "code": "12R-B4,1",
         "groupId": "251",
         "type": "geo",
@@ -5839,7 +5839,7 @@
       "id": "253",
       "properties": {
         "filterValues": "12R-R_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "12R-R_support",
         "groupId": "253",
         "type": "support",
@@ -5863,7 +5863,7 @@
       "id": "254",
       "properties": {
         "filterValues": "12R-L_support",
-        "repoId": "journal.geo.support.data.norm",
+        "repoId": "journal.geo.data.view.norm_and_calc_support",
         "code": "12R-L_support",
         "groupId": "254",
         "type": "support",
