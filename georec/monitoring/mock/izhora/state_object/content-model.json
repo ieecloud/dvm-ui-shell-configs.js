@@ -292,6 +292,54 @@
       }
     },
     {
+      "id": "256",
+      "properties": {
+        "filterValues": "111",
+        "repoId": "journal.voinar.data.view.norm_and_calc",
+        "code": "111",
+        "groupId": "256",
+        "type": "geo",
+        "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
+        "filter": "pointId",
+        "sys_id": 8,
+        "viewerModel": null,
+        "defaultView": null,
+        "indicatorsRepoFilter": "name",
+        "parent_id": 2,
+        "viewer2dModel": null,
+        "indicatorsRepoFilterValues": "111",
+        "editMode": false,
+        "name": "111",
+        "id": 256,
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
+      }
+    },
+    {
+      "id": "257",
+      "properties": {
+        "filterValues": "113",
+        "repoId": "journal.voinar.data.view.norm_and_calc",
+        "code": "113",
+        "groupId": "257",
+        "type": "geo",
+        "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
+        "filter": "pointId",
+        "sys_id": 8,
+        "viewerModel": null,
+        "defaultView": null,
+        "indicatorsRepoFilter": "name",
+        "parent_id": 2,
+        "viewer2dModel": null,
+        "indicatorsRepoFilterValues": "113",
+        "editMode": false,
+        "name": "113",
+        "id": 257,
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
+      }
+    },
+    {
       "id": "3",
       "properties": {
         "filterValues": "",
@@ -5931,6 +5979,14 @@
                   },
                   {
                     "id": "34",
+                    "children": []
+                  },
+                  {
+                    "id": "256",
+                    "children": []
+                  },
+                  {
+                    "id": "257",
                     "children": []
                   }
                 ]
