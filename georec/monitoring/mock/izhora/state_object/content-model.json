@@ -223,7 +223,7 @@
       "id": "32",
       "properties": {
         "filterValues": "1L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "1L-nakl",
         "groupId": "32",
         "type": "nakl",
@@ -511,7 +511,7 @@
       "id": "147",
       "properties": {
         "filterValues": "1R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "1R-nakl",
         "groupId": "147",
         "type": "nakl",
@@ -823,7 +823,7 @@
       "id": "51",
       "properties": {
         "filterValues": "2L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "2L-nakl",
         "groupId": "51",
         "type": "nakl",
@@ -1135,7 +1135,7 @@
       "id": "157",
       "properties": {
         "filterValues": "2R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "2R-nakl",
         "groupId": "157",
         "type": "nakl",
@@ -1447,7 +1447,7 @@
       "id": "61",
       "properties": {
         "filterValues": "3L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "3L-nakl",
         "groupId": "61",
         "type": "nakl",
@@ -1783,7 +1783,7 @@
       "id": "167",
       "properties": {
         "filterValues": "3R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "3R-nakl",
         "groupId": "167",
         "type": "nakl",
@@ -2119,7 +2119,7 @@
       "id": "71",
       "properties": {
         "filterValues": "4L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "4L-nakl",
         "groupId": "71",
         "type": "nakl",
@@ -2407,7 +2407,7 @@
       "id": "177",
       "properties": {
         "filterValues": "4R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "4R-nakl",
         "groupId": "177",
         "type": "nakl",
@@ -2695,7 +2695,7 @@
       "id": "79",
       "properties": {
         "filterValues": "5L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "5L-nakl",
         "groupId": "79",
         "type": "nakl",
@@ -3031,7 +3031,7 @@
       "id": "185",
       "properties": {
         "filterValues": "5R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "5R-nakl",
         "groupId": "185",
         "type": "nakl",
@@ -3367,7 +3367,7 @@
       "id": "89",
       "properties": {
         "filterValues": "6L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "6L-nakl",
         "groupId": "89",
         "type": "nakl",
@@ -3703,7 +3703,7 @@
       "id": "195",
       "properties": {
         "filterValues": "6R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "6R-nakl",
         "groupId": "195",
         "type": "nakl",
@@ -4039,7 +4039,7 @@
       "id": "99",
       "properties": {
         "filterValues": "7L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "7L-nakl",
         "groupId": "99",
         "type": "nakl",
@@ -4423,7 +4423,7 @@
       "id": "205",
       "properties": {
         "filterValues": "7R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "7R-nakl",
         "groupId": "205",
         "type": "nakl",
@@ -4807,7 +4807,7 @@
       "id": "111",
       "properties": {
         "filterValues": "8L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "8L-nakl",
         "groupId": "111",
         "type": "nakl",
@@ -5143,7 +5143,7 @@
       "id": "217",
       "properties": {
         "filterValues": "8R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "8R-nakl",
         "groupId": "217",
         "type": "nakl",
@@ -5479,7 +5479,7 @@
       "id": "121",
       "properties": {
         "filterValues": "9L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "9L-nakl",
         "groupId": "121",
         "type": "nakl",
@@ -5767,7 +5767,7 @@
       "id": "227",
       "properties": {
         "filterValues": "9R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "9R-nakl",
         "groupId": "227",
         "type": "nakl",
@@ -6031,7 +6031,7 @@
       "id": "128",
       "properties": {
         "filterValues": "10L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "10L-nakl",
         "groupId": "128",
         "type": "nakl",
@@ -6343,7 +6343,7 @@
       "id": "235",
       "properties": {
         "filterValues": "10R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "10R-nakl",
         "groupId": "235",
         "type": "nakl",
@@ -6679,7 +6679,7 @@
       "id": "138",
       "properties": {
         "filterValues": "11L-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "11L-nakl",
         "groupId": "138",
         "type": "nakl",
@@ -6967,7 +6967,7 @@
       "id": "244",
       "properties": {
         "filterValues": "11R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "11R-nakl",
         "groupId": "244",
         "type": "nakl",
@@ -7231,7 +7231,7 @@
       "id": "252",
       "properties": {
         "filterValues": "12R-nakl",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "journal.nakl.data.view.norm_and_calc",
         "code": "12R-nakl",
         "groupId": "252",
         "type": "nakl",
