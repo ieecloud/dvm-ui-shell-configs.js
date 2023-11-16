@@ -284,86 +284,6 @@
       }
     },
     {
-      "id": "30",
-      "properties": {
-        "filterValues": "1L-B4,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "1L-B4,4",
-        "groupId": "30",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 2,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1L-B4,4",
-        "editMode": false,
-        "name": "1L-B4,4",
-        "id": 30,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "31",
-      "properties": {
-        "filterValues": "1L-B5,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "1L-B5,4",
-        "groupId": "31",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 2,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1L-B5,4",
-        "editMode": false,
-        "name": "1L-B5,4",
-        "id": 31,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "32",
       "properties": {
         "filterValues": "1L-nakl",
@@ -760,86 +680,6 @@
         "editMode": false,
         "name": "1R6",
         "id": 144,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "145",
-      "properties": {
-        "filterValues": "1R-B4,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "1R-B4,3",
-        "groupId": "145",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 3,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1R-B4,3",
-        "editMode": false,
-        "name": "1R-B4,3",
-        "id": 145,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "146",
-      "properties": {
-        "filterValues": "1R-B5,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "1R-B5,3",
-        "groupId": "146",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 3,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1R-B5,3",
-        "editMode": false,
-        "name": "1R-B5,3",
-        "id": 146,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1284,86 +1124,6 @@
       }
     },
     {
-      "id": "49",
-      "properties": {
-        "filterValues": "2L-B3,22",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "2L-B3,22",
-        "groupId": "49",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 4,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2L-B3,22",
-        "editMode": false,
-        "name": "2L-B3,22",
-        "id": 49,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "50",
-      "properties": {
-        "filterValues": "2L-B3,23",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "2L-B3,23",
-        "groupId": "50",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 4,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2L-B3,23",
-        "editMode": false,
-        "name": "2L-B3,23",
-        "id": 50,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "51",
       "properties": {
         "filterValues": "2L-nakl",
@@ -1804,86 +1564,6 @@
       }
     },
     {
-      "id": "155",
-      "properties": {
-        "filterValues": "2R-B3,20",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "2R-B3,20",
-        "groupId": "155",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 5,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2R-B3,20",
-        "editMode": false,
-        "name": "2R-B3,20",
-        "id": 155,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "156",
-      "properties": {
-        "filterValues": "2R-B3,21",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "2R-B3,21",
-        "groupId": "156",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 5,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2R-B3,21",
-        "editMode": false,
-        "name": "2R-B3,21",
-        "id": 156,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "157",
       "properties": {
         "filterValues": "2R-nakl",
@@ -2280,126 +1960,6 @@
         "editMode": false,
         "name": "3L4",
         "id": 57,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "58",
-      "properties": {
-        "filterValues": "3L-B1,22",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "3L-B1,22",
-        "groupId": "58",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 6,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3L-B1,22",
-        "editMode": false,
-        "name": "3L-B1,22",
-        "id": 58,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "59",
-      "properties": {
-        "filterValues": "3L-B2,8",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "3L-B2,8",
-        "groupId": "59",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 6,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3L-B2,8",
-        "editMode": false,
-        "name": "3L-B2,8",
-        "id": 59,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "60",
-      "properties": {
-        "filterValues": "3L-B3,19",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "3L-B3,19",
-        "groupId": "60",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 6,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3L-B3,19",
-        "editMode": false,
-        "name": "3L-B3,19",
-        "id": 60,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2844,126 +2404,6 @@
       }
     },
     {
-      "id": "164",
-      "properties": {
-        "filterValues": "3R-B1,21",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "3R-B1,21",
-        "groupId": "164",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 7,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3R-B1,21",
-        "editMode": false,
-        "name": "3R-B1,21",
-        "id": 164,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "165",
-      "properties": {
-        "filterValues": "3R-B2,7",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "3R-B2,7",
-        "groupId": "165",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 7,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3R-B2,7",
-        "editMode": false,
-        "name": "3R-B2,7",
-        "id": 165,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "166",
-      "properties": {
-        "filterValues": "3R-B3,18",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "3R-B3,18",
-        "groupId": "166",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 7,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3R-B3,18",
-        "editMode": false,
-        "name": "3R-B3,18",
-        "id": 166,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "167",
       "properties": {
         "filterValues": "3R-nakl",
@@ -3404,126 +2844,6 @@
       }
     },
     {
-      "id": "68",
-      "properties": {
-        "filterValues": "4L-B1,20",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "4L-B1,20",
-        "groupId": "68",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 8,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4L-B1,20",
-        "editMode": false,
-        "name": "4L-B1,20",
-        "id": 68,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "69",
-      "properties": {
-        "filterValues": "4L-B2,6",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "4L-B2,6",
-        "groupId": "69",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 8,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4L-B2,6",
-        "editMode": false,
-        "name": "4L-B2,6",
-        "id": 69,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "70",
-      "properties": {
-        "filterValues": "4L-B3,17",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "4L-B3,17",
-        "groupId": "70",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 8,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4L-B3,17",
-        "editMode": false,
-        "name": "4L-B3,17",
-        "id": 70,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "71",
       "properties": {
         "filterValues": "4L-nakl",
@@ -3884,126 +3204,6 @@
       }
     },
     {
-      "id": "174",
-      "properties": {
-        "filterValues": "4R-B1,19",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "4R-B1,19",
-        "groupId": "174",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 9,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4R-B1,19",
-        "editMode": false,
-        "name": "4R-B1,19",
-        "id": 174,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "175",
-      "properties": {
-        "filterValues": "4R-B2,5",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "4R-B2,5",
-        "groupId": "175",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 9,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4R-B2,5",
-        "editMode": false,
-        "name": "4R-B2,5",
-        "id": 175,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "176",
-      "properties": {
-        "filterValues": "4R-B3,16",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "4R-B3,16",
-        "groupId": "176",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 9,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4R-B3,16",
-        "editMode": false,
-        "name": "4R-B3,16",
-        "id": 176,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "177",
       "properties": {
         "filterValues": "4R-nakl",
@@ -4360,126 +3560,6 @@
         "editMode": false,
         "name": "5L9",
         "id": 75,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "76",
-      "properties": {
-        "filterValues": "5L-B1,17",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "5L-B1,17",
-        "groupId": "76",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 10,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5L-B1,17",
-        "editMode": false,
-        "name": "5L-B1,17",
-        "id": 76,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "77",
-      "properties": {
-        "filterValues": "5L-B1,18",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "5L-B1,18",
-        "groupId": "77",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 10,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5L-B1,18",
-        "editMode": false,
-        "name": "5L-B1,18",
-        "id": 77,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "78",
-      "properties": {
-        "filterValues": "5L-B3,15",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "5L-B3,15",
-        "groupId": "78",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 10,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5L-B3,15",
-        "editMode": false,
-        "name": "5L-B3,15",
-        "id": 78,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4924,126 +4004,6 @@
       }
     },
     {
-      "id": "182",
-      "properties": {
-        "filterValues": "5R-B1,15",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "5R-B1,15",
-        "groupId": "182",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 11,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5R-B1,15",
-        "editMode": false,
-        "name": "5R-B1,15",
-        "id": 182,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "183",
-      "properties": {
-        "filterValues": "5R-B1,16",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "5R-B1,16",
-        "groupId": "183",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 11,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5R-B1,16",
-        "editMode": false,
-        "name": "5R-B1,16",
-        "id": 183,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "184",
-      "properties": {
-        "filterValues": "5R-B3,14",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "5R-B3,14",
-        "groupId": "184",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 11,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5R-B3,14",
-        "editMode": false,
-        "name": "5R-B3,14",
-        "id": 184,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "185",
       "properties": {
         "filterValues": "5R-nakl",
@@ -5480,126 +4440,6 @@
         "editMode": false,
         "name": "6L6",
         "id": 85,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "86",
-      "properties": {
-        "filterValues": "6L-B1,11",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "6L-B1,11",
-        "groupId": "86",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 12,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6L-B1,11",
-        "editMode": false,
-        "name": "6L-B1,11",
-        "id": 86,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "87",
-      "properties": {
-        "filterValues": "6L-B1,12",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "6L-B1,12",
-        "groupId": "87",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 12,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6L-B1,12",
-        "editMode": false,
-        "name": "6L-B1,12",
-        "id": 87,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "88",
-      "properties": {
-        "filterValues": "6L-B3,12",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "6L-B3,12",
-        "groupId": "88",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 12,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6L-B3,12",
-        "editMode": false,
-        "name": "6L-B3,12",
-        "id": 88,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6044,126 +4884,6 @@
       }
     },
     {
-      "id": "192",
-      "properties": {
-        "filterValues": "6R-B1,13",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "6R-B1,13",
-        "groupId": "192",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 13,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6R-B1,13",
-        "editMode": false,
-        "name": "6R-B1,13",
-        "id": 192,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "193",
-      "properties": {
-        "filterValues": "6R-B1,14",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "6R-B1,14",
-        "groupId": "193",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 13,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6R-B1,14",
-        "editMode": false,
-        "name": "6R-B1,14",
-        "id": 193,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "194",
-      "properties": {
-        "filterValues": "6R-B3,14",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "6R-B3,14",
-        "groupId": "194",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 13,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6R-B3,14",
-        "editMode": false,
-        "name": "6R-B3,14",
-        "id": 194,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "195",
       "properties": {
         "filterValues": "6R-nakl",
@@ -6600,126 +5320,6 @@
         "editMode": false,
         "name": "7L13A",
         "id": 95,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "96",
-      "properties": {
-        "filterValues": "7L-B1,7",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "7L-B1,7",
-        "groupId": "96",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 14,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7L-B1,7",
-        "editMode": false,
-        "name": "7L-B1,7",
-        "id": 96,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "97",
-      "properties": {
-        "filterValues": "7L-B1,8",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "7L-B1,8",
-        "groupId": "97",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 14,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7L-B1,8",
-        "editMode": false,
-        "name": "7L-B1,8",
-        "id": 97,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "98",
-      "properties": {
-        "filterValues": "7L-B3,10",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "7L-B3,10",
-        "groupId": "98",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 14,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7L-B3,10",
-        "editMode": false,
-        "name": "7L-B3,10",
-        "id": 98,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -7244,126 +5844,6 @@
       }
     },
     {
-      "id": "202",
-      "properties": {
-        "filterValues": "7R-B1,9",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "7R-B1,9",
-        "groupId": "202",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 15,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7R-B1,9",
-        "editMode": false,
-        "name": "7R-B1,9",
-        "id": 202,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "203",
-      "properties": {
-        "filterValues": "7R-B1,10",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "7R-B1,10",
-        "groupId": "203",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 15,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7R-B1,10",
-        "editMode": false,
-        "name": "7R-B1,10",
-        "id": 203,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "204",
-      "properties": {
-        "filterValues": "7R-B3,11",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "7R-B3,11",
-        "groupId": "204",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 15,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7R-B3,11",
-        "editMode": false,
-        "name": "7R-B3,11",
-        "id": 204,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "205",
       "properties": {
         "filterValues": "7R-nakl",
@@ -7884,126 +6364,6 @@
       }
     },
     {
-      "id": "108",
-      "properties": {
-        "filterValues": "8L-B1,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "8L-B1,4",
-        "groupId": "108",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 16,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8L-B1,4",
-        "editMode": false,
-        "name": "8L-B1,4",
-        "id": 108,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "109",
-      "properties": {
-        "filterValues": "8L-B2,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "8L-B2,4",
-        "groupId": "109",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 16,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8L-B2,4",
-        "editMode": false,
-        "name": "8L-B2,4",
-        "id": 109,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "110",
-      "properties": {
-        "filterValues": "8L-B3,8",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "8L-B3,8",
-        "groupId": "110",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 16,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8L-B3,8",
-        "editMode": false,
-        "name": "8L-B3,8",
-        "id": 110,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "111",
       "properties": {
         "filterValues": "8L-nakl",
@@ -8440,126 +6800,6 @@
         "editMode": false,
         "name": "8R7",
         "id": 213,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "214",
-      "properties": {
-        "filterValues": "8R-B1,5",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "8R-B1,5",
-        "groupId": "214",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 17,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8R-B1,5",
-        "editMode": false,
-        "name": "8R-B1,5",
-        "id": 214,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "215",
-      "properties": {
-        "filterValues": "8R-B1,6",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "8R-B1,6",
-        "groupId": "215",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 17,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8R-B1,6",
-        "editMode": false,
-        "name": "8R-B1,6",
-        "id": 215,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "216",
-      "properties": {
-        "filterValues": "8R-B3,9",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "8R-B3,9",
-        "groupId": "216",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 17,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8R-B3,9",
-        "editMode": false,
-        "name": "8R-B3,9",
-        "id": 216,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -9004,126 +7244,6 @@
       }
     },
     {
-      "id": "118",
-      "properties": {
-        "filterValues": "9L-B1,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "9L-B1,2",
-        "groupId": "118",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 18,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9L-B1,2",
-        "editMode": false,
-        "name": "9L-B1,2",
-        "id": 118,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "119",
-      "properties": {
-        "filterValues": "9L-B2,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "9L-B2,2",
-        "groupId": "119",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 18,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9L-B2,2",
-        "editMode": false,
-        "name": "9L-B2,2",
-        "id": 119,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "120",
-      "properties": {
-        "filterValues": "9L-B3,6",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "9L-B3,6",
-        "groupId": "120",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 18,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9L-B3,6",
-        "editMode": false,
-        "name": "9L-B3,6",
-        "id": 120,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "121",
       "properties": {
         "filterValues": "9L-nakl",
@@ -9484,126 +7604,6 @@
       }
     },
     {
-      "id": "224",
-      "properties": {
-        "filterValues": "9R-B1,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "9R-B1,3",
-        "groupId": "224",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 19,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9R-B1,3",
-        "editMode": false,
-        "name": "9R-B1,3",
-        "id": 224,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "225",
-      "properties": {
-        "filterValues": "9R-B2,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "9R-B2,3",
-        "groupId": "225",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 19,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9R-B2,3",
-        "editMode": false,
-        "name": "9R-B2,3",
-        "id": 225,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "226",
-      "properties": {
-        "filterValues": "9R-B3,7",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "9R-B3,7",
-        "groupId": "226",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 19,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9R-B3,7",
-        "editMode": false,
-        "name": "9R-B3,7",
-        "id": 226,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "227",
       "properties": {
         "filterValues": "9R-nakl",
@@ -9960,86 +7960,6 @@
         "editMode": false,
         "name": "10L10",
         "id": 125,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "126",
-      "properties": {
-        "filterValues": "10L-B3,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "10L-B3,3",
-        "groupId": "126",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 20,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10L-B3,3",
-        "editMode": false,
-        "name": "10L-B3,3",
-        "id": 126,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "127",
-      "properties": {
-        "filterValues": "10L-B3,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "10L-B3,4",
-        "groupId": "127",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 20,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10L-B3,4",
-        "editMode": false,
-        "name": "10L-B3,4",
-        "id": 127,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -10440,126 +8360,6 @@
         "editMode": false,
         "name": "10R6",
         "id": 231,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "232",
-      "properties": {
-        "filterValues": "10R-B1,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "10R-B1,1",
-        "groupId": "232",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 21,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10R-B1,1",
-        "editMode": false,
-        "name": "10R-B1,1",
-        "id": 232,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "233",
-      "properties": {
-        "filterValues": "10R-B2,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "10R-B2,1",
-        "groupId": "233",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 21,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10R-B2,1",
-        "editMode": false,
-        "name": "10R-B2,1",
-        "id": 233,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "234",
-      "properties": {
-        "filterValues": "10R-B3,5",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "10R-B3,5",
-        "groupId": "234",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 21,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10R-B3,5",
-        "editMode": false,
-        "name": "10R-B3,5",
-        "id": 234,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -11004,126 +8804,6 @@
       }
     },
     {
-      "id": "135",
-      "properties": {
-        "filterValues": "11L-B4,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "11L-B4,2",
-        "groupId": "135",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 22,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11L-B4,2",
-        "editMode": false,
-        "name": "11L-B4,2",
-        "id": 135,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "136",
-      "properties": {
-        "filterValues": "11L-B5,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "11L-B5,1",
-        "groupId": "136",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 22,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11L-B5,1",
-        "editMode": false,
-        "name": "11L-B5,1",
-        "id": 136,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "137",
-      "properties": {
-        "filterValues": "11L-B5,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "11L-B5,2",
-        "groupId": "137",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 22,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11L-B5,2",
-        "editMode": false,
-        "name": "11L-B5,2",
-        "id": 137,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "138",
       "properties": {
         "filterValues": "11L-nakl",
@@ -11520,86 +9200,6 @@
         "editMode": false,
         "name": "11R11",
         "id": 241,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "242",
-      "properties": {
-        "filterValues": "11R-B3,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "11R-B3,1",
-        "groupId": "242",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 23,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11R-B3,1",
-        "editMode": false,
-        "name": "11R-B3,1",
-        "id": 242,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "243",
-      "properties": {
-        "filterValues": "11R-B3,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "11R-B3,2",
-        "groupId": "243",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 23,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11R-B3,2",
-        "editMode": false,
-        "name": "11R-B3,2",
-        "id": 243,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -12004,46 +9604,6 @@
       }
     },
     {
-      "id": "251",
-      "properties": {
-        "filterValues": "12R-B4,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "12R-B4,1",
-        "groupId": "251",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 25,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "12R-B4,1",
-        "editMode": false,
-        "name": "12R-B4,1",
-        "id": 251,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "252",
       "properties": {
         "filterValues": "12R-nakl",
@@ -12274,14 +9834,6 @@
                     "children": []
                   },
                   {
-                    "id": "30",
-                    "children": []
-                  },
-                  {
-                    "id": "31",
-                    "children": []
-                  },
-                  {
                     "id": "32",
                     "children": []
                   },
@@ -12320,14 +9872,6 @@
                   },
                   {
                     "id": "144",
-                    "children": []
-                  },
-                  {
-                    "id": "145",
-                    "children": []
-                  },
-                  {
-                    "id": "146",
                     "children": []
                   },
                   {
@@ -12376,14 +9920,6 @@
                     "children": []
                   },
                   {
-                    "id": "49",
-                    "children": []
-                  },
-                  {
-                    "id": "50",
-                    "children": []
-                  },
-                  {
                     "id": "51",
                     "children": []
                   },
@@ -12429,14 +9965,6 @@
                     "children": []
                   },
                   {
-                    "id": "155",
-                    "children": []
-                  },
-                  {
-                    "id": "156",
-                    "children": []
-                  },
-                  {
                     "id": "157",
                     "children": []
                   },
@@ -12475,18 +10003,6 @@
                   },
                   {
                     "id": "57",
-                    "children": []
-                  },
-                  {
-                    "id": "58",
-                    "children": []
-                  },
-                  {
-                    "id": "59",
-                    "children": []
-                  },
-                  {
-                    "id": "60",
                     "children": []
                   },
                   {
@@ -12535,18 +10051,6 @@
                     "children": []
                   },
                   {
-                    "id": "164",
-                    "children": []
-                  },
-                  {
-                    "id": "165",
-                    "children": []
-                  },
-                  {
-                    "id": "166",
-                    "children": []
-                  },
-                  {
                     "id": "167",
                     "children": []
                   },
@@ -12592,18 +10096,6 @@
                     "children": []
                   },
                   {
-                    "id": "68",
-                    "children": []
-                  },
-                  {
-                    "id": "69",
-                    "children": []
-                  },
-                  {
-                    "id": "70",
-                    "children": []
-                  },
-                  {
                     "id": "71",
                     "children": []
                   },
@@ -12641,18 +10133,6 @@
                     "children": []
                   },
                   {
-                    "id": "174",
-                    "children": []
-                  },
-                  {
-                    "id": "175",
-                    "children": []
-                  },
-                  {
-                    "id": "176",
-                    "children": []
-                  },
-                  {
                     "id": "177",
                     "children": []
                   },
@@ -12687,18 +10167,6 @@
                   },
                   {
                     "id": "75",
-                    "children": []
-                  },
-                  {
-                    "id": "76",
-                    "children": []
-                  },
-                  {
-                    "id": "77",
-                    "children": []
-                  },
-                  {
-                    "id": "78",
                     "children": []
                   },
                   {
@@ -12747,18 +10215,6 @@
                     "children": []
                   },
                   {
-                    "id": "182",
-                    "children": []
-                  },
-                  {
-                    "id": "183",
-                    "children": []
-                  },
-                  {
-                    "id": "184",
-                    "children": []
-                  },
-                  {
                     "id": "185",
                     "children": []
                   },
@@ -12801,18 +10257,6 @@
                   },
                   {
                     "id": "85",
-                    "children": []
-                  },
-                  {
-                    "id": "86",
-                    "children": []
-                  },
-                  {
-                    "id": "87",
-                    "children": []
-                  },
-                  {
-                    "id": "88",
                     "children": []
                   },
                   {
@@ -12861,18 +10305,6 @@
                     "children": []
                   },
                   {
-                    "id": "192",
-                    "children": []
-                  },
-                  {
-                    "id": "193",
-                    "children": []
-                  },
-                  {
-                    "id": "194",
-                    "children": []
-                  },
-                  {
                     "id": "195",
                     "children": []
                   },
@@ -12915,18 +10347,6 @@
                   },
                   {
                     "id": "95",
-                    "children": []
-                  },
-                  {
-                    "id": "96",
-                    "children": []
-                  },
-                  {
-                    "id": "97",
-                    "children": []
-                  },
-                  {
-                    "id": "98",
                     "children": []
                   },
                   {
@@ -12983,18 +10403,6 @@
                     "children": []
                   },
                   {
-                    "id": "202",
-                    "children": []
-                  },
-                  {
-                    "id": "203",
-                    "children": []
-                  },
-                  {
-                    "id": "204",
-                    "children": []
-                  },
-                  {
                     "id": "205",
                     "children": []
                   },
@@ -13048,18 +10456,6 @@
                     "children": []
                   },
                   {
-                    "id": "108",
-                    "children": []
-                  },
-                  {
-                    "id": "109",
-                    "children": []
-                  },
-                  {
-                    "id": "110",
-                    "children": []
-                  },
-                  {
                     "id": "111",
                     "children": []
                   },
@@ -13102,18 +10498,6 @@
                   },
                   {
                     "id": "213",
-                    "children": []
-                  },
-                  {
-                    "id": "214",
-                    "children": []
-                  },
-                  {
-                    "id": "215",
-                    "children": []
-                  },
-                  {
-                    "id": "216",
                     "children": []
                   },
                   {
@@ -13162,18 +10546,6 @@
                     "children": []
                   },
                   {
-                    "id": "118",
-                    "children": []
-                  },
-                  {
-                    "id": "119",
-                    "children": []
-                  },
-                  {
-                    "id": "120",
-                    "children": []
-                  },
-                  {
                     "id": "121",
                     "children": []
                   },
@@ -13211,18 +10583,6 @@
                     "children": []
                   },
                   {
-                    "id": "224",
-                    "children": []
-                  },
-                  {
-                    "id": "225",
-                    "children": []
-                  },
-                  {
-                    "id": "226",
-                    "children": []
-                  },
-                  {
                     "id": "227",
                     "children": []
                   },
@@ -13257,14 +10617,6 @@
                   },
                   {
                     "id": "125",
-                    "children": []
-                  },
-                  {
-                    "id": "126",
-                    "children": []
-                  },
-                  {
-                    "id": "127",
                     "children": []
                   },
                   {
@@ -13306,18 +10658,6 @@
                   },
                   {
                     "id": "231",
-                    "children": []
-                  },
-                  {
-                    "id": "232",
-                    "children": []
-                  },
-                  {
-                    "id": "233",
-                    "children": []
-                  },
-                  {
-                    "id": "234",
                     "children": []
                   },
                   {
@@ -13366,18 +10706,6 @@
                     "children": []
                   },
                   {
-                    "id": "135",
-                    "children": []
-                  },
-                  {
-                    "id": "136",
-                    "children": []
-                  },
-                  {
-                    "id": "137",
-                    "children": []
-                  },
-                  {
                     "id": "138",
                     "children": []
                   },
@@ -13419,14 +10747,6 @@
                     "children": []
                   },
                   {
-                    "id": "242",
-                    "children": []
-                  },
-                  {
-                    "id": "243",
-                    "children": []
-                  },
-                  {
                     "id": "244",
                     "children": []
                   },
@@ -13465,10 +10785,6 @@
                   },
                   {
                     "id": "250",
-                    "children": []
-                  },
-                  {
-                    "id": "251",
                     "children": []
                   },
                   {
