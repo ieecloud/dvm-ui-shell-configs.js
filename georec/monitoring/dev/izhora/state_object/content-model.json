@@ -24,7 +24,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -64,7 +64,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -104,7 +104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -144,7 +144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -184,7 +184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -224,7 +224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -264,7 +264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -304,7 +304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -344,7 +344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -384,7 +384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -424,7 +424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -464,7 +464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -504,7 +504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -544,7 +544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -584,7 +584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -624,7 +624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -664,7 +664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -704,7 +704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -744,7 +744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -784,7 +784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -824,7 +824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -864,7 +864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -904,7 +904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -944,7 +944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -984,7 +984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1024,7 +1024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1064,7 +1064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1104,7 +1104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1144,7 +1144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1184,7 +1184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1224,7 +1224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1264,7 +1264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1304,7 +1304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1344,7 +1344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1384,7 +1384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1424,7 +1424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1464,7 +1464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1504,7 +1504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1544,7 +1544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1584,7 +1584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1624,7 +1624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1664,7 +1664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1704,7 +1704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1744,7 +1744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1784,7 +1784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1824,7 +1824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1864,7 +1864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1904,7 +1904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1944,7 +1944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -1984,7 +1984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2024,7 +2024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2064,7 +2064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2104,7 +2104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2144,7 +2144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2184,7 +2184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2224,7 +2224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2264,7 +2264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2304,7 +2304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2344,7 +2344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2384,7 +2384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2424,7 +2424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2464,7 +2464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2504,7 +2504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2544,7 +2544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2584,7 +2584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2624,7 +2624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2664,7 +2664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2704,7 +2704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2744,7 +2744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2784,7 +2784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2824,7 +2824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2864,7 +2864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2904,7 +2904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2944,7 +2944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -2984,7 +2984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3024,7 +3024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3064,7 +3064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3104,7 +3104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3144,7 +3144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3184,7 +3184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3224,7 +3224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3264,7 +3264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3304,7 +3304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3344,7 +3344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3384,7 +3384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3424,7 +3424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3464,7 +3464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3504,7 +3504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3544,7 +3544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3584,7 +3584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3624,7 +3624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3664,7 +3664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3704,7 +3704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3744,7 +3744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3784,7 +3784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3824,7 +3824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3864,7 +3864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3904,7 +3904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3944,7 +3944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -3984,7 +3984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4024,7 +4024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4064,7 +4064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4104,7 +4104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4144,7 +4144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4184,7 +4184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4224,7 +4224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4264,7 +4264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4304,7 +4304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4344,7 +4344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4384,7 +4384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4424,7 +4424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4464,7 +4464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4504,7 +4504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4544,7 +4544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4584,7 +4584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4624,7 +4624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4664,7 +4664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4704,7 +4704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4744,7 +4744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4784,7 +4784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4824,7 +4824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4864,7 +4864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4904,7 +4904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4944,7 +4944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -4984,7 +4984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5024,7 +5024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5064,7 +5064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5104,7 +5104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5144,7 +5144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5184,7 +5184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5224,7 +5224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5264,7 +5264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5304,7 +5304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5344,7 +5344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5384,7 +5384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5424,7 +5424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5464,7 +5464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5504,7 +5504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5544,7 +5544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5584,7 +5584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5624,7 +5624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5664,7 +5664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5704,7 +5704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5744,7 +5744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5784,7 +5784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5824,7 +5824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5864,7 +5864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5904,7 +5904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5944,7 +5944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -5984,7 +5984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6024,7 +6024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6064,7 +6064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6104,7 +6104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6144,7 +6144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6184,7 +6184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6224,7 +6224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6264,7 +6264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6304,7 +6304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6344,7 +6344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6384,7 +6384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6424,7 +6424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6464,7 +6464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6504,7 +6504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6544,7 +6544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6584,7 +6584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6624,7 +6624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6664,7 +6664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6704,7 +6704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6744,7 +6744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6784,7 +6784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6824,7 +6824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6864,7 +6864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6904,7 +6904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6944,7 +6944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -6984,7 +6984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7024,7 +7024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7064,7 +7064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7104,7 +7104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7144,7 +7144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7184,7 +7184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7224,7 +7224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7264,7 +7264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7304,7 +7304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7344,7 +7344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7384,7 +7384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7424,7 +7424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7464,7 +7464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7504,7 +7504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7544,7 +7544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7584,7 +7584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7624,7 +7624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7664,7 +7664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7704,7 +7704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7744,7 +7744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7784,7 +7784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7824,7 +7824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7864,7 +7864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7904,7 +7904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7944,7 +7944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -7984,7 +7984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8024,7 +8024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8064,7 +8064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8104,7 +8104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8144,7 +8144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8184,7 +8184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8224,7 +8224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8264,7 +8264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8304,7 +8304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8344,7 +8344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8384,7 +8384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8424,7 +8424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8464,7 +8464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8504,7 +8504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8544,7 +8544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8584,7 +8584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8624,7 +8624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8664,7 +8664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8704,7 +8704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8744,7 +8744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8784,7 +8784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8824,7 +8824,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8864,7 +8864,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8904,7 +8904,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8944,7 +8944,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -8984,7 +8984,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9024,7 +9024,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9064,7 +9064,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9104,7 +9104,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9144,7 +9144,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9184,7 +9184,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9224,7 +9224,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9264,7 +9264,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9304,7 +9304,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9344,7 +9344,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9384,7 +9384,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9424,7 +9424,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9464,7 +9464,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9504,7 +9504,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9544,7 +9544,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9584,7 +9584,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9624,7 +9624,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9664,7 +9664,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9704,7 +9704,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9744,7 +9744,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
@@ -9784,7 +9784,7 @@
         "availableRepos": [
           {
             "repoName": "Журнал всех событий",
-            "repoId": "journal.events",
+            "repoId": "journal.events.general",
             "filter": "",
             "filterValues": ""
           }
