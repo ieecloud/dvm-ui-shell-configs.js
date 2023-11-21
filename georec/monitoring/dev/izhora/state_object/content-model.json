@@ -924,7 +924,7 @@
       }
     },
     {
-      "id": "287",
+      "id": "285",
       "properties": {
         "filterValues": "121",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -937,7 +937,7 @@
           }
         ],
         "code": "121",
-        "groupId": "287",
+        "groupId": "285",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -965,12 +965,12 @@
         "indicatorsRepoFilterValues": "121",
         "editMode": false,
         "name": "121",
-        "id": 287,
+        "id": 285,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "288",
+      "id": "286",
       "properties": {
         "filterValues": "122",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -983,7 +983,7 @@
           }
         ],
         "code": "122",
-        "groupId": "288",
+        "groupId": "286",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -1011,7 +1011,7 @@
         "indicatorsRepoFilterValues": "122",
         "editMode": false,
         "name": "122",
-        "id": 288,
+        "id": 286,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1430,98 +1430,6 @@
       }
     },
     {
-      "id": "260",
-      "properties": {
-        "filterValues": "211",
-        "repoId": "journal.voinar.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "211",
-        "groupId": "260",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал событй общий",
-            "repoId": "journal.events.general",
-            "filter": "",
-            "filterValues": ""
-          },
-          {
-            "repoName": "Журнал событий локальный",
-            "repoId": "journal.events.objs",
-            "filter": "obj_code",
-            "filterValues": "211"
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": null,
-        "defaultView": null,
-        "indicatorsRepoFilter": "name",
-        "parent_id": 4,
-        "viewer2dModel": null,
-        "indicatorsRepoFilterValues": "211",
-        "editMode": false,
-        "name": "211",
-        "id": 260,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "261",
-      "properties": {
-        "filterValues": "214",
-        "repoId": "journal.voinar.data.view.norm_and_calc",
-        "availableDataRepos": [
-          {
-            "repoName": "Журнал данных",
-            "repoId": "journal.chart",
-            "filter": "",
-            "filterValues": ""
-          }
-        ],
-        "code": "214",
-        "groupId": "261",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "availableRepos": [
-          {
-            "repoName": "Журнал событй общий",
-            "repoId": "journal.events.general",
-            "filter": "",
-            "filterValues": ""
-          },
-          {
-            "repoName": "Журнал событий локальный",
-            "repoId": "journal.events.objs",
-            "filter": "obj_code",
-            "filterValues": "214"
-          }
-        ],
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": null,
-        "defaultView": null,
-        "indicatorsRepoFilter": "name",
-        "parent_id": 4,
-        "viewer2dModel": null,
-        "indicatorsRepoFilterValues": "214",
-        "editMode": false,
-        "name": "214",
-        "id": 261,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
       "id": "5",
       "properties": {
         "filterValues": "",
@@ -1936,7 +1844,7 @@
       }
     },
     {
-      "id": "289",
+      "id": "287",
       "properties": {
         "filterValues": "221",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -1949,7 +1857,7 @@
           }
         ],
         "code": "221",
-        "groupId": "289",
+        "groupId": "287",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -1977,12 +1885,12 @@
         "indicatorsRepoFilterValues": "221",
         "editMode": false,
         "name": "221",
-        "id": 289,
+        "id": 287,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "290",
+      "id": "288",
       "properties": {
         "filterValues": "224",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -1995,7 +1903,7 @@
           }
         ],
         "code": "224",
-        "groupId": "290",
+        "groupId": "288",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -2023,7 +1931,7 @@
         "indicatorsRepoFilterValues": "224",
         "editMode": false,
         "name": "224",
-        "id": 290,
+        "id": 288,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2396,7 +2304,7 @@
       }
     },
     {
-      "id": "262",
+      "id": "260",
       "properties": {
         "filterValues": "311",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -2409,7 +2317,7 @@
           }
         ],
         "code": "311",
-        "groupId": "262",
+        "groupId": "260",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -2437,12 +2345,12 @@
         "indicatorsRepoFilterValues": "311",
         "editMode": false,
         "name": "311",
-        "id": 262,
+        "id": 260,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "263",
+      "id": "261",
       "properties": {
         "filterValues": "312",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -2455,7 +2363,7 @@
           }
         ],
         "code": "312",
-        "groupId": "263",
+        "groupId": "261",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -2483,12 +2391,12 @@
         "indicatorsRepoFilterValues": "312",
         "editMode": false,
         "name": "312",
-        "id": 263,
+        "id": 261,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "264",
+      "id": "262",
       "properties": {
         "filterValues": "313",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -2501,7 +2409,7 @@
           }
         ],
         "code": "313",
-        "groupId": "264",
+        "groupId": "262",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -2529,7 +2437,7 @@
         "indicatorsRepoFilterValues": "313",
         "editMode": false,
         "name": "313",
-        "id": 264,
+        "id": 262,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2902,7 +2810,7 @@
       }
     },
     {
-      "id": "291",
+      "id": "289",
       "properties": {
         "filterValues": "321",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -2915,7 +2823,7 @@
           }
         ],
         "code": "321",
-        "groupId": "291",
+        "groupId": "289",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -2943,12 +2851,12 @@
         "indicatorsRepoFilterValues": "321",
         "editMode": false,
         "name": "321",
-        "id": 291,
+        "id": 289,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "292",
+      "id": "290",
       "properties": {
         "filterValues": "322",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -2961,7 +2869,7 @@
           }
         ],
         "code": "322",
-        "groupId": "292",
+        "groupId": "290",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -2989,12 +2897,12 @@
         "indicatorsRepoFilterValues": "322",
         "editMode": false,
         "name": "322",
-        "id": 292,
+        "id": 290,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "293",
+      "id": "291",
       "properties": {
         "filterValues": "323",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -3007,7 +2915,7 @@
           }
         ],
         "code": "323",
-        "groupId": "293",
+        "groupId": "291",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -3035,7 +2943,7 @@
         "indicatorsRepoFilterValues": "323",
         "editMode": false,
         "name": "323",
-        "id": 293,
+        "id": 291,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3316,7 +3224,7 @@
       }
     },
     {
-      "id": "265",
+      "id": "263",
       "properties": {
         "filterValues": "411",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -3329,7 +3237,7 @@
           }
         ],
         "code": "411",
-        "groupId": "265",
+        "groupId": "263",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -3357,12 +3265,12 @@
         "indicatorsRepoFilterValues": "411",
         "editMode": false,
         "name": "411",
-        "id": 265,
+        "id": 263,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "266",
+      "id": "264",
       "properties": {
         "filterValues": "412",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -3375,7 +3283,7 @@
           }
         ],
         "code": "412",
-        "groupId": "266",
+        "groupId": "264",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -3403,12 +3311,12 @@
         "indicatorsRepoFilterValues": "412",
         "editMode": false,
         "name": "412",
-        "id": 266,
+        "id": 264,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "267",
+      "id": "265",
       "properties": {
         "filterValues": "413",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -3421,7 +3329,7 @@
           }
         ],
         "code": "413",
-        "groupId": "267",
+        "groupId": "265",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -3449,7 +3357,7 @@
         "indicatorsRepoFilterValues": "413",
         "editMode": false,
         "name": "413",
-        "id": 267,
+        "id": 265,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3730,7 +3638,7 @@
       }
     },
     {
-      "id": "294",
+      "id": "292",
       "properties": {
         "filterValues": "421",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -3743,7 +3651,7 @@
           }
         ],
         "code": "421",
-        "groupId": "294",
+        "groupId": "292",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -3771,12 +3679,12 @@
         "indicatorsRepoFilterValues": "421",
         "editMode": false,
         "name": "421",
-        "id": 294,
+        "id": 292,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "295",
+      "id": "293",
       "properties": {
         "filterValues": "422",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -3789,7 +3697,7 @@
           }
         ],
         "code": "422",
-        "groupId": "295",
+        "groupId": "293",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -3817,12 +3725,12 @@
         "indicatorsRepoFilterValues": "422",
         "editMode": false,
         "name": "422",
-        "id": 295,
+        "id": 293,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "296",
+      "id": "294",
       "properties": {
         "filterValues": "423",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -3835,7 +3743,7 @@
           }
         ],
         "code": "423",
-        "groupId": "296",
+        "groupId": "294",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -3863,7 +3771,7 @@
         "indicatorsRepoFilterValues": "423",
         "editMode": false,
         "name": "423",
-        "id": 296,
+        "id": 294,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4236,7 +4144,7 @@
       }
     },
     {
-      "id": "268",
+      "id": "266",
       "properties": {
         "filterValues": "511",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -4249,7 +4157,7 @@
           }
         ],
         "code": "511",
-        "groupId": "268",
+        "groupId": "266",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -4277,12 +4185,12 @@
         "indicatorsRepoFilterValues": "511",
         "editMode": false,
         "name": "511",
-        "id": 268,
+        "id": 266,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "269",
+      "id": "267",
       "properties": {
         "filterValues": "512",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -4295,7 +4203,7 @@
           }
         ],
         "code": "512",
-        "groupId": "269",
+        "groupId": "267",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -4323,12 +4231,12 @@
         "indicatorsRepoFilterValues": "512",
         "editMode": false,
         "name": "512",
-        "id": 269,
+        "id": 267,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "270",
+      "id": "268",
       "properties": {
         "filterValues": "513",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -4341,7 +4249,7 @@
           }
         ],
         "code": "513",
-        "groupId": "270",
+        "groupId": "268",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -4369,7 +4277,7 @@
         "indicatorsRepoFilterValues": "513",
         "editMode": false,
         "name": "513",
-        "id": 270,
+        "id": 268,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4742,7 +4650,7 @@
       }
     },
     {
-      "id": "297",
+      "id": "295",
       "properties": {
         "filterValues": "521",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -4755,7 +4663,7 @@
           }
         ],
         "code": "521",
-        "groupId": "297",
+        "groupId": "295",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -4783,12 +4691,12 @@
         "indicatorsRepoFilterValues": "521",
         "editMode": false,
         "name": "521",
-        "id": 297,
+        "id": 295,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "298",
+      "id": "296",
       "properties": {
         "filterValues": "522",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -4801,7 +4709,7 @@
           }
         ],
         "code": "522",
-        "groupId": "298",
+        "groupId": "296",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -4829,12 +4737,12 @@
         "indicatorsRepoFilterValues": "522",
         "editMode": false,
         "name": "522",
-        "id": 298,
+        "id": 296,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "299",
+      "id": "297",
       "properties": {
         "filterValues": "523",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -4847,7 +4755,7 @@
           }
         ],
         "code": "523",
-        "groupId": "299",
+        "groupId": "297",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -4875,7 +4783,7 @@
         "indicatorsRepoFilterValues": "523",
         "editMode": false,
         "name": "523",
-        "id": 299,
+        "id": 297,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5248,7 +5156,7 @@
       }
     },
     {
-      "id": "271",
+      "id": "269",
       "properties": {
         "filterValues": "611",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -5261,7 +5169,7 @@
           }
         ],
         "code": "611",
-        "groupId": "271",
+        "groupId": "269",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -5289,12 +5197,12 @@
         "indicatorsRepoFilterValues": "611",
         "editMode": false,
         "name": "611",
-        "id": 271,
+        "id": 269,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "272",
+      "id": "270",
       "properties": {
         "filterValues": "612",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -5307,7 +5215,7 @@
           }
         ],
         "code": "612",
-        "groupId": "272",
+        "groupId": "270",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -5335,12 +5243,12 @@
         "indicatorsRepoFilterValues": "612",
         "editMode": false,
         "name": "612",
-        "id": 272,
+        "id": 270,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "273",
+      "id": "271",
       "properties": {
         "filterValues": "613",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -5353,7 +5261,7 @@
           }
         ],
         "code": "613",
-        "groupId": "273",
+        "groupId": "271",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -5381,7 +5289,7 @@
         "indicatorsRepoFilterValues": "613",
         "editMode": false,
         "name": "613",
-        "id": 273,
+        "id": 271,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5754,7 +5662,7 @@
       }
     },
     {
-      "id": "300",
+      "id": "298",
       "properties": {
         "filterValues": "621",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -5767,7 +5675,7 @@
           }
         ],
         "code": "621",
-        "groupId": "300",
+        "groupId": "298",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -5795,12 +5703,12 @@
         "indicatorsRepoFilterValues": "621",
         "editMode": false,
         "name": "621",
-        "id": 300,
+        "id": 298,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "301",
+      "id": "299",
       "properties": {
         "filterValues": "622",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -5813,7 +5721,7 @@
           }
         ],
         "code": "622",
-        "groupId": "301",
+        "groupId": "299",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -5841,12 +5749,12 @@
         "indicatorsRepoFilterValues": "622",
         "editMode": false,
         "name": "622",
-        "id": 301,
+        "id": 299,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "302",
+      "id": "300",
       "properties": {
         "filterValues": "623",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -5859,7 +5767,7 @@
           }
         ],
         "code": "623",
-        "groupId": "302",
+        "groupId": "300",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -5887,7 +5795,7 @@
         "indicatorsRepoFilterValues": "623",
         "editMode": false,
         "name": "623",
-        "id": 302,
+        "id": 300,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6352,7 +6260,7 @@
       }
     },
     {
-      "id": "274",
+      "id": "272",
       "properties": {
         "filterValues": "711",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -6365,7 +6273,7 @@
           }
         ],
         "code": "711",
-        "groupId": "274",
+        "groupId": "272",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -6393,12 +6301,12 @@
         "indicatorsRepoFilterValues": "711",
         "editMode": false,
         "name": "711",
-        "id": 274,
+        "id": 272,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "275",
+      "id": "273",
       "properties": {
         "filterValues": "712",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -6411,7 +6319,7 @@
           }
         ],
         "code": "712",
-        "groupId": "275",
+        "groupId": "273",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -6439,12 +6347,12 @@
         "indicatorsRepoFilterValues": "712",
         "editMode": false,
         "name": "712",
-        "id": 275,
+        "id": 273,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "276",
+      "id": "274",
       "properties": {
         "filterValues": "713",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -6457,7 +6365,7 @@
           }
         ],
         "code": "713",
-        "groupId": "276",
+        "groupId": "274",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -6485,7 +6393,7 @@
         "indicatorsRepoFilterValues": "713",
         "editMode": false,
         "name": "713",
-        "id": 276,
+        "id": 274,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6950,7 +6858,7 @@
       }
     },
     {
-      "id": "303",
+      "id": "301",
       "properties": {
         "filterValues": "721",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -6963,7 +6871,7 @@
           }
         ],
         "code": "721",
-        "groupId": "303",
+        "groupId": "301",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -6991,12 +6899,12 @@
         "indicatorsRepoFilterValues": "721",
         "editMode": false,
         "name": "721",
-        "id": 303,
+        "id": 301,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "304",
+      "id": "302",
       "properties": {
         "filterValues": "722",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -7009,7 +6917,7 @@
           }
         ],
         "code": "722",
-        "groupId": "304",
+        "groupId": "302",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -7037,12 +6945,12 @@
         "indicatorsRepoFilterValues": "722",
         "editMode": false,
         "name": "722",
-        "id": 304,
+        "id": 302,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "305",
+      "id": "303",
       "properties": {
         "filterValues": "723",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -7055,7 +6963,7 @@
           }
         ],
         "code": "723",
-        "groupId": "305",
+        "groupId": "303",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -7083,7 +6991,7 @@
         "indicatorsRepoFilterValues": "723",
         "editMode": false,
         "name": "723",
-        "id": 305,
+        "id": 303,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -7456,7 +7364,7 @@
       }
     },
     {
-      "id": "277",
+      "id": "275",
       "properties": {
         "filterValues": "811",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -7469,7 +7377,7 @@
           }
         ],
         "code": "811",
-        "groupId": "277",
+        "groupId": "275",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -7497,12 +7405,12 @@
         "indicatorsRepoFilterValues": "811",
         "editMode": false,
         "name": "811",
-        "id": 277,
+        "id": 275,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "278",
+      "id": "276",
       "properties": {
         "filterValues": "812",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -7515,7 +7423,7 @@
           }
         ],
         "code": "812",
-        "groupId": "278",
+        "groupId": "276",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -7543,12 +7451,12 @@
         "indicatorsRepoFilterValues": "812",
         "editMode": false,
         "name": "812",
-        "id": 278,
+        "id": 276,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "279",
+      "id": "277",
       "properties": {
         "filterValues": "813",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -7561,7 +7469,7 @@
           }
         ],
         "code": "813",
-        "groupId": "279",
+        "groupId": "277",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -7589,7 +7497,7 @@
         "indicatorsRepoFilterValues": "813",
         "editMode": false,
         "name": "813",
-        "id": 279,
+        "id": 277,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -7962,7 +7870,7 @@
       }
     },
     {
-      "id": "306",
+      "id": "304",
       "properties": {
         "filterValues": "821",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -7975,7 +7883,7 @@
           }
         ],
         "code": "821",
-        "groupId": "306",
+        "groupId": "304",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8003,12 +7911,12 @@
         "indicatorsRepoFilterValues": "821",
         "editMode": false,
         "name": "821",
-        "id": 306,
+        "id": 304,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "307",
+      "id": "305",
       "properties": {
         "filterValues": "822",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8021,7 +7929,7 @@
           }
         ],
         "code": "822",
-        "groupId": "307",
+        "groupId": "305",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8049,12 +7957,12 @@
         "indicatorsRepoFilterValues": "822",
         "editMode": false,
         "name": "822",
-        "id": 307,
+        "id": 305,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "308",
+      "id": "306",
       "properties": {
         "filterValues": "823",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8067,7 +7975,7 @@
           }
         ],
         "code": "823",
-        "groupId": "308",
+        "groupId": "306",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8095,7 +8003,7 @@
         "indicatorsRepoFilterValues": "823",
         "editMode": false,
         "name": "823",
-        "id": 308,
+        "id": 306,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -8376,7 +8284,7 @@
       }
     },
     {
-      "id": "280",
+      "id": "278",
       "properties": {
         "filterValues": "911",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8389,7 +8297,7 @@
           }
         ],
         "code": "911",
-        "groupId": "280",
+        "groupId": "278",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8417,12 +8325,12 @@
         "indicatorsRepoFilterValues": "911",
         "editMode": false,
         "name": "911",
-        "id": 280,
+        "id": 278,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "281",
+      "id": "279",
       "properties": {
         "filterValues": "912",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8435,7 +8343,7 @@
           }
         ],
         "code": "912",
-        "groupId": "281",
+        "groupId": "279",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8463,12 +8371,12 @@
         "indicatorsRepoFilterValues": "912",
         "editMode": false,
         "name": "912",
-        "id": 281,
+        "id": 279,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "282",
+      "id": "280",
       "properties": {
         "filterValues": "913",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8481,7 +8389,7 @@
           }
         ],
         "code": "913",
-        "groupId": "282",
+        "groupId": "280",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8509,7 +8417,7 @@
         "indicatorsRepoFilterValues": "913",
         "editMode": false,
         "name": "913",
-        "id": 282,
+        "id": 280,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -8790,7 +8698,7 @@
       }
     },
     {
-      "id": "309",
+      "id": "307",
       "properties": {
         "filterValues": "921",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8803,7 +8711,7 @@
           }
         ],
         "code": "921",
-        "groupId": "309",
+        "groupId": "307",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8831,12 +8739,12 @@
         "indicatorsRepoFilterValues": "921",
         "editMode": false,
         "name": "921",
-        "id": 309,
+        "id": 307,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "310",
+      "id": "308",
       "properties": {
         "filterValues": "922",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8849,7 +8757,7 @@
           }
         ],
         "code": "922",
-        "groupId": "310",
+        "groupId": "308",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8877,12 +8785,12 @@
         "indicatorsRepoFilterValues": "922",
         "editMode": false,
         "name": "922",
-        "id": 310,
+        "id": 308,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "311",
+      "id": "309",
       "properties": {
         "filterValues": "923",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -8895,7 +8803,7 @@
           }
         ],
         "code": "923",
-        "groupId": "311",
+        "groupId": "309",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -8923,7 +8831,7 @@
         "indicatorsRepoFilterValues": "923",
         "editMode": false,
         "name": "923",
-        "id": 311,
+        "id": 309,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -9296,7 +9204,7 @@
       }
     },
     {
-      "id": "283",
+      "id": "281",
       "properties": {
         "filterValues": "1011",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -9309,7 +9217,7 @@
           }
         ],
         "code": "1011",
-        "groupId": "283",
+        "groupId": "281",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -9337,12 +9245,12 @@
         "indicatorsRepoFilterValues": "1011",
         "editMode": false,
         "name": "1011",
-        "id": 283,
+        "id": 281,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "284",
+      "id": "282",
       "properties": {
         "filterValues": "1014",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -9355,7 +9263,7 @@
           }
         ],
         "code": "1014",
-        "groupId": "284",
+        "groupId": "282",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -9383,7 +9291,7 @@
         "indicatorsRepoFilterValues": "1014",
         "editMode": false,
         "name": "1014",
-        "id": 284,
+        "id": 282,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -9756,7 +9664,7 @@
       }
     },
     {
-      "id": "312",
+      "id": "310",
       "properties": {
         "filterValues": "1021",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -9769,7 +9677,7 @@
           }
         ],
         "code": "1021",
-        "groupId": "312",
+        "groupId": "310",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -9797,12 +9705,12 @@
         "indicatorsRepoFilterValues": "1021",
         "editMode": false,
         "name": "1021",
-        "id": 312,
+        "id": 310,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "313",
+      "id": "311",
       "properties": {
         "filterValues": "1022",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -9815,7 +9723,7 @@
           }
         ],
         "code": "1022",
-        "groupId": "313",
+        "groupId": "311",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -9843,12 +9751,12 @@
         "indicatorsRepoFilterValues": "1022",
         "editMode": false,
         "name": "1022",
-        "id": 313,
+        "id": 311,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "314",
+      "id": "312",
       "properties": {
         "filterValues": "1023",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -9861,7 +9769,7 @@
           }
         ],
         "code": "1023",
-        "groupId": "314",
+        "groupId": "312",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -9889,7 +9797,7 @@
         "indicatorsRepoFilterValues": "1023",
         "editMode": false,
         "name": "1023",
-        "id": 314,
+        "id": 312,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -10262,7 +10170,7 @@
       }
     },
     {
-      "id": "285",
+      "id": "283",
       "properties": {
         "filterValues": "1111",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -10275,7 +10183,7 @@
           }
         ],
         "code": "1111",
-        "groupId": "285",
+        "groupId": "283",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -10303,12 +10211,12 @@
         "indicatorsRepoFilterValues": "1111",
         "editMode": false,
         "name": "1111",
-        "id": 285,
+        "id": 283,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "286",
+      "id": "284",
       "properties": {
         "filterValues": "1112",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -10321,7 +10229,7 @@
           }
         ],
         "code": "1112",
-        "groupId": "286",
+        "groupId": "284",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -10349,7 +10257,7 @@
         "indicatorsRepoFilterValues": "1112",
         "editMode": false,
         "name": "1112",
-        "id": 286,
+        "id": 284,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -10722,7 +10630,7 @@
       }
     },
     {
-      "id": "315",
+      "id": "313",
       "properties": {
         "filterValues": "1121",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -10735,7 +10643,7 @@
           }
         ],
         "code": "1121",
-        "groupId": "315",
+        "groupId": "313",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -10763,12 +10671,12 @@
         "indicatorsRepoFilterValues": "1121",
         "editMode": false,
         "name": "1121",
-        "id": 315,
+        "id": 313,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "316",
+      "id": "314",
       "properties": {
         "filterValues": "1124",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -10781,7 +10689,7 @@
           }
         ],
         "code": "1124",
-        "groupId": "316",
+        "groupId": "314",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -10809,7 +10717,7 @@
         "indicatorsRepoFilterValues": "1124",
         "editMode": false,
         "name": "1124",
-        "id": 316,
+        "id": 314,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -11182,7 +11090,7 @@
       }
     },
     {
-      "id": "317",
+      "id": "315",
       "properties": {
         "filterValues": "1221",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -11195,7 +11103,7 @@
           }
         ],
         "code": "1221",
-        "groupId": "317",
+        "groupId": "315",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -11223,12 +11131,12 @@
         "indicatorsRepoFilterValues": "1221",
         "editMode": false,
         "name": "1221",
-        "id": 317,
+        "id": 315,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "318",
+      "id": "316",
       "properties": {
         "filterValues": "1222",
         "repoId": "journal.voinar.data.view.norm_and_calc",
@@ -11241,7 +11149,7 @@
           }
         ],
         "code": "1222",
-        "groupId": "318",
+        "groupId": "316",
         "type": "geo",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
@@ -11269,7 +11177,7 @@
         "indicatorsRepoFilterValues": "1222",
         "editMode": false,
         "name": "1222",
-        "id": 318,
+        "id": 316,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     }
@@ -11357,11 +11265,11 @@
                     "children": []
                   },
                   {
-                    "id": "287",
+                    "id": "285",
                     "children": []
                   },
                   {
-                    "id": "288",
+                    "id": "286",
                     "children": []
                   }
                 ]
@@ -11399,14 +11307,6 @@
                   },
                   {
                     "id": "53",
-                    "children": []
-                  },
-                  {
-                    "id": "260",
-                    "children": []
-                  },
-                  {
-                    "id": "261",
                     "children": []
                   }
                 ]
@@ -11447,11 +11347,11 @@
                     "children": []
                   },
                   {
-                    "id": "289",
+                    "id": "287",
                     "children": []
                   },
                   {
-                    "id": "290",
+                    "id": "288",
                     "children": []
                   }
                 ]
@@ -11488,15 +11388,15 @@
                     "children": []
                   },
                   {
+                    "id": "260",
+                    "children": []
+                  },
+                  {
+                    "id": "261",
+                    "children": []
+                  },
+                  {
                     "id": "262",
-                    "children": []
-                  },
-                  {
-                    "id": "263",
-                    "children": []
-                  },
-                  {
-                    "id": "264",
                     "children": []
                   }
                 ]
@@ -11533,15 +11433,15 @@
                     "children": []
                   },
                   {
+                    "id": "289",
+                    "children": []
+                  },
+                  {
+                    "id": "290",
+                    "children": []
+                  },
+                  {
                     "id": "291",
-                    "children": []
-                  },
-                  {
-                    "id": "292",
-                    "children": []
-                  },
-                  {
-                    "id": "293",
                     "children": []
                   }
                 ]
@@ -11570,15 +11470,15 @@
                     "children": []
                   },
                   {
+                    "id": "263",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "children": []
+                  },
+                  {
                     "id": "265",
-                    "children": []
-                  },
-                  {
-                    "id": "266",
-                    "children": []
-                  },
-                  {
-                    "id": "267",
                     "children": []
                   }
                 ]
@@ -11607,15 +11507,15 @@
                     "children": []
                   },
                   {
+                    "id": "292",
+                    "children": []
+                  },
+                  {
+                    "id": "293",
+                    "children": []
+                  },
+                  {
                     "id": "294",
-                    "children": []
-                  },
-                  {
-                    "id": "295",
-                    "children": []
-                  },
-                  {
-                    "id": "296",
                     "children": []
                   }
                 ]
@@ -11652,15 +11552,15 @@
                     "children": []
                   },
                   {
+                    "id": "266",
+                    "children": []
+                  },
+                  {
+                    "id": "267",
+                    "children": []
+                  },
+                  {
                     "id": "268",
-                    "children": []
-                  },
-                  {
-                    "id": "269",
-                    "children": []
-                  },
-                  {
-                    "id": "270",
                     "children": []
                   }
                 ]
@@ -11697,15 +11597,15 @@
                     "children": []
                   },
                   {
+                    "id": "295",
+                    "children": []
+                  },
+                  {
+                    "id": "296",
+                    "children": []
+                  },
+                  {
                     "id": "297",
-                    "children": []
-                  },
-                  {
-                    "id": "298",
-                    "children": []
-                  },
-                  {
-                    "id": "299",
                     "children": []
                   }
                 ]
@@ -11742,15 +11642,15 @@
                     "children": []
                   },
                   {
+                    "id": "269",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "children": []
+                  },
+                  {
                     "id": "271",
-                    "children": []
-                  },
-                  {
-                    "id": "272",
-                    "children": []
-                  },
-                  {
-                    "id": "273",
                     "children": []
                   }
                 ]
@@ -11787,15 +11687,15 @@
                     "children": []
                   },
                   {
+                    "id": "298",
+                    "children": []
+                  },
+                  {
+                    "id": "299",
+                    "children": []
+                  },
+                  {
                     "id": "300",
-                    "children": []
-                  },
-                  {
-                    "id": "301",
-                    "children": []
-                  },
-                  {
-                    "id": "302",
                     "children": []
                   }
                 ]
@@ -11840,15 +11740,15 @@
                     "children": []
                   },
                   {
+                    "id": "272",
+                    "children": []
+                  },
+                  {
+                    "id": "273",
+                    "children": []
+                  },
+                  {
                     "id": "274",
-                    "children": []
-                  },
-                  {
-                    "id": "275",
-                    "children": []
-                  },
-                  {
-                    "id": "276",
                     "children": []
                   }
                 ]
@@ -11893,15 +11793,15 @@
                     "children": []
                   },
                   {
+                    "id": "301",
+                    "children": []
+                  },
+                  {
+                    "id": "302",
+                    "children": []
+                  },
+                  {
                     "id": "303",
-                    "children": []
-                  },
-                  {
-                    "id": "304",
-                    "children": []
-                  },
-                  {
-                    "id": "305",
                     "children": []
                   }
                 ]
@@ -11938,15 +11838,15 @@
                     "children": []
                   },
                   {
+                    "id": "275",
+                    "children": []
+                  },
+                  {
+                    "id": "276",
+                    "children": []
+                  },
+                  {
                     "id": "277",
-                    "children": []
-                  },
-                  {
-                    "id": "278",
-                    "children": []
-                  },
-                  {
-                    "id": "279",
                     "children": []
                   }
                 ]
@@ -11983,15 +11883,15 @@
                     "children": []
                   },
                   {
+                    "id": "304",
+                    "children": []
+                  },
+                  {
+                    "id": "305",
+                    "children": []
+                  },
+                  {
                     "id": "306",
-                    "children": []
-                  },
-                  {
-                    "id": "307",
-                    "children": []
-                  },
-                  {
-                    "id": "308",
                     "children": []
                   }
                 ]
@@ -12020,15 +11920,15 @@
                     "children": []
                   },
                   {
+                    "id": "278",
+                    "children": []
+                  },
+                  {
+                    "id": "279",
+                    "children": []
+                  },
+                  {
                     "id": "280",
-                    "children": []
-                  },
-                  {
-                    "id": "281",
-                    "children": []
-                  },
-                  {
-                    "id": "282",
                     "children": []
                   }
                 ]
@@ -12057,15 +11957,15 @@
                     "children": []
                   },
                   {
+                    "id": "307",
+                    "children": []
+                  },
+                  {
+                    "id": "308",
+                    "children": []
+                  },
+                  {
                     "id": "309",
-                    "children": []
-                  },
-                  {
-                    "id": "310",
-                    "children": []
-                  },
-                  {
-                    "id": "311",
                     "children": []
                   }
                 ]
@@ -12102,11 +12002,11 @@
                     "children": []
                   },
                   {
-                    "id": "283",
+                    "id": "281",
                     "children": []
                   },
                   {
-                    "id": "284",
+                    "id": "282",
                     "children": []
                   }
                 ]
@@ -12143,15 +12043,15 @@
                     "children": []
                   },
                   {
+                    "id": "310",
+                    "children": []
+                  },
+                  {
+                    "id": "311",
+                    "children": []
+                  },
+                  {
                     "id": "312",
-                    "children": []
-                  },
-                  {
-                    "id": "313",
-                    "children": []
-                  },
-                  {
-                    "id": "314",
                     "children": []
                   }
                 ]
@@ -12188,11 +12088,11 @@
                     "children": []
                   },
                   {
-                    "id": "285",
+                    "id": "283",
                     "children": []
                   },
                   {
-                    "id": "286",
+                    "id": "284",
                     "children": []
                   }
                 ]
@@ -12229,11 +12129,11 @@
                     "children": []
                   },
                   {
-                    "id": "315",
+                    "id": "313",
                     "children": []
                   },
                   {
-                    "id": "316",
+                    "id": "314",
                     "children": []
                   }
                 ]
@@ -12270,11 +12170,11 @@
                     "children": []
                   },
                   {
-                    "id": "317",
+                    "id": "315",
                     "children": []
                   },
                   {
-                    "id": "318",
+                    "id": "316",
                     "children": []
                   }
                 ]
