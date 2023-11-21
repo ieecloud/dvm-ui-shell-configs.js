@@ -30,16 +30,6 @@
         }
       ]
     },
-    "6": {
-      "label": "Журналы",
-      "settings": [
-        {
-          "model": "store",
-          "type": "string",
-          "optionsType": "availableRepos"
-        }
-      ]
-    },
     "4": {
       "label": "Контейнер",
       "settings": [
@@ -96,8 +86,7 @@
         "1",
         "2",
         "3",
-        "5",
-        "6"
+        "5"
       ]
     }
   },

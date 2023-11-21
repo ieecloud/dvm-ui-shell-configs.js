@@ -168,7 +168,29 @@
         "editMode": false,
         "name": "1L6",
         "id": 29,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
+        "indicatorsRepoId": "pivot.indicators.with.criteria",
+        "availableRepos": [
+          {
+            "repoName": "Журнал всех событий",
+            "repoId": "journal.events",
+            "filter": "",
+            "filterValues": ""
+          },
+          {
+            "repoName": "Журнал всех событий2",
+            "repoId": "journal.events2",
+            "filter": "",
+            "filterValues": ""
+          }
+        ],
+        "availableDataRepos": [
+          {
+            "repoName": "Журнал данных",
+            "repoId": "journal.chart",
+            "filter": "",
+            "filterValues": ""
+          }
+        ]
       }
     },
     {
