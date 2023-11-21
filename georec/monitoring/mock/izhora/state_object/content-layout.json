@@ -1,7 +1,9 @@
 {
   "c751df21-main": {
-    "dialog" : false,
-    "excludeSettings" : ["dialog"],
+    "dialog": false,
+    "excludeSettings": [
+      "dialog"
+    ],
     "widgetRows": [
       {
         "id": "row2",
@@ -9,29 +11,29 @@
           {
             "id": "c891733b-4fb3-4231-b901-aaac5edf806f",
             "name": "Состояние Объектов",
-            "fullScreenEnabled" : true,
-            "editEnabled" : false,
+            "fullScreenEnabled": true,
+            "editEnabled": false,
             "add2DNodesEnabled": false,
             "mapViewActions": [
               {
                 "id": "b123df2c-064d-4c2b-9cd9-c82d91d37511",
                 "name": "Стандартная",
-                "map" : "default"
+                "map": "default"
               },
               {
                 "id": "c424df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "Карта улиц",
-                "map" : "mapbox"
+                "map": "mapbox"
               },
               {
                 "id": "a425df2c-064d-4c2b-9cd9-c82d91d37529",
                 "name": "Карта Местности",
-                "map" : "jawg-terrain"
+                "map": "jawg-terrain"
               },
               {
                 "id": "f425df3c-054d-4c2b-9cd9-c82d91d37521",
                 "name": "Спутник",
-                "map" : "arcgisonline"
+                "map": "arcgisonline"
               }
             ],
             "viewActions": [
@@ -58,8 +60,10 @@
     ]
   },
   "c751df2a-object": {
-    "dialog" : false,
-    "excludeSettings" : ["dialog"],
+    "dialog": false,
+    "excludeSettings": [
+      "dialog"
+    ],
     "widgetRows": [
       {
         "id": "row1",
@@ -67,8 +71,8 @@
           {
             "id": "c111df2c-064d-4c2b-9cd9-c82d91d37533",
             "name": "Модель объекта",
-            "fullScreenEnabled" : true,
-            "editEnabled" : false,
+            "fullScreenEnabled": true,
+            "editEnabled": false,
             "add2DNodesEnabled": false,
             "viewActions": [
               {
@@ -99,12 +103,12 @@
               {
                 "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
                 "name": "Модель без результатов",
-                "model" : "default"
+                "model": "default"
               },
               {
                 "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "Модель с перемещением по Х",
-                "model" : "_x"
+                "model": "_x"
               },
               {
                 "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
@@ -121,22 +125,22 @@
               {
                 "id": "b123df2c-064d-4c2b-9cd9-c82d91d37511",
                 "name": "Стандартная",
-                "map" : "default"
+                "map": "default"
               },
               {
                 "id": "c424df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "Карта улиц",
-                "map" : "mapbox"
+                "map": "mapbox"
               },
               {
                 "id": "a425df2c-064d-4c2b-9cd9-c82d91d37529",
                 "name": "Карта Местности",
-                "map" : "jawg-terrain"
+                "map": "jawg-terrain"
               },
               {
                 "id": "f425df3c-054d-4c2b-9cd9-c82d91d37521",
                 "name": "Спутник",
-                "map" : "arcgisonline"
+                "map": "arcgisonline"
               }
             ],
             "clazz": "col-xl-12 col-lg-12",
@@ -152,8 +156,10 @@
     ]
   },
   "e751df2a-object-element": {
-    "dialog" : false,
-    "excludeSettings" : ["dialog"],
+    "dialog": false,
+    "excludeSettings": [
+      "dialog"
+    ],
     "widgetRows": [
       {
         "id": "row2",
@@ -161,11 +167,11 @@
           {
             "id": "c891733b-4fb3-4231-b901-aaac5edf906b",
             "name": "Модель Объекта",
-            "fullScreenEnabled" : true,
-            "editEnabled" : false,
+            "fullScreenEnabled": true,
+            "editEnabled": false,
             "add2DNodesEnabled": true,
-            "add2DNodesEnabledTurnTitle" : "Включить режим привязки узлов к картинке",
-            "add2DNodesEnabledTurnOffTitle" : "Выключить режим привязки узлов к картинке",
+            "add2DNodesEnabledTurnTitle": "Включить режим привязки узлов к картинке",
+            "add2DNodesEnabledTurnOffTitle": "Выключить режим привязки узлов к картинке",
             "viewActions": [
               {
                 "id": "c751dd2c-064d-4c2b-9cd9-c82d91d37610",
@@ -190,12 +196,12 @@
               {
                 "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
                 "name": "Модель без результатов",
-                "model" : "default"
+                "model": "default"
               },
               {
                 "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "Модель с перемещением по Х",
-                "model" : "_x"
+                "model": "_x"
               },
               {
                 "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
@@ -213,7 +219,7 @@
               "id": "a991733b-4fb3-4231-b901-aaac5edf9067",
               "view": "viewer-3d",
               "model": "default",
-              "dataType" : "default"
+              "dataType": "default"
             }
           }
         ]
@@ -221,7 +227,7 @@
     ]
   },
   "e751df2a-object-element-sensor": {
-    "dialog" : false,
+    "dialog": false,
     "widgetRows": [
       {
         "id": "row2",
@@ -229,8 +235,8 @@
           {
             "id": "a891733b-4fb3-4231-b901-aaac5edf916b",
             "name": "Показатели Объекта",
-            "fullScreenEnabled" : true,
-            "editEnabled" : true,
+            "fullScreenEnabled": true,
+            "editEnabled": true,
             "viewActions": [
               {
                 "id": "c951dc2c-064d-4c2b-9cd9-c82d91d37601",
@@ -248,23 +254,48 @@
                 "view": "editMode"
               }
             ],
-            "eventsList": [
+            "availableRepos": [
               {
                 "id": "a223df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "Журнал событий 1",
-                "event" : "eventsStore1"
+                "name": "Журнал всех событий",
+                "repoId": "journal.events",
+                "store": "journal.events"
               },
               {
                 "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Журнал событий 2",
-                "event" : "eventsStore2"
+                "name": "Журнал всех событий2",
+                "repoId": "journal.events2",
+                "store": "journal.events2"
+              },
+              {
+                "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "Журнал данных (Исх.)",
+                "repoId": "journal.geo.data.initial",
+                "store": "journal.geo.data.initial"
+              },
+              {
+                "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "Журнал данных (Норм.)",
+                "repoId": "journal.geo.data.norm",
+                "store": "journal.geo.data.norm",
+                "color" : "rgb(27,151,182)"
+              },
+              {
+                "id": "f224df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "Журнал данных (Расч.)",
+                "repoId": "journal.geo.data.calc",
+                "store": "journal.geo.data.calc",
+                "color": "rgb(146,181,151)"
               }
             ],
             "clazz": "col-xl-12 col-lg-12",
             "widgetContent": {
               "id": "a991733b-4fb3-4231-b901-aaac5edf9007",
               "view": "chart",
-              "dataType" : "default"
+              "dataType": "default",
+              "store": [
+                "journal.geo.data.norm"
+              ]
             }
           },
           {
