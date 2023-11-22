@@ -269,7 +269,7 @@
                 "repoId": "journal.events.objs",
                 "store": "journal.events.objs",
                 "filter": "obj_code",
-                "filterValues": "main"
+                "filterValues": "${node_code}"
               },
               {
                 "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
