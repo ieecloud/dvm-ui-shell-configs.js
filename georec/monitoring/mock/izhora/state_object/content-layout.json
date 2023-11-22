@@ -271,7 +271,9 @@
                 "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "Журнал данных (Исх.)",
                 "repoId": "journal.geo.data.initial",
-                "store": "journal.geo.data.initial"
+                "store": "journal.geo.data.initial",
+                "color": "rgb(247, 182, 182)"
+
               },
               {
                 "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
@@ -294,7 +296,7 @@
               "view": "chart",
               "dataType": "default",
               "store": [
-                "journal.geo.data.norm"
+                "journal.geo.data.norm", "journal.geo.data.calc"
               ]
             }
           },
