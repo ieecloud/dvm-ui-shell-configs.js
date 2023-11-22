@@ -1432,8 +1432,8 @@
     {
       "id": "317",
       "properties": {
-        "filterValues": null,
-        "repoId": null,
+        "filterValues": "211",
+        "repoId": "journal.voinar.data.view.norm_and_calc",
         "availableDataRepos": [
           {
             "repoName": "Журнал данных",
@@ -1443,10 +1443,10 @@
           }
         ],
         "code": "211",
-        "groupId": null,
-        "type": null,
-        "schemeNodeId": null,
-        "viewCode": null,
+        "groupId": "317",
+        "type": "geo",
+        "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "availableRepos": [
           {
             "repoName": "Журнал событй общий",
@@ -1461,25 +1461,25 @@
             "filterValues": "211"
           }
         ],
-        "filter": null,
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": null,
         "defaultView": null,
-        "indicatorsRepoFilter": null,
+        "indicatorsRepoFilter": "name",
         "parent_id": 4,
         "viewer2dModel": null,
-        "indicatorsRepoFilterValues": null,
-        "editMode": null,
+        "indicatorsRepoFilterValues": "211",
+        "editMode": false,
         "name": "211",
         "id": 317,
-        "indicatorsRepoId": null
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
       "id": "318",
       "properties": {
-        "filterValues": null,
-        "repoId": null,
+        "filterValues": "214",
+        "repoId": "journal.voinar.data.view.norm_and_calc",
         "availableDataRepos": [
           {
             "repoName": "Журнал данных",
@@ -1489,10 +1489,10 @@
           }
         ],
         "code": "214",
-        "groupId": null,
-        "type": null,
-        "schemeNodeId": null,
-        "viewCode": null,
+        "groupId": "318",
+        "type": "geo",
+        "schemeNodeId": "e751df2a-object-element-sensor",
+        "viewCode": "",
         "availableRepos": [
           {
             "repoName": "Журнал событй общий",
@@ -1507,18 +1507,18 @@
             "filterValues": "214"
           }
         ],
-        "filter": null,
+        "filter": "pointId",
         "sys_id": 8,
         "viewerModel": null,
         "defaultView": null,
-        "indicatorsRepoFilter": null,
+        "indicatorsRepoFilter": "name",
         "parent_id": 4,
         "viewer2dModel": null,
-        "indicatorsRepoFilterValues": null,
-        "editMode": null,
+        "indicatorsRepoFilterValues": "214",
+        "editMode": false,
         "name": "214",
         "id": 318,
-        "indicatorsRepoId": null
+        "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
