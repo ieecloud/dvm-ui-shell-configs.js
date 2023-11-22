@@ -15,6 +15,14 @@
       "name": "name"
     }
   },
+  "voinar": {
+    "title" : "Перемещение (м)",
+    "zoomLimit" : 2592000000,
+    "indicatorsTml": {
+      "code": "code",
+      "name": "name"
+    }
+  },
   "support": {
     "title" : "Перемещение (м)",
     "zoomLimit" : 2592000000,
