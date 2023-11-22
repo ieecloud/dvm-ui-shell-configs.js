@@ -1430,6 +1430,98 @@
       }
     },
     {
+      "id": "317",
+      "properties": {
+        "filterValues": null,
+        "repoId": null,
+        "availableDataRepos": [
+          {
+            "repoName": "Журнал данных",
+            "repoId": "journal.chart",
+            "filter": "",
+            "filterValues": ""
+          }
+        ],
+        "code": "211",
+        "groupId": null,
+        "type": null,
+        "schemeNodeId": null,
+        "viewCode": null,
+        "availableRepos": [
+          {
+            "repoName": "Журнал событй общий",
+            "repoId": "journal.events.general",
+            "filter": "",
+            "filterValues": ""
+          },
+          {
+            "repoName": "Журнал событий локальный",
+            "repoId": "journal.events.objs",
+            "filter": "obj_code",
+            "filterValues": "211"
+          }
+        ],
+        "filter": null,
+        "sys_id": 8,
+        "viewerModel": null,
+        "defaultView": null,
+        "indicatorsRepoFilter": null,
+        "parent_id": 4,
+        "viewer2dModel": null,
+        "indicatorsRepoFilterValues": null,
+        "editMode": null,
+        "name": "211",
+        "id": 317,
+        "indicatorsRepoId": null
+      }
+    },
+    {
+      "id": "318",
+      "properties": {
+        "filterValues": null,
+        "repoId": null,
+        "availableDataRepos": [
+          {
+            "repoName": "Журнал данных",
+            "repoId": "journal.chart",
+            "filter": "",
+            "filterValues": ""
+          }
+        ],
+        "code": "214",
+        "groupId": null,
+        "type": null,
+        "schemeNodeId": null,
+        "viewCode": null,
+        "availableRepos": [
+          {
+            "repoName": "Журнал событй общий",
+            "repoId": "journal.events.general",
+            "filter": "",
+            "filterValues": ""
+          },
+          {
+            "repoName": "Журнал событий локальный",
+            "repoId": "journal.events.objs",
+            "filter": "obj_code",
+            "filterValues": "214"
+          }
+        ],
+        "filter": null,
+        "sys_id": 8,
+        "viewerModel": null,
+        "defaultView": null,
+        "indicatorsRepoFilter": null,
+        "parent_id": 4,
+        "viewer2dModel": null,
+        "indicatorsRepoFilterValues": null,
+        "editMode": null,
+        "name": "214",
+        "id": 318,
+        "indicatorsRepoId": null
+      }
+    },
+    {
       "id": "5",
       "properties": {
         "filterValues": "",
@@ -11307,6 +11399,14 @@
                   },
                   {
                     "id": "53",
+                    "children": []
+                  },
+                  {
+                    "id": "317",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
                     "children": []
                   }
                 ]
