@@ -254,53 +254,241 @@
                 "view": "editMode"
               }
             ],
-            "availableRepos": [
-              {
-                "id": "a223df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "Журнал событй общий",
-                "repoId": "journal.events.general",
-                "store": "journal.events.general",
-                "filter": "",
-                "filterValues": ""
-              },
-              {
-                "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Журнал событий локальный",
-                "repoId": "journal.events.objs",
-                "store": "journal.events.objs",
-                "filter": "obj_code",
-                "filterValues": "${node_code}"
-              },
-              {
-                "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Журнал данных (Исх.)",
-                "repoId": "journal.geo.data.initial",
-                "store": "journal.geo.data.initial",
-                "color": "rgb(247, 182, 182)"
-
-              },
-              {
-                "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Журнал данных (Норм.)",
-                "repoId": "journal.geo.data.norm",
-                "store": "journal.geo.data.norm",
-                "color" : "rgb(27,151,182)"
-              },
-              {
-                "id": "f224df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Журнал данных (Расч.)",
-                "repoId": "journal.geo.data.calc",
-                "store": "journal.geo.data.calc",
-                "color": "rgb(146,181,151)"
-              }
-            ],
+            "availableRepos": {
+              "geo": [
+                {
+                  "id": "a223df2c-064d-4c2b-9cd9-c82d91d37511",
+                  "name": "Журнал событй общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал Геодезических Показаний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "no_support",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал Геодезических Показаний (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
+                  "viewCode": "no_support",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал Геодезических Показаний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                }
+              ],
+              "support": [
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-a82d91d37512",
+                  "name": "Журнал событий общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-b82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "type": "initial",
+                  "name": "Журнал Геодезических Показаний Опора (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-f82d91d37512",
+                  "type": "norm",
+                  "name": "Журнал Геодезических Показаний Опора (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
+                  "viewCode": "support",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-d82d91d37512",
+                  "type": "calc",
+                  "name": "Журнал Геодезических Показаний Опора (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "support",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9ad9-d82d91d37512",
+                  "type": "forecast.summer",
+                  "name": "Журнал Геодезических Показаний Опора (Прогноз Лето)",
+                  "repoId": "journal.geo.data.forecast.summer",
+                  "store": "journal.geo.data.forecast.summer",
+                  "viewCode": "support",
+                  "color": "",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "forecast.winter",
+                  "name": "Журнал Геодезических Показаний Опора (Прогноз Зима)",
+                  "repoId": "journal.geo.data.forecast.winter",
+                  "store": "journal.geo.data.forecast.winter",
+                  "viewCode": "support",
+                  "color": "",
+                  "show": true
+                }
+              ],
+              "nakl": [
+                {
+                  "id": "f221df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "name": "Журнал событий общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "f222df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "f223df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "initial",
+                  "name": "Журнал Показаний Наклономера (Исх.)",
+                  "repoId": "journal.nakl.data.initial",
+                  "store": "journal.nakl.data.initial",
+                  "viewCode": "",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "norm",
+                  "name": "Журнал Показаний Наклономера (Норм.)",
+                  "repoId": "journal.nakl.data.norm",
+                  "store": "journal.nakl.data.norm",
+                  "viewCode": "support",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f225df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "calc",
+                  "name": "Журнал Показаний Наклономера (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "support",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                }
+              ],
+              "voinar": [
+                {
+                  "id": "f224df2c-064d-1c2b-9cd9-a82d91d37512",
+                  "name": "Журнал событий общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-2c2b-9cd9-b82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-3c2b-9cd9-b82d91d37512",
+                  "type": "initial",
+                  "name": "Журнал Показаний Войнаровского (Исх.)",
+                  "repoId": "journal.voinar.data.initial",
+                  "store": "journal.voinar.data.initial",
+                  "viewCode": "",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-b82d91d37512",
+                  "type": "norm",
+                  "name": "Журнал Показаний Наклономера (Норм.)",
+                  "repoId": "journal.voinar.data.norm",
+                  "store": "journal.voinar.data.norm",
+                  "viewCode": "",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-5c2b-9cd9-b82d91d37512",
+                  "type": "calc",
+                  "name": "Журнал Показаний Наклономера (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                }
+              ]
+            },
             "clazz": "col-xl-12 col-lg-12",
             "widgetContent": {
               "id": "a991733b-4fb3-4231-b901-aaac5edf9007",
               "view": "chart",
               "dataType": "default",
               "store": [
-               "journal.geo.data.norm", "journal.geo.data.calc"
+                "journal.geo.data.norm",
+                "journal.geo.data.calc"
               ]
             }
           },
