@@ -257,15 +257,19 @@
             "availableRepos": [
               {
                 "id": "a223df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "Журнал всех событий",
-                "repoId": "journal.events",
-                "store": "journal.events"
+                "name": "Журнал событй общий",
+                "repoId": "journal.events.general",
+                "store": "journal.events.general",
+                "filter": "",
+                "filterValues": ""
               },
               {
                 "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Журнал всех событий2",
-                "repoId": "journal.events2",
-                "store": "journal.events2"
+                "name": "Журнал событий локальный",
+                "repoId": "journal.events.objs",
+                "store": "journal.events.objs",
+                "filter": "obj_code",
+                "filterValues": "main"
               },
               {
                 "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
@@ -296,7 +300,7 @@
               "view": "chart",
               "dataType": "default",
               "store": [
-                "journal.geo.data.norm", "journal.geo.data.calc"
+               "journal.geo.data.norm", "journal.geo.data.calc"
               ]
             }
           },
