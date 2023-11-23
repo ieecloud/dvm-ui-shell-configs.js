@@ -413,7 +413,7 @@
                   "name": "Журнал Показаний Наклономера (Норм.)",
                   "repoId": "journal.nakl.data.norm",
                   "store": "journal.nakl.data.norm",
-                  "viewCode": "support",
+                  "viewCode": "",
                   "color": "rgb(27,151,182)",
                   "show": true
                 },
@@ -423,7 +423,7 @@
                   "name": "Журнал Показаний Наклономера (Расчёт.)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
-                  "viewCode": "support",
+                  "viewCode": "",
                   "color": "rgb(146,181,151)",
                   "show": true
                 }
