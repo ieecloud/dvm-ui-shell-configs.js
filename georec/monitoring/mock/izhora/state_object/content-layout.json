@@ -76,11 +76,6 @@
             "add2DNodesEnabled": false,
             "viewActions": [
               {
-                "id": "c123df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "2D Вид",
-                "view": "viewer-2d"
-              },
-              {
                 "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "3D Вид",
                 "view": "viewer-3d",
@@ -173,11 +168,6 @@
             "add2DNodesEnabledTurnTitle": "Включить режим привязки узлов к картинке",
             "add2DNodesEnabledTurnOffTitle": "Выключить режим привязки узлов к картинке",
             "viewActions": [
-              {
-                "id": "c751dd2c-064d-4c2b-9cd9-c82d91d37610",
-                "name": "2D Вид",
-                "view": "viewer-2d"
-              },
               {
                 "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "3D Вид",
@@ -362,7 +352,7 @@
                   "show": false
                 },
                 {
-                  "id": "f224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "id": "f224df2c-064d-4c2b-9cd9-c82d91d37518",
                   "type": "initial",
                   "name": "Журнал Геодезических Показаний Опора (Исх.)",
                   "repoId": "journal.geo.data.initial",
@@ -480,7 +470,7 @@
                   "show": false
                 },
                 {
-                  "id": "f224df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "id": "f224df2c-064d-4c2b-9dd9-d82d91d37517",
                   "type": "norm",
                   "name": "Журнал Показаний Наклономера (Норм.)",
                   "repoId": "journal.nakl.data.norm",
@@ -568,7 +558,7 @@
                   "show": false
                 },
                 {
-                  "id": "f224df2c-064d-4c2b-9cd9-b82d91d37512",
+                  "id": "f224df2c-064d-4c2b-9cd9-b82d91d37519",
                   "type": "norm",
                   "name": "Журнал Показаний Войнаровского (Норм.)",
                   "repoId": "journal.voinar.data.norm",
