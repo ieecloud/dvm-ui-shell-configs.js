@@ -465,7 +465,7 @@
                   "name": "Журнал Показаний Наклономера (Исх.)",
                   "repoId": "journal.nakl.data.initial",
                   "store": "journal.nakl.data.initial",
-                  "viewCode": "",
+                  "viewCode": "default2",
                   "color": "rgb(247, 182, 182)",
                   "show": false
                 },
