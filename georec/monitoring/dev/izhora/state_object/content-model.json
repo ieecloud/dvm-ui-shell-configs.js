@@ -478,7 +478,7 @@
         ],
         "code": "111",
         "groupId": "256",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -524,7 +524,7 @@
         ],
         "code": "113",
         "groupId": "257",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -938,7 +938,7 @@
         ],
         "code": "121",
         "groupId": "285",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -984,7 +984,7 @@
         ],
         "code": "122",
         "groupId": "286",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -1444,7 +1444,7 @@
         ],
         "code": "211",
         "groupId": "317",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -1490,7 +1490,7 @@
         ],
         "code": "214",
         "groupId": "318",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -1950,7 +1950,7 @@
         ],
         "code": "221",
         "groupId": "287",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -1996,7 +1996,7 @@
         ],
         "code": "224",
         "groupId": "288",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -2410,7 +2410,7 @@
         ],
         "code": "311",
         "groupId": "260",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -2456,7 +2456,7 @@
         ],
         "code": "312",
         "groupId": "261",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -2502,7 +2502,7 @@
         ],
         "code": "313",
         "groupId": "262",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -2916,7 +2916,7 @@
         ],
         "code": "321",
         "groupId": "289",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -2962,7 +2962,7 @@
         ],
         "code": "322",
         "groupId": "290",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -3008,7 +3008,7 @@
         ],
         "code": "323",
         "groupId": "291",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -3330,7 +3330,7 @@
         ],
         "code": "411",
         "groupId": "263",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -3376,7 +3376,7 @@
         ],
         "code": "412",
         "groupId": "264",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -3422,7 +3422,7 @@
         ],
         "code": "413",
         "groupId": "265",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -3744,7 +3744,7 @@
         ],
         "code": "421",
         "groupId": "292",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -3790,7 +3790,7 @@
         ],
         "code": "422",
         "groupId": "293",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -3836,7 +3836,7 @@
         ],
         "code": "423",
         "groupId": "294",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -4250,7 +4250,7 @@
         ],
         "code": "511",
         "groupId": "266",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -4296,7 +4296,7 @@
         ],
         "code": "512",
         "groupId": "267",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -4342,7 +4342,7 @@
         ],
         "code": "513",
         "groupId": "268",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -4756,7 +4756,7 @@
         ],
         "code": "521",
         "groupId": "295",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -4802,7 +4802,7 @@
         ],
         "code": "522",
         "groupId": "296",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -4848,7 +4848,7 @@
         ],
         "code": "523",
         "groupId": "297",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -5262,7 +5262,7 @@
         ],
         "code": "611",
         "groupId": "269",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -5308,7 +5308,7 @@
         ],
         "code": "612",
         "groupId": "270",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -5354,7 +5354,7 @@
         ],
         "code": "613",
         "groupId": "271",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -5768,7 +5768,7 @@
         ],
         "code": "621",
         "groupId": "298",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -5814,7 +5814,7 @@
         ],
         "code": "622",
         "groupId": "299",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -5860,7 +5860,7 @@
         ],
         "code": "623",
         "groupId": "300",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -6366,7 +6366,7 @@
         ],
         "code": "711",
         "groupId": "272",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -6412,7 +6412,7 @@
         ],
         "code": "712",
         "groupId": "273",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -6458,7 +6458,7 @@
         ],
         "code": "713",
         "groupId": "274",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -6964,7 +6964,7 @@
         ],
         "code": "721",
         "groupId": "301",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -7010,7 +7010,7 @@
         ],
         "code": "722",
         "groupId": "302",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -7056,7 +7056,7 @@
         ],
         "code": "723",
         "groupId": "303",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -7470,7 +7470,7 @@
         ],
         "code": "811",
         "groupId": "275",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -7516,7 +7516,7 @@
         ],
         "code": "812",
         "groupId": "276",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -7562,7 +7562,7 @@
         ],
         "code": "813",
         "groupId": "277",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -7976,7 +7976,7 @@
         ],
         "code": "821",
         "groupId": "304",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8022,7 +8022,7 @@
         ],
         "code": "822",
         "groupId": "305",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8068,7 +8068,7 @@
         ],
         "code": "823",
         "groupId": "306",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8390,7 +8390,7 @@
         ],
         "code": "911",
         "groupId": "278",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8436,7 +8436,7 @@
         ],
         "code": "912",
         "groupId": "279",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8482,7 +8482,7 @@
         ],
         "code": "913",
         "groupId": "280",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8804,7 +8804,7 @@
         ],
         "code": "921",
         "groupId": "307",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8850,7 +8850,7 @@
         ],
         "code": "922",
         "groupId": "308",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -8896,7 +8896,7 @@
         ],
         "code": "923",
         "groupId": "309",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -9310,7 +9310,7 @@
         ],
         "code": "1011",
         "groupId": "281",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -9356,7 +9356,7 @@
         ],
         "code": "1014",
         "groupId": "282",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -9770,7 +9770,7 @@
         ],
         "code": "1021",
         "groupId": "310",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -9816,7 +9816,7 @@
         ],
         "code": "1022",
         "groupId": "311",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -9862,7 +9862,7 @@
         ],
         "code": "1023",
         "groupId": "312",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -10276,7 +10276,7 @@
         ],
         "code": "1111",
         "groupId": "283",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -10322,7 +10322,7 @@
         ],
         "code": "1112",
         "groupId": "284",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -10736,7 +10736,7 @@
         ],
         "code": "1121",
         "groupId": "313",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -10782,7 +10782,7 @@
         ],
         "code": "1124",
         "groupId": "314",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -11196,7 +11196,7 @@
         ],
         "code": "1221",
         "groupId": "315",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
@@ -11242,7 +11242,7 @@
         ],
         "code": "1222",
         "groupId": "316",
-        "type": "geo",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "availableRepos": [
