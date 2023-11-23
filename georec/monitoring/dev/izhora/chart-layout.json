@@ -17,7 +17,7 @@
   },
   "voinar": {
     "title" : "Перемещение (м)",
-    "zoomLimit" : 2592000000,
+    "zoomLimit" : 100,
     "indicatorsTml": {
       "code": "code",
       "name": "name"

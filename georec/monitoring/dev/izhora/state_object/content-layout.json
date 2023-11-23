@@ -302,6 +302,42 @@
                   "viewCode": "no_support",
                   "color": "rgb(146,181,151)",
                   "show": true
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "g2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
                 }
               ],
               "support": [
@@ -362,7 +398,7 @@
                   "repoId": "journal.geo.data.forecast.summer",
                   "store": "journal.geo.data.forecast.summer",
                   "viewCode": "support",
-                  "color": "",
+                  "color": "rgb(255,128,0)",
                   "show": true
                 },
                 {
@@ -372,8 +408,44 @@
                   "repoId": "journal.geo.data.forecast.winter",
                   "store": "journal.geo.data.forecast.winter",
                   "viewCode": "support",
-                  "color": "",
+                  "color": "rgb(0,0,255)",
                   "show": true
+                },
+                {
+                  "id": "s1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "s2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "s1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "s2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
                 }
               ],
               "nakl": [
@@ -426,6 +498,42 @@
                   "viewCode": "",
                   "color": "rgb(146,181,151)",
                   "show": true
+                },
+                {
+                  "id": "n1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "n2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "n1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "n2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
                 }
               ],
               "voinar": [
@@ -462,7 +570,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-b82d91d37512",
                   "type": "norm",
-                  "name": "Журнал Показаний Наклономера (Норм.)",
+                  "name": "Журнал Показаний Войнаровского (Норм.)",
                   "repoId": "journal.voinar.data.norm",
                   "store": "journal.voinar.data.norm",
                   "viewCode": "",
@@ -472,12 +580,48 @@
                 {
                   "id": "f224df2c-064d-5c2b-9cd9-b82d91d37512",
                   "type": "calc",
-                  "name": "Журнал Показаний Наклономера (Расчёт.)",
+                  "name": "Журнал Показаний Войнаровского (Расчёт.)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
                   "viewCode": "",
                   "color": "rgb(146,181,151)",
                   "show": true
+                },
+                {
+                  "id": "v1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "v2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "v1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "v2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
                 }
               ]
             },
