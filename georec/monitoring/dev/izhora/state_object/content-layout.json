@@ -354,7 +354,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-c82d91d37518",
                   "type": "initial",
-                  "name": "Журнал Геодезических Показаний Опора (Исх.)",
+                  "name": "Смещение опорной части (Исх.)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "support",
@@ -364,7 +364,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-f82d91d37512",
                   "type": "norm",
-                  "name": "Журнал Геодезических Показаний Опора (Норм.)",
+                  "name": "Смещение опорной части (Норм.)",
                   "repoId": "journal.geo.data.norm",
                   "store": "journal.geo.data.norm",
                   "viewCode": "support",
@@ -374,7 +374,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-d82d91d37512",
                   "type": "calc",
-                  "name": "Журнал Геодезических Показаний Опора (Расчёт.)",
+                  "name": "Смещение опорной части (Расчёт.)",
                   "repoId": "journal.geo.data.calc",
                   "store": "journal.geo.data.calc",
                   "viewCode": "support",
@@ -384,7 +384,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9ad9-d82d91d37512",
                   "type": "forecast.summer",
-                  "name": "Журнал Геодезических Показаний Опора (Прогноз Лето)",
+                  "name": "Смещение опорной части (Прогноз Лето)",
                   "repoId": "journal.geo.data.forecast.summer",
                   "store": "journal.geo.data.forecast.summer",
                   "viewCode": "support",
@@ -394,7 +394,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9dd9-d82d91d37512",
                   "type": "forecast.winter",
-                  "name": "Журнал Геодезических Показаний Опора (Прогноз Зима)",
+                  "name": "Смещение опорной части (Прогноз Зима)",
                   "repoId": "journal.geo.data.forecast.winter",
                   "store": "journal.geo.data.forecast.winter",
                   "viewCode": "support",
@@ -462,7 +462,7 @@
                 {
                   "id": "f223df2c-064d-4c2b-9dd9-d82d91d37512",
                   "type": "initial",
-                  "name": "Журнал Показаний Наклономера (Исх.)",
+                  "name": "Журнал показаний наклономеров (Исх.)",
                   "repoId": "journal.nakl.data.initial",
                   "store": "journal.nakl.data.initial",
                   "viewCode": "default2",
@@ -472,7 +472,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9dd9-d82d91d37517",
                   "type": "norm",
-                  "name": "Журнал Показаний Наклономера (Норм.)",
+                  "name": "Журнал показаний наклономеров (Норм.)",
                   "repoId": "journal.nakl.data.norm",
                   "store": "journal.nakl.data.norm",
                   "viewCode": "",
@@ -482,7 +482,7 @@
                 {
                   "id": "f225df2c-064d-4c2b-9dd9-d82d91d37512",
                   "type": "calc",
-                  "name": "Журнал Показаний Наклономера (Расчёт.)",
+                  "name": "Журнал показаний наклономеров (Расчёт.)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
                   "viewCode": "",
@@ -550,7 +550,7 @@
                 {
                   "id": "f224df2c-064d-3c2b-9cd9-b82d91d37512",
                   "type": "initial",
-                  "name": "Журнал Показаний Войнаровского (Исх.)",
+                  "name": "Журнал показаний фотограмметрии (Исх.)",
                   "repoId": "journal.voinar.data.initial",
                   "store": "journal.voinar.data.initial",
                   "viewCode": "",
@@ -560,7 +560,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-b82d91d37519",
                   "type": "norm",
-                  "name": "Журнал Показаний Войнаровского (Норм.)",
+                  "name": "Журнал показаний фотограмметрии (Норм.)",
                   "repoId": "journal.voinar.data.norm",
                   "store": "journal.voinar.data.norm",
                   "viewCode": "",
@@ -570,7 +570,7 @@
                 {
                   "id": "f224df2c-064d-5c2b-9cd9-b82d91d37512",
                   "type": "calc",
-                  "name": "Журнал Показаний Войнаровского (Расчёт.)",
+                  "name": "Журнал показаний фотограмметрии (Расчёт.)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
                   "viewCode": "",

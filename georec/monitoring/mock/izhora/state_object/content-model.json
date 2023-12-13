@@ -39,7 +39,7 @@
         "viewCode": "latest",
         "filter": "",
         "sys_id": 6,
-        "viewerModel": "full_new.zip",
+        "viewerModel": "full.zip",
         "defaultView": "",
         "indicatorsRepoFilter": "name",
         "parent_id": 255,
@@ -94,7 +94,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1L2",
         "editMode": false,
-        "name": "1L2",
+        "name": "1L2 (Геодезия)",
         "id": 26,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -118,7 +118,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1L3",
         "editMode": false,
-        "name": "1L3",
+        "name": "1L3 (Геодезия)",
         "id": 27,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -142,7 +142,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1L5",
         "editMode": false,
-        "name": "1L5",
+        "name": "1L5 (Геодезия)",
         "id": 28,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -166,56 +166,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1L6",
         "editMode": false,
-        "name": "1L6",
+        "name": "1L6 (Геодезия)",
         "id": 29,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "30",
-      "properties": {
-        "filterValues": "1L-B4,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "1L-B4,4",
-        "groupId": "30",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 2,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1L-B4,4",
-        "editMode": false,
-        "name": "1L-B4,4",
-        "id": 30,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "31",
-      "properties": {
-        "filterValues": "1L-B5,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "1L-B5,4",
-        "groupId": "31",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 2,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1L-B5,4",
-        "editMode": false,
-        "name": "1L-B5,4",
-        "id": 31,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -238,7 +190,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1L-nakl",
         "editMode": false,
-        "name": "1L-nakl",
+        "name": "1L-nakl (Наклономеры)",
         "id": 32,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -262,7 +214,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1L-R_support",
         "editMode": false,
-        "name": "1L-R_support",
+        "name": "1L-R_support (Опорные части)",
         "id": 33,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -286,7 +238,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1L-L_support",
         "editMode": false,
-        "name": "1L-L_support",
+        "name": "1L-L_support (Опорные части)",
         "id": 34,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -310,7 +262,7 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "111",
         "editMode": false,
-        "name": "111",
+        "name": "111 (Фотограмметрия)",
         "id": 256,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -334,7 +286,7 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "113",
         "editMode": false,
-        "name": "113",
+        "name": "113 (Фотограмметрия)",
         "id": 257,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -382,7 +334,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1R1",
         "editMode": false,
-        "name": "1R1",
+        "name": "1R1 (Геодезия)",
         "id": 141,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -406,7 +358,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1R2",
         "editMode": false,
-        "name": "1R2",
+        "name": "1R2 (Геодезия)",
         "id": 142,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -430,7 +382,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1R5",
         "editMode": false,
-        "name": "1R5",
+        "name": "1R5 (Геодезия)",
         "id": 143,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -454,56 +406,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1R6",
         "editMode": false,
-        "name": "1R6",
+        "name": "1R6 (Геодезия)",
         "id": 144,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "145",
-      "properties": {
-        "filterValues": "1R-B4,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "1R-B4,3",
-        "groupId": "145",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 3,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1R-B4,3",
-        "editMode": false,
-        "name": "1R-B4,3",
-        "id": 145,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "146",
-      "properties": {
-        "filterValues": "1R-B5,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "1R-B5,3",
-        "groupId": "146",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 3,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "1R-B5,3",
-        "editMode": false,
-        "name": "1R-B5,3",
-        "id": 146,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -526,7 +430,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1R-nakl",
         "editMode": false,
-        "name": "1R-nakl",
+        "name": "1R-nakl (Наклономеры)",
         "id": 147,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -550,7 +454,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1R-R_support",
         "editMode": false,
-        "name": "1R-R_support",
+        "name": "1R-R_support (Опорные части)",
         "id": 148,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -574,19 +478,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "1R-L_support",
         "editMode": false,
-        "name": "1R-L_support",
+        "name": "1R-L_support (Опорные части)",
         "id": 149,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "287",
+      "id": "285",
       "properties": {
         "filterValues": "121",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "121",
-        "groupId": "287",
-        "type": "geo",
+        "groupId": "285",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -598,19 +502,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "121",
         "editMode": false,
-        "name": "121",
-        "id": 287,
+        "name": "121 (Фотограмметрия)",
+        "id": 285,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "288",
+      "id": "286",
       "properties": {
         "filterValues": "122",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "122",
-        "groupId": "288",
-        "type": "geo",
+        "groupId": "286",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -622,8 +526,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "122",
         "editMode": false,
-        "name": "122",
-        "id": 288,
+        "name": "122 (Фотограмметрия)",
+        "id": 286,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -670,7 +574,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L1",
         "editMode": false,
-        "name": "2L1",
+        "name": "2L1 (Геодезия)",
         "id": 44,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -694,7 +598,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L2",
         "editMode": false,
-        "name": "2L2",
+        "name": "2L2 (Геодезия)",
         "id": 45,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -718,7 +622,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L3",
         "editMode": false,
-        "name": "2L3",
+        "name": "2L3 (Геодезия)",
         "id": 46,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -742,7 +646,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L4",
         "editMode": false,
-        "name": "2L4",
+        "name": "2L4 (Геодезия)",
         "id": 47,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -766,56 +670,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L5",
         "editMode": false,
-        "name": "2L5",
+        "name": "2L5 (Геодезия)",
         "id": 48,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "49",
-      "properties": {
-        "filterValues": "2L-B3,22",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "2L-B3,22",
-        "groupId": "49",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 4,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2L-B3,22",
-        "editMode": false,
-        "name": "2L-B3,22",
-        "id": 49,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "50",
-      "properties": {
-        "filterValues": "2L-B3,23",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "2L-B3,23",
-        "groupId": "50",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 4,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2L-B3,23",
-        "editMode": false,
-        "name": "2L-B3,23",
-        "id": 50,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -838,7 +694,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L-nakl",
         "editMode": false,
-        "name": "2L-nakl",
+        "name": "2L-nakl (Наклономеры)",
         "id": 51,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -862,7 +718,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L-R_support",
         "editMode": false,
-        "name": "2L-R_support",
+        "name": "2L-R_support (Опорные части)",
         "id": 52,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -886,19 +742,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2L-L_support",
         "editMode": false,
-        "name": "2L-L_support",
+        "name": "2L-L_support (Опорные части)",
         "id": 53,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "260",
+      "id": "317",
       "properties": {
         "filterValues": "211",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "211",
-        "groupId": "260",
-        "type": "geo",
+        "groupId": "317",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -910,19 +766,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "211",
         "editMode": false,
-        "name": "211",
-        "id": 260,
+        "name": "211 (Фотограмметрия)",
+        "id": 317,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "261",
+      "id": "318",
       "properties": {
         "filterValues": "214",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "214",
-        "groupId": "261",
-        "type": "geo",
+        "groupId": "318",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -934,8 +790,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "214",
         "editMode": false,
-        "name": "214",
-        "id": 261,
+        "name": "214 (Фотограмметрия)",
+        "id": 318,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -982,7 +838,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R1",
         "editMode": false,
-        "name": "2R1",
+        "name": "2R1 (Геодезия)",
         "id": 150,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1006,7 +862,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R2",
         "editMode": false,
-        "name": "2R2",
+        "name": "2R2 (Геодезия)",
         "id": 151,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1030,7 +886,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R3",
         "editMode": false,
-        "name": "2R3",
+        "name": "2R3 (Геодезия)",
         "id": 152,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1054,7 +910,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R4",
         "editMode": false,
-        "name": "2R4",
+        "name": "2R4 (Геодезия)",
         "id": 153,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1078,56 +934,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R5",
         "editMode": false,
-        "name": "2R5",
+        "name": "2R5 (Геодезия)",
         "id": 154,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "155",
-      "properties": {
-        "filterValues": "2R-B3,20",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "2R-B3,20",
-        "groupId": "155",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 5,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2R-B3,20",
-        "editMode": false,
-        "name": "2R-B3,20",
-        "id": 155,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "156",
-      "properties": {
-        "filterValues": "2R-B3,21",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "2R-B3,21",
-        "groupId": "156",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 5,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "2R-B3,21",
-        "editMode": false,
-        "name": "2R-B3,21",
-        "id": 156,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1150,7 +958,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R-nakl",
         "editMode": false,
-        "name": "2R-nakl",
+        "name": "2R-nakl (Наклономеры)",
         "id": 157,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1174,7 +982,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R-R_support",
         "editMode": false,
-        "name": "2R-R_support",
+        "name": "2R-R_support (Опорные части)",
         "id": 158,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1198,19 +1006,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "2R-L_support",
         "editMode": false,
-        "name": "2R-L_support",
+        "name": "2R-L_support (Опорные части)",
         "id": 159,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "289",
+      "id": "287",
       "properties": {
         "filterValues": "221",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "221",
-        "groupId": "289",
-        "type": "geo",
+        "groupId": "287",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1222,19 +1030,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "221",
         "editMode": false,
-        "name": "221",
-        "id": 289,
+        "name": "221 (Фотограмметрия)",
+        "id": 287,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "290",
+      "id": "288",
       "properties": {
         "filterValues": "224",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "224",
-        "groupId": "290",
-        "type": "geo",
+        "groupId": "288",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1246,8 +1054,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "224",
         "editMode": false,
-        "name": "224",
-        "id": 290,
+        "name": "224 (Фотограмметрия)",
+        "id": 288,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1294,7 +1102,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3L1",
         "editMode": false,
-        "name": "3L1",
+        "name": "3L1 (Геодезия)",
         "id": 54,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1318,7 +1126,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3L2",
         "editMode": false,
-        "name": "3L2",
+        "name": "3L2 (Геодезия)",
         "id": 55,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1342,7 +1150,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3L3",
         "editMode": false,
-        "name": "3L3",
+        "name": "3L3 (Геодезия)",
         "id": 56,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1366,80 +1174,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3L4",
         "editMode": false,
-        "name": "3L4",
+        "name": "3L4 (Геодезия)",
         "id": 57,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "58",
-      "properties": {
-        "filterValues": "3L-B1,22",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "3L-B1,22",
-        "groupId": "58",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 6,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3L-B1,22",
-        "editMode": false,
-        "name": "3L-B1,22",
-        "id": 58,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "59",
-      "properties": {
-        "filterValues": "3L-B2,8",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "3L-B2,8",
-        "groupId": "59",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 6,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3L-B2,8",
-        "editMode": false,
-        "name": "3L-B2,8",
-        "id": 59,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "60",
-      "properties": {
-        "filterValues": "3L-B3,19",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "3L-B3,19",
-        "groupId": "60",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 6,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3L-B3,19",
-        "editMode": false,
-        "name": "3L-B3,19",
-        "id": 60,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1462,7 +1198,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3L-nakl",
         "editMode": false,
-        "name": "3L-nakl",
+        "name": "3L-nakl (Наклономеры)",
         "id": 61,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1486,7 +1222,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3L-R_support",
         "editMode": false,
-        "name": "3L-R_support",
+        "name": "3L-R_support (Опорные части)",
         "id": 62,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1510,19 +1246,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3L-L_support",
         "editMode": false,
-        "name": "3L-L_support",
+        "name": "3L-L_support (Опорные части)",
         "id": 63,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "262",
+      "id": "260",
       "properties": {
         "filterValues": "311",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "311",
-        "groupId": "262",
-        "type": "geo",
+        "groupId": "260",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1534,19 +1270,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "311",
         "editMode": false,
-        "name": "311",
-        "id": 262,
+        "name": "311 (Фотограмметрия)",
+        "id": 260,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "263",
+      "id": "261",
       "properties": {
         "filterValues": "312",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "312",
-        "groupId": "263",
-        "type": "geo",
+        "groupId": "261",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1558,19 +1294,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "312",
         "editMode": false,
-        "name": "312",
-        "id": 263,
+        "name": "312 (Фотограмметрия)",
+        "id": 261,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "264",
+      "id": "262",
       "properties": {
         "filterValues": "313",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "313",
-        "groupId": "264",
-        "type": "geo",
+        "groupId": "262",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1582,8 +1318,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "313",
         "editMode": false,
-        "name": "313",
-        "id": 264,
+        "name": "313 (Фотограмметрия)",
+        "id": 262,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1630,7 +1366,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3R1",
         "editMode": false,
-        "name": "3R1",
+        "name": "3R1 (Геодезия)",
         "id": 160,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1654,7 +1390,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3R2",
         "editMode": false,
-        "name": "3R2",
+        "name": "3R2 (Геодезия)",
         "id": 161,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1678,7 +1414,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3R3",
         "editMode": false,
-        "name": "3R3",
+        "name": "3R3 (Геодезия)",
         "id": 162,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1702,80 +1438,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3R4",
         "editMode": false,
-        "name": "3R4",
+        "name": "3R4 (Геодезия)",
         "id": 163,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "164",
-      "properties": {
-        "filterValues": "3R-B1,21",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "3R-B1,21",
-        "groupId": "164",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 7,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3R-B1,21",
-        "editMode": false,
-        "name": "3R-B1,21",
-        "id": 164,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "165",
-      "properties": {
-        "filterValues": "3R-B2,7",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "3R-B2,7",
-        "groupId": "165",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 7,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3R-B2,7",
-        "editMode": false,
-        "name": "3R-B2,7",
-        "id": 165,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "166",
-      "properties": {
-        "filterValues": "3R-B3,18",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "3R-B3,18",
-        "groupId": "166",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 7,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "3R-B3,18",
-        "editMode": false,
-        "name": "3R-B3,18",
-        "id": 166,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1798,7 +1462,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3R-nakl",
         "editMode": false,
-        "name": "3R-nakl",
+        "name": "3R-nakl (Наклономеры)",
         "id": 167,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1822,7 +1486,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3R-R_support",
         "editMode": false,
-        "name": "3R-R_support",
+        "name": "3R-R_support (Опорные части)",
         "id": 168,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1846,19 +1510,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "3R-L_support",
         "editMode": false,
-        "name": "3R-L_support",
+        "name": "3R-L_support (Опорные части)",
         "id": 169,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "291",
+      "id": "289",
       "properties": {
         "filterValues": "321",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "321",
-        "groupId": "291",
-        "type": "geo",
+        "groupId": "289",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1870,19 +1534,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "321",
         "editMode": false,
-        "name": "321",
-        "id": 291,
+        "name": "321 (Фотограмметрия)",
+        "id": 289,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "292",
+      "id": "290",
       "properties": {
         "filterValues": "322",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "322",
-        "groupId": "292",
-        "type": "geo",
+        "groupId": "290",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1894,19 +1558,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "322",
         "editMode": false,
-        "name": "322",
-        "id": 292,
+        "name": "322 (Фотограмметрия)",
+        "id": 290,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "293",
+      "id": "291",
       "properties": {
         "filterValues": "323",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "323",
-        "groupId": "293",
-        "type": "geo",
+        "groupId": "291",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -1918,8 +1582,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "323",
         "editMode": false,
-        "name": "323",
-        "id": 293,
+        "name": "323 (Фотограмметрия)",
+        "id": 291,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -1966,7 +1630,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4L1",
         "editMode": false,
-        "name": "4L1",
+        "name": "4L1 (Геодезия)",
         "id": 64,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -1990,7 +1654,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4L2",
         "editMode": false,
-        "name": "4L2",
+        "name": "4L2 (Геодезия)",
         "id": 65,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2014,7 +1678,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4L3",
         "editMode": false,
-        "name": "4L3",
+        "name": "4L3 (Геодезия)",
         "id": 66,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2038,80 +1702,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4L4",
         "editMode": false,
-        "name": "4L4",
+        "name": "4L4 (Геодезия)",
         "id": 67,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "68",
-      "properties": {
-        "filterValues": "4L-B1,20",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "4L-B1,20",
-        "groupId": "68",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 8,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4L-B1,20",
-        "editMode": false,
-        "name": "4L-B1,20",
-        "id": 68,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "69",
-      "properties": {
-        "filterValues": "4L-B2,6",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "4L-B2,6",
-        "groupId": "69",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 8,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4L-B2,6",
-        "editMode": false,
-        "name": "4L-B2,6",
-        "id": 69,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "70",
-      "properties": {
-        "filterValues": "4L-B3,17",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "4L-B3,17",
-        "groupId": "70",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 8,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4L-B3,17",
-        "editMode": false,
-        "name": "4L-B3,17",
-        "id": 70,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2134,19 +1726,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4L-nakl",
         "editMode": false,
-        "name": "4L-nakl",
+        "name": "4L-nakl (Наклономеры)",
         "id": 71,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "265",
+      "id": "263",
       "properties": {
         "filterValues": "411",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "411",
-        "groupId": "265",
-        "type": "geo",
+        "groupId": "263",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2158,19 +1750,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "411",
         "editMode": false,
-        "name": "411",
-        "id": 265,
+        "name": "411 (Фотограмметрия)",
+        "id": 263,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "266",
+      "id": "264",
       "properties": {
         "filterValues": "412",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "412",
-        "groupId": "266",
-        "type": "geo",
+        "groupId": "264",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2182,19 +1774,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "412",
         "editMode": false,
-        "name": "412",
-        "id": 266,
+        "name": "412 (Фотограмметрия)",
+        "id": 264,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "267",
+      "id": "265",
       "properties": {
         "filterValues": "413",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "413",
-        "groupId": "267",
-        "type": "geo",
+        "groupId": "265",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2206,8 +1798,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "413",
         "editMode": false,
-        "name": "413",
-        "id": 267,
+        "name": "413 (Фотограмметрия)",
+        "id": 265,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2254,7 +1846,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4R3",
         "editMode": false,
-        "name": "4R3",
+        "name": "4R3 (Геодезия)",
         "id": 170,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2278,7 +1870,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4R4",
         "editMode": false,
-        "name": "4R4",
+        "name": "4R4 (Геодезия)",
         "id": 171,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2302,7 +1894,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4R5",
         "editMode": false,
-        "name": "4R5",
+        "name": "4R5 (Геодезия)",
         "id": 172,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2326,80 +1918,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4R6",
         "editMode": false,
-        "name": "4R6",
+        "name": "4R6 (Геодезия)",
         "id": 173,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "174",
-      "properties": {
-        "filterValues": "4R-B1,19",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "4R-B1,19",
-        "groupId": "174",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 9,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4R-B1,19",
-        "editMode": false,
-        "name": "4R-B1,19",
-        "id": 174,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "175",
-      "properties": {
-        "filterValues": "4R-B2,5",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "4R-B2,5",
-        "groupId": "175",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 9,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4R-B2,5",
-        "editMode": false,
-        "name": "4R-B2,5",
-        "id": 175,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "176",
-      "properties": {
-        "filterValues": "4R-B3,16",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "4R-B3,16",
-        "groupId": "176",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 9,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "4R-B3,16",
-        "editMode": false,
-        "name": "4R-B3,16",
-        "id": 176,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2422,19 +1942,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "4R-nakl",
         "editMode": false,
-        "name": "4R-nakl",
+        "name": "4R-nakl (Наклономеры)",
         "id": 177,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "294",
+      "id": "292",
       "properties": {
         "filterValues": "421",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "421",
-        "groupId": "294",
-        "type": "geo",
+        "groupId": "292",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2446,19 +1966,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "421",
         "editMode": false,
-        "name": "421",
-        "id": 294,
+        "name": "421 (Фотограмметрия)",
+        "id": 292,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "295",
+      "id": "293",
       "properties": {
         "filterValues": "422",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "422",
-        "groupId": "295",
-        "type": "geo",
+        "groupId": "293",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2470,19 +1990,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "422",
         "editMode": false,
-        "name": "422",
-        "id": 295,
+        "name": "422 (Фотограмметрия)",
+        "id": 293,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "296",
+      "id": "294",
       "properties": {
         "filterValues": "423",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "423",
-        "groupId": "296",
-        "type": "geo",
+        "groupId": "294",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2494,8 +2014,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "423",
         "editMode": false,
-        "name": "423",
-        "id": 296,
+        "name": "423 (Фотограмметрия)",
+        "id": 294,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2542,7 +2062,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5L5",
         "editMode": false,
-        "name": "5L5",
+        "name": "5L5 (Геодезия)",
         "id": 72,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2566,7 +2086,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5L6",
         "editMode": false,
-        "name": "5L6",
+        "name": "5L6 (Геодезия)",
         "id": 73,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2590,7 +2110,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5L8",
         "editMode": false,
-        "name": "5L8",
+        "name": "5L8 (Геодезия)",
         "id": 74,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2614,80 +2134,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5L9",
         "editMode": false,
-        "name": "5L9",
+        "name": "5L9 (Геодезия)",
         "id": 75,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "76",
-      "properties": {
-        "filterValues": "5L-B1,17",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "5L-B1,17",
-        "groupId": "76",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 10,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5L-B1,17",
-        "editMode": false,
-        "name": "5L-B1,17",
-        "id": 76,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "77",
-      "properties": {
-        "filterValues": "5L-B1,18",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "5L-B1,18",
-        "groupId": "77",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 10,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5L-B1,18",
-        "editMode": false,
-        "name": "5L-B1,18",
-        "id": 77,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "78",
-      "properties": {
-        "filterValues": "5L-B3,15",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "5L-B3,15",
-        "groupId": "78",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 10,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5L-B3,15",
-        "editMode": false,
-        "name": "5L-B3,15",
-        "id": 78,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2710,7 +2158,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5L-nakl",
         "editMode": false,
-        "name": "5L-nakl",
+        "name": "5L-nakl (Наклономеры)",
         "id": 79,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2734,7 +2182,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5L-R_support",
         "editMode": false,
-        "name": "5L-R_support",
+        "name": "5L-R_support (Опорные части)",
         "id": 80,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2758,19 +2206,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5L-L_support",
         "editMode": false,
-        "name": "5L-L_support",
+        "name": "5L-L_support (Опорные части)",
         "id": 81,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "268",
+      "id": "266",
       "properties": {
         "filterValues": "511",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "511",
-        "groupId": "268",
-        "type": "geo",
+        "groupId": "266",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2782,19 +2230,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "511",
         "editMode": false,
-        "name": "511",
-        "id": 268,
+        "name": "511 (Фотограмметрия)",
+        "id": 266,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "269",
+      "id": "267",
       "properties": {
         "filterValues": "512",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "512",
-        "groupId": "269",
-        "type": "geo",
+        "groupId": "267",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2806,19 +2254,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "512",
         "editMode": false,
-        "name": "512",
-        "id": 269,
+        "name": "512 (Фотограмметрия)",
+        "id": 267,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "270",
+      "id": "268",
       "properties": {
         "filterValues": "513",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "513",
-        "groupId": "270",
-        "type": "geo",
+        "groupId": "268",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -2830,8 +2278,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "513",
         "editMode": false,
-        "name": "513",
-        "id": 270,
+        "name": "513 (Фотограмметрия)",
+        "id": 268,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -2878,7 +2326,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5R3",
         "editMode": false,
-        "name": "5R3",
+        "name": "5R3 (Геодезия)",
         "id": 178,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2902,7 +2350,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5R4",
         "editMode": false,
-        "name": "5R4",
+        "name": "5R4 (Геодезия)",
         "id": 179,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2926,7 +2374,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5R5",
         "editMode": false,
-        "name": "5R5",
+        "name": "5R5 (Геодезия)",
         "id": 180,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -2950,80 +2398,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5R6",
         "editMode": false,
-        "name": "5R6",
+        "name": "5R6 (Геодезия)",
         "id": 181,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "182",
-      "properties": {
-        "filterValues": "5R-B1,15",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "5R-B1,15",
-        "groupId": "182",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 11,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5R-B1,15",
-        "editMode": false,
-        "name": "5R-B1,15",
-        "id": 182,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "183",
-      "properties": {
-        "filterValues": "5R-B1,16",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "5R-B1,16",
-        "groupId": "183",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 11,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5R-B1,16",
-        "editMode": false,
-        "name": "5R-B1,16",
-        "id": 183,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "184",
-      "properties": {
-        "filterValues": "5R-B3,14",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "5R-B3,14",
-        "groupId": "184",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 11,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "5R-B3,14",
-        "editMode": false,
-        "name": "5R-B3,14",
-        "id": 184,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3046,7 +2422,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5R-nakl",
         "editMode": false,
-        "name": "5R-nakl",
+        "name": "5R-nakl (Наклономеры)",
         "id": 185,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3070,7 +2446,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5R-R_support",
         "editMode": false,
-        "name": "5R-R_support",
+        "name": "5R-R_support (Опорные части)",
         "id": 186,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3094,19 +2470,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "5R-L_support",
         "editMode": false,
-        "name": "5R-L_support",
+        "name": "5R-L_support (Опорные части)",
         "id": 187,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "297",
+      "id": "295",
       "properties": {
         "filterValues": "521",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "521",
-        "groupId": "297",
-        "type": "geo",
+        "groupId": "295",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3118,19 +2494,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "521",
         "editMode": false,
-        "name": "521",
-        "id": 297,
+        "name": "521 (Фотограмметрия)",
+        "id": 295,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "298",
+      "id": "296",
       "properties": {
         "filterValues": "522",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "522",
-        "groupId": "298",
-        "type": "geo",
+        "groupId": "296",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3142,19 +2518,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "522",
         "editMode": false,
-        "name": "522",
-        "id": 298,
+        "name": "522 (Фотограмметрия)",
+        "id": 296,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "299",
+      "id": "297",
       "properties": {
         "filterValues": "523",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "523",
-        "groupId": "299",
-        "type": "geo",
+        "groupId": "297",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3166,8 +2542,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "523",
         "editMode": false,
-        "name": "523",
-        "id": 299,
+        "name": "523 (Фотограмметрия)",
+        "id": 297,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3214,7 +2590,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6L3",
         "editMode": false,
-        "name": "6L3",
+        "name": "6L3 (Геодезия)",
         "id": 82,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3238,7 +2614,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6L4A",
         "editMode": false,
-        "name": "6L4A",
+        "name": "6L4A (Геодезия)",
         "id": 83,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3262,7 +2638,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6L5",
         "editMode": false,
-        "name": "6L5",
+        "name": "6L5 (Геодезия)",
         "id": 84,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3286,80 +2662,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6L6",
         "editMode": false,
-        "name": "6L6",
+        "name": "6L6 (Геодезия)",
         "id": 85,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "86",
-      "properties": {
-        "filterValues": "6L-B1,11",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "6L-B1,11",
-        "groupId": "86",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 12,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6L-B1,11",
-        "editMode": false,
-        "name": "6L-B1,11",
-        "id": 86,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "87",
-      "properties": {
-        "filterValues": "6L-B1,12",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "6L-B1,12",
-        "groupId": "87",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 12,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6L-B1,12",
-        "editMode": false,
-        "name": "6L-B1,12",
-        "id": 87,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "88",
-      "properties": {
-        "filterValues": "6L-B3,12",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "6L-B3,12",
-        "groupId": "88",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 12,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6L-B3,12",
-        "editMode": false,
-        "name": "6L-B3,12",
-        "id": 88,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3382,7 +2686,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6L-nakl",
         "editMode": false,
-        "name": "6L-nakl",
+        "name": "6L-nakl (Наклономеры)",
         "id": 89,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3406,7 +2710,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6L-R_support",
         "editMode": false,
-        "name": "6L-R_support",
+        "name": "6L-R_support (Опорные части)",
         "id": 90,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3430,19 +2734,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6L-L_support",
         "editMode": false,
-        "name": "6L-L_support",
+        "name": "6L-L_support (Опорные части)",
         "id": 91,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "271",
+      "id": "269",
       "properties": {
         "filterValues": "611",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "611",
-        "groupId": "271",
-        "type": "geo",
+        "groupId": "269",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3454,19 +2758,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "611",
         "editMode": false,
-        "name": "611",
-        "id": 271,
+        "name": "611 (Фотограмметрия)",
+        "id": 269,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "272",
+      "id": "270",
       "properties": {
         "filterValues": "612",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "612",
-        "groupId": "272",
-        "type": "geo",
+        "groupId": "270",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3478,19 +2782,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "612",
         "editMode": false,
-        "name": "612",
-        "id": 272,
+        "name": "612 (Фотограмметрия)",
+        "id": 270,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "273",
+      "id": "271",
       "properties": {
         "filterValues": "613",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "613",
-        "groupId": "273",
-        "type": "geo",
+        "groupId": "271",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3502,8 +2806,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "613",
         "editMode": false,
-        "name": "613",
-        "id": 273,
+        "name": "613 (Фотограмметрия)",
+        "id": 271,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3550,7 +2854,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6R5",
         "editMode": false,
-        "name": "6R5",
+        "name": "6R5 (Геодезия)",
         "id": 188,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3574,7 +2878,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6R6",
         "editMode": false,
-        "name": "6R6",
+        "name": "6R6 (Геодезия)",
         "id": 189,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3598,7 +2902,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6R7",
         "editMode": false,
-        "name": "6R7",
+        "name": "6R7 (Геодезия)",
         "id": 190,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3622,80 +2926,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6R8",
         "editMode": false,
-        "name": "6R8",
+        "name": "6R8 (Геодезия)",
         "id": 191,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "192",
-      "properties": {
-        "filterValues": "6R-B1,13",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "6R-B1,13",
-        "groupId": "192",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 13,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6R-B1,13",
-        "editMode": false,
-        "name": "6R-B1,13",
-        "id": 192,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "193",
-      "properties": {
-        "filterValues": "6R-B1,14",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "6R-B1,14",
-        "groupId": "193",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 13,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6R-B1,14",
-        "editMode": false,
-        "name": "6R-B1,14",
-        "id": 193,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "194",
-      "properties": {
-        "filterValues": "6R-B3,14",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "6R-B3,14",
-        "groupId": "194",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 13,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "6R-B3,14",
-        "editMode": false,
-        "name": "6R-B3,14",
-        "id": 194,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3718,7 +2950,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6R-nakl",
         "editMode": false,
-        "name": "6R-nakl",
+        "name": "6R-nakl (Наклономеры)",
         "id": 195,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3742,7 +2974,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6R-R_support",
         "editMode": false,
-        "name": "6R-R_support",
+        "name": "6R-R_support (Опорные части)",
         "id": 196,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3766,19 +2998,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "6R-L_support",
         "editMode": false,
-        "name": "6R-L_support",
+        "name": "6R-L_support (Опорные части)",
         "id": 197,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "300",
+      "id": "298",
       "properties": {
         "filterValues": "621",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "621",
-        "groupId": "300",
-        "type": "geo",
+        "groupId": "298",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3790,19 +3022,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "621",
         "editMode": false,
-        "name": "621",
-        "id": 300,
+        "name": "621 (Фотограмметрия)",
+        "id": 298,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "301",
+      "id": "299",
       "properties": {
         "filterValues": "622",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "622",
-        "groupId": "301",
-        "type": "geo",
+        "groupId": "299",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3814,19 +3046,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "622",
         "editMode": false,
-        "name": "622",
-        "id": 301,
+        "name": "622 (Фотограмметрия)",
+        "id": 299,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "302",
+      "id": "300",
       "properties": {
         "filterValues": "623",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "623",
-        "groupId": "302",
-        "type": "geo",
+        "groupId": "300",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -3838,8 +3070,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "623",
         "editMode": false,
-        "name": "623",
-        "id": 302,
+        "name": "623 (Фотограмметрия)",
+        "id": 300,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -3886,7 +3118,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L7",
         "editMode": false,
-        "name": "7L7",
+        "name": "7L7 (Геодезия)",
         "id": 92,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3910,7 +3142,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L8",
         "editMode": false,
-        "name": "7L8",
+        "name": "7L8 (Геодезия)",
         "id": 93,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3934,7 +3166,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L12",
         "editMode": false,
-        "name": "7L12",
+        "name": "7L12 (Геодезия)",
         "id": 94,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -3958,80 +3190,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L13A",
         "editMode": false,
-        "name": "7L13A",
+        "name": "7L13A (Геодезия)",
         "id": 95,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "96",
-      "properties": {
-        "filterValues": "7L-B1,7",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "7L-B1,7",
-        "groupId": "96",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 14,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7L-B1,7",
-        "editMode": false,
-        "name": "7L-B1,7",
-        "id": 96,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "97",
-      "properties": {
-        "filterValues": "7L-B1,8",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "7L-B1,8",
-        "groupId": "97",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 14,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7L-B1,8",
-        "editMode": false,
-        "name": "7L-B1,8",
-        "id": 97,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "98",
-      "properties": {
-        "filterValues": "7L-B3,10",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "7L-B3,10",
-        "groupId": "98",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 14,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7L-B3,10",
-        "editMode": false,
-        "name": "7L-B3,10",
-        "id": 98,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4054,7 +3214,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L-nakl",
         "editMode": false,
-        "name": "7L-nakl",
+        "name": "7L-nakl (Наклономеры)",
         "id": 99,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4078,7 +3238,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L-R1_support",
         "editMode": false,
-        "name": "7L-R1_support",
+        "name": "7L-R1_support (Опорные части)",
         "id": 100,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4102,7 +3262,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L-L1_support",
         "editMode": false,
-        "name": "7L-L1_support",
+        "name": "7L-L1_support (Опорные части)",
         "id": 101,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4126,7 +3286,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L-R2_support",
         "editMode": false,
-        "name": "7L-R2_support",
+        "name": "7L-R2_support (Опорные части)",
         "id": 102,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4150,19 +3310,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7L-L2_support",
         "editMode": false,
-        "name": "7L-L2_support",
+        "name": "7L-L2_support (Опорные части)",
         "id": 103,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "274",
+      "id": "272",
       "properties": {
         "filterValues": "711",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "711",
-        "groupId": "274",
-        "type": "geo",
+        "groupId": "272",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4174,19 +3334,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "711",
         "editMode": false,
-        "name": "711",
-        "id": 274,
+        "name": "711 (Фотограмметрия)",
+        "id": 272,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "275",
+      "id": "273",
       "properties": {
         "filterValues": "712",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "712",
-        "groupId": "275",
-        "type": "geo",
+        "groupId": "273",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4198,19 +3358,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "712",
         "editMode": false,
-        "name": "712",
-        "id": 275,
+        "name": "712 (Фотограмметрия)",
+        "id": 273,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "276",
+      "id": "274",
       "properties": {
         "filterValues": "713",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "713",
-        "groupId": "276",
-        "type": "geo",
+        "groupId": "274",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4222,8 +3382,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "713",
         "editMode": false,
-        "name": "713",
-        "id": 276,
+        "name": "713 (Фотограмметрия)",
+        "id": 274,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4270,7 +3430,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R4",
         "editMode": false,
-        "name": "7R4",
+        "name": "7R4 (Геодезия)",
         "id": 198,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4294,7 +3454,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R6",
         "editMode": false,
-        "name": "7R6",
+        "name": "7R6 (Геодезия)",
         "id": 199,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4318,7 +3478,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R7",
         "editMode": false,
-        "name": "7R7",
+        "name": "7R7 (Геодезия)",
         "id": 200,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4342,80 +3502,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R8",
         "editMode": false,
-        "name": "7R8",
+        "name": "7R8 (Геодезия)",
         "id": 201,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "202",
-      "properties": {
-        "filterValues": "7R-B1,9",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "7R-B1,9",
-        "groupId": "202",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 15,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7R-B1,9",
-        "editMode": false,
-        "name": "7R-B1,9",
-        "id": 202,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "203",
-      "properties": {
-        "filterValues": "7R-B1,10",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "7R-B1,10",
-        "groupId": "203",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 15,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7R-B1,10",
-        "editMode": false,
-        "name": "7R-B1,10",
-        "id": 203,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "204",
-      "properties": {
-        "filterValues": "7R-B3,11",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "7R-B3,11",
-        "groupId": "204",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 15,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "7R-B3,11",
-        "editMode": false,
-        "name": "7R-B3,11",
-        "id": 204,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4438,7 +3526,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R-nakl",
         "editMode": false,
-        "name": "7R-nakl",
+        "name": "7R-nakl (Наклономеры)",
         "id": 205,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4462,7 +3550,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R-R1_support",
         "editMode": false,
-        "name": "7R-R1_support",
+        "name": "7R-R1_support (Опорные части)",
         "id": 206,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4486,7 +3574,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R-L1_support",
         "editMode": false,
-        "name": "7R-L1_support",
+        "name": "7R-L1_support (Опорные части)",
         "id": 207,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4510,7 +3598,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R-R2_support",
         "editMode": false,
-        "name": "7R-R2_support",
+        "name": "7R-R2_support (Опорные части)",
         "id": 208,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4534,19 +3622,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "7R-L2_support",
         "editMode": false,
-        "name": "7R-L2_support",
+        "name": "7R-L2_support (Опорные части)",
         "id": 209,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "303",
+      "id": "301",
       "properties": {
         "filterValues": "721",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "721",
-        "groupId": "303",
-        "type": "geo",
+        "groupId": "301",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4558,19 +3646,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "721",
         "editMode": false,
-        "name": "721",
-        "id": 303,
+        "name": "721 (Фотограмметрия)",
+        "id": 301,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "304",
+      "id": "302",
       "properties": {
         "filterValues": "722",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "722",
-        "groupId": "304",
-        "type": "geo",
+        "groupId": "302",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4582,19 +3670,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "722",
         "editMode": false,
-        "name": "722",
-        "id": 304,
+        "name": "722 (Фотограмметрия)",
+        "id": 302,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "305",
+      "id": "303",
       "properties": {
         "filterValues": "723",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "723",
-        "groupId": "305",
-        "type": "geo",
+        "groupId": "303",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4606,8 +3694,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "723",
         "editMode": false,
-        "name": "723",
-        "id": 305,
+        "name": "723 (Фотограмметрия)",
+        "id": 303,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4654,7 +3742,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8L3",
         "editMode": false,
-        "name": "8L3",
+        "name": "8L3 (Геодезия)",
         "id": 104,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4678,7 +3766,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8L4",
         "editMode": false,
-        "name": "8L4",
+        "name": "8L4 (Геодезия)",
         "id": 105,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4702,7 +3790,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8L6",
         "editMode": false,
-        "name": "8L6",
+        "name": "8L6 (Геодезия)",
         "id": 106,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4726,80 +3814,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8L7",
         "editMode": false,
-        "name": "8L7",
+        "name": "8L7 (Геодезия)",
         "id": 107,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "108",
-      "properties": {
-        "filterValues": "8L-B1,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "8L-B1,4",
-        "groupId": "108",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 16,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8L-B1,4",
-        "editMode": false,
-        "name": "8L-B1,4",
-        "id": 108,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "109",
-      "properties": {
-        "filterValues": "8L-B2,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "8L-B2,4",
-        "groupId": "109",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 16,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8L-B2,4",
-        "editMode": false,
-        "name": "8L-B2,4",
-        "id": 109,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "110",
-      "properties": {
-        "filterValues": "8L-B3,8",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "8L-B3,8",
-        "groupId": "110",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 16,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8L-B3,8",
-        "editMode": false,
-        "name": "8L-B3,8",
-        "id": 110,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4822,7 +3838,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8L-nakl",
         "editMode": false,
-        "name": "8L-nakl",
+        "name": "8L-nakl (Наклономеры)",
         "id": 111,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4846,7 +3862,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8L-R_support",
         "editMode": false,
-        "name": "8L-R_support",
+        "name": "8L-R_support (Опорные части)",
         "id": 112,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -4870,19 +3886,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8L-L_support",
         "editMode": false,
-        "name": "8L-L_support",
+        "name": "8L-L_support (Опорные части)",
         "id": 113,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "277",
+      "id": "275",
       "properties": {
         "filterValues": "811",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "811",
-        "groupId": "277",
-        "type": "geo",
+        "groupId": "275",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4894,19 +3910,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "811",
         "editMode": false,
-        "name": "811",
-        "id": 277,
+        "name": "811 (Фотограмметрия)",
+        "id": 275,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "278",
+      "id": "276",
       "properties": {
         "filterValues": "812",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "812",
-        "groupId": "278",
-        "type": "geo",
+        "groupId": "276",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4918,19 +3934,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "812",
         "editMode": false,
-        "name": "812",
-        "id": 278,
+        "name": "812 (Фотограмметрия)",
+        "id": 276,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "279",
+      "id": "277",
       "properties": {
         "filterValues": "813",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "813",
-        "groupId": "279",
-        "type": "geo",
+        "groupId": "277",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -4942,8 +3958,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "813",
         "editMode": false,
-        "name": "813",
-        "id": 279,
+        "name": "813 (Фотограмметрия)",
+        "id": 277,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -4990,7 +4006,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8R3",
         "editMode": false,
-        "name": "8R3",
+        "name": "8R3 (Геодезия)",
         "id": 210,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5014,7 +4030,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8R4",
         "editMode": false,
-        "name": "8R4",
+        "name": "8R4 (Геодезия)",
         "id": 211,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5038,7 +4054,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8R6",
         "editMode": false,
-        "name": "8R6",
+        "name": "8R6 (Геодезия)",
         "id": 212,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5062,80 +4078,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8R7",
         "editMode": false,
-        "name": "8R7",
+        "name": "8R7 (Геодезия)",
         "id": 213,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "214",
-      "properties": {
-        "filterValues": "8R-B1,5",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "8R-B1,5",
-        "groupId": "214",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 17,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8R-B1,5",
-        "editMode": false,
-        "name": "8R-B1,5",
-        "id": 214,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "215",
-      "properties": {
-        "filterValues": "8R-B1,6",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "8R-B1,6",
-        "groupId": "215",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 17,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8R-B1,6",
-        "editMode": false,
-        "name": "8R-B1,6",
-        "id": 215,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "216",
-      "properties": {
-        "filterValues": "8R-B3,9",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "8R-B3,9",
-        "groupId": "216",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 17,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "8R-B3,9",
-        "editMode": false,
-        "name": "8R-B3,9",
-        "id": 216,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5158,7 +4102,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8R-nakl",
         "editMode": false,
-        "name": "8R-nakl",
+        "name": "8R-nakl (Наклономеры)",
         "id": 217,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5182,7 +4126,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8R-R_support",
         "editMode": false,
-        "name": "8R-R_support",
+        "name": "8R-R_support (Опорные части)",
         "id": 218,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5206,19 +4150,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "8R-L_support",
         "editMode": false,
-        "name": "8R-L_support",
+        "name": "8R-L_support (Опорные части)",
         "id": 219,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "306",
+      "id": "304",
       "properties": {
         "filterValues": "821",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "821",
-        "groupId": "306",
-        "type": "geo",
+        "groupId": "304",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5230,19 +4174,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "821",
         "editMode": false,
-        "name": "821",
-        "id": 306,
+        "name": "821 (Фотограмметрия)",
+        "id": 304,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "307",
+      "id": "305",
       "properties": {
         "filterValues": "822",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "822",
-        "groupId": "307",
-        "type": "geo",
+        "groupId": "305",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5254,19 +4198,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "822",
         "editMode": false,
-        "name": "822",
-        "id": 307,
+        "name": "822 (Фотограмметрия)",
+        "id": 305,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "308",
+      "id": "306",
       "properties": {
         "filterValues": "823",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "823",
-        "groupId": "308",
-        "type": "geo",
+        "groupId": "306",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5278,8 +4222,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "823",
         "editMode": false,
-        "name": "823",
-        "id": 308,
+        "name": "823 (Фотограмметрия)",
+        "id": 306,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5326,7 +4270,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9L3",
         "editMode": false,
-        "name": "9L3",
+        "name": "9L3 (Геодезия)",
         "id": 114,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5350,7 +4294,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9L5",
         "editMode": false,
-        "name": "9L5",
+        "name": "9L5 (Геодезия)",
         "id": 115,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5374,7 +4318,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9L6",
         "editMode": false,
-        "name": "9L6",
+        "name": "9L6 (Геодезия)",
         "id": 116,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5398,80 +4342,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9L7",
         "editMode": false,
-        "name": "9L7",
+        "name": "9L7 (Геодезия)",
         "id": 117,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "118",
-      "properties": {
-        "filterValues": "9L-B1,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "9L-B1,2",
-        "groupId": "118",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 18,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9L-B1,2",
-        "editMode": false,
-        "name": "9L-B1,2",
-        "id": 118,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "119",
-      "properties": {
-        "filterValues": "9L-B2,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "9L-B2,2",
-        "groupId": "119",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 18,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9L-B2,2",
-        "editMode": false,
-        "name": "9L-B2,2",
-        "id": 119,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "120",
-      "properties": {
-        "filterValues": "9L-B3,6",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "9L-B3,6",
-        "groupId": "120",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 18,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9L-B3,6",
-        "editMode": false,
-        "name": "9L-B3,6",
-        "id": 120,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5494,19 +4366,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9L-nakl",
         "editMode": false,
-        "name": "9L-nakl",
+        "name": "9L-nakl (Наклономеры)",
         "id": 121,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "280",
+      "id": "278",
       "properties": {
         "filterValues": "911",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "911",
-        "groupId": "280",
-        "type": "geo",
+        "groupId": "278",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5518,19 +4390,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "911",
         "editMode": false,
-        "name": "911",
-        "id": 280,
+        "name": "911 (Фотограмметрия)",
+        "id": 278,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "281",
+      "id": "279",
       "properties": {
         "filterValues": "912",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "912",
-        "groupId": "281",
-        "type": "geo",
+        "groupId": "279",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5542,19 +4414,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "912",
         "editMode": false,
-        "name": "912",
-        "id": 281,
+        "name": "912 (Фотограмметрия)",
+        "id": 279,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "282",
+      "id": "280",
       "properties": {
         "filterValues": "913",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "913",
-        "groupId": "282",
-        "type": "geo",
+        "groupId": "280",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5566,8 +4438,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "913",
         "editMode": false,
-        "name": "913",
-        "id": 282,
+        "name": "913 (Фотограмметрия)",
+        "id": 280,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5614,7 +4486,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9R3",
         "editMode": false,
-        "name": "9R3",
+        "name": "9R3 (Геодезия)",
         "id": 220,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5638,7 +4510,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9R4",
         "editMode": false,
-        "name": "9R4",
+        "name": "9R4 (Геодезия)",
         "id": 221,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5662,7 +4534,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9R6",
         "editMode": false,
-        "name": "9R6",
+        "name": "9R6 (Геодезия)",
         "id": 222,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5686,80 +4558,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9R7",
         "editMode": false,
-        "name": "9R7",
+        "name": "9R7 (Геодезия)",
         "id": 223,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "224",
-      "properties": {
-        "filterValues": "9R-B1,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "9R-B1,3",
-        "groupId": "224",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 19,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9R-B1,3",
-        "editMode": false,
-        "name": "9R-B1,3",
-        "id": 224,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "225",
-      "properties": {
-        "filterValues": "9R-B2,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "9R-B2,3",
-        "groupId": "225",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 19,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9R-B2,3",
-        "editMode": false,
-        "name": "9R-B2,3",
-        "id": 225,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "226",
-      "properties": {
-        "filterValues": "9R-B3,7",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "9R-B3,7",
-        "groupId": "226",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 19,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "9R-B3,7",
-        "editMode": false,
-        "name": "9R-B3,7",
-        "id": 226,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5782,19 +4582,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "9R-nakl",
         "editMode": false,
-        "name": "9R-nakl",
+        "name": "9R-nakl (Наклономеры)",
         "id": 227,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "309",
+      "id": "307",
       "properties": {
         "filterValues": "921",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "921",
-        "groupId": "309",
-        "type": "geo",
+        "groupId": "307",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5806,19 +4606,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "921",
         "editMode": false,
-        "name": "921",
-        "id": 309,
+        "name": "921 (Фотограмметрия)",
+        "id": 307,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "310",
+      "id": "308",
       "properties": {
         "filterValues": "922",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "922",
-        "groupId": "310",
-        "type": "geo",
+        "groupId": "308",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5830,19 +4630,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "922",
         "editMode": false,
-        "name": "922",
-        "id": 310,
+        "name": "922 (Фотограмметрия)",
+        "id": 308,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "311",
+      "id": "309",
       "properties": {
         "filterValues": "923",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "923",
-        "groupId": "311",
-        "type": "geo",
+        "groupId": "309",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -5854,8 +4654,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "923",
         "editMode": false,
-        "name": "923",
-        "id": 311,
+        "name": "923 (Фотограмметрия)",
+        "id": 309,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -5902,7 +4702,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10L5",
         "editMode": false,
-        "name": "10L5",
+        "name": "10L5 (Геодезия)",
         "id": 122,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5926,7 +4726,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10L6",
         "editMode": false,
-        "name": "10L6",
+        "name": "10L6 (Геодезия)",
         "id": 123,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5950,7 +4750,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10L9",
         "editMode": false,
-        "name": "10L9",
+        "name": "10L9 (Геодезия)",
         "id": 124,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -5974,56 +4774,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10L10",
         "editMode": false,
-        "name": "10L10",
+        "name": "10L10 (Геодезия)",
         "id": 125,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "126",
-      "properties": {
-        "filterValues": "10L-B3,3",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "10L-B3,3",
-        "groupId": "126",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 20,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10L-B3,3",
-        "editMode": false,
-        "name": "10L-B3,3",
-        "id": 126,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "127",
-      "properties": {
-        "filterValues": "10L-B3,4",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "10L-B3,4",
-        "groupId": "127",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 20,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10L-B3,4",
-        "editMode": false,
-        "name": "10L-B3,4",
-        "id": 127,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6046,7 +4798,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10L-nakl",
         "editMode": false,
-        "name": "10L-nakl",
+        "name": "10L-nakl (Наклономеры)",
         "id": 128,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6070,7 +4822,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10L-R_support",
         "editMode": false,
-        "name": "10L-R_support",
+        "name": "10L-R_support (Опорные части)",
         "id": 129,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6094,19 +4846,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10L-L_support",
         "editMode": false,
-        "name": "10L-L_support",
+        "name": "10L-L_support (Опорные части)",
         "id": 130,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "283",
+      "id": "281",
       "properties": {
         "filterValues": "1011",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1011",
-        "groupId": "283",
-        "type": "geo",
+        "groupId": "281",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -6118,19 +4870,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1011",
         "editMode": false,
-        "name": "1011",
-        "id": 283,
+        "name": "1011 (Фотограмметрия)",
+        "id": 281,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "284",
+      "id": "282",
       "properties": {
         "filterValues": "1014",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1014",
-        "groupId": "284",
-        "type": "geo",
+        "groupId": "282",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -6142,8 +4894,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1014",
         "editMode": false,
-        "name": "1014",
-        "id": 284,
+        "name": "1014 (Фотограмметрия)",
+        "id": 282,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6190,7 +4942,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10R1",
         "editMode": false,
-        "name": "10R1",
+        "name": "10R1 (Геодезия)",
         "id": 228,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6214,7 +4966,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10R2",
         "editMode": false,
-        "name": "10R2",
+        "name": "10R2 (Геодезия)",
         "id": 229,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6238,7 +4990,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10R5",
         "editMode": false,
-        "name": "10R5",
+        "name": "10R5 (Геодезия)",
         "id": 230,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6262,80 +5014,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10R6",
         "editMode": false,
-        "name": "10R6",
+        "name": "10R6 (Геодезия)",
         "id": 231,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "232",
-      "properties": {
-        "filterValues": "10R-B1,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "10R-B1,1",
-        "groupId": "232",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 21,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10R-B1,1",
-        "editMode": false,
-        "name": "10R-B1,1",
-        "id": 232,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "233",
-      "properties": {
-        "filterValues": "10R-B2,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "10R-B2,1",
-        "groupId": "233",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 21,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10R-B2,1",
-        "editMode": false,
-        "name": "10R-B2,1",
-        "id": 233,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "234",
-      "properties": {
-        "filterValues": "10R-B3,5",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "10R-B3,5",
-        "groupId": "234",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 21,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "10R-B3,5",
-        "editMode": false,
-        "name": "10R-B3,5",
-        "id": 234,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6358,7 +5038,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10R-nakl",
         "editMode": false,
-        "name": "10R-nakl",
+        "name": "10R-nakl (Наклономеры)",
         "id": 235,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6382,7 +5062,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10R-R_support",
         "editMode": false,
-        "name": "10R-R_support",
+        "name": "10R-R_support (Опорные части)",
         "id": 236,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6406,19 +5086,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "10R-L_support",
         "editMode": false,
-        "name": "10R-L_support",
+        "name": "10R-L_support (Опорные части)",
         "id": 237,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "312",
+      "id": "310",
       "properties": {
         "filterValues": "1021",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1021",
-        "groupId": "312",
-        "type": "geo",
+        "groupId": "310",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -6430,19 +5110,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1021",
         "editMode": false,
-        "name": "1021",
-        "id": 312,
+        "name": "1021 (Фотограмметрия)",
+        "id": 310,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "313",
+      "id": "311",
       "properties": {
         "filterValues": "1022",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1022",
-        "groupId": "313",
-        "type": "geo",
+        "groupId": "311",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -6454,19 +5134,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1022",
         "editMode": false,
-        "name": "1022",
-        "id": 313,
+        "name": "1022 (Фотограмметрия)",
+        "id": 311,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "314",
+      "id": "312",
       "properties": {
         "filterValues": "1023",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1023",
-        "groupId": "314",
-        "type": "geo",
+        "groupId": "312",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -6478,8 +5158,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1023",
         "editMode": false,
-        "name": "1023",
-        "id": 314,
+        "name": "1023 (Фотограмметрия)",
+        "id": 312,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6526,7 +5206,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11L1",
         "editMode": false,
-        "name": "11L1",
+        "name": "11L1 (Геодезия)",
         "id": 131,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6550,7 +5230,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11L3",
         "editMode": false,
-        "name": "11L3",
+        "name": "11L3 (Геодезия)",
         "id": 132,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6574,7 +5254,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11L4",
         "editMode": false,
-        "name": "11L4",
+        "name": "11L4 (Геодезия)",
         "id": 133,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6598,80 +5278,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11L5",
         "editMode": false,
-        "name": "11L5",
+        "name": "11L5 (Геодезия)",
         "id": 134,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "135",
-      "properties": {
-        "filterValues": "11L-B4,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "11L-B4,2",
-        "groupId": "135",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 22,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11L-B4,2",
-        "editMode": false,
-        "name": "11L-B4,2",
-        "id": 135,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "136",
-      "properties": {
-        "filterValues": "11L-B5,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "11L-B5,1",
-        "groupId": "136",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 22,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11L-B5,1",
-        "editMode": false,
-        "name": "11L-B5,1",
-        "id": 136,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "137",
-      "properties": {
-        "filterValues": "11L-B5,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "11L-B5,2",
-        "groupId": "137",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 22,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11L-B5,2",
-        "editMode": false,
-        "name": "11L-B5,2",
-        "id": 137,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6694,7 +5302,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11L-nakl",
         "editMode": false,
-        "name": "11L-nakl",
+        "name": "11L-nakl (Наклономеры)",
         "id": 138,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6718,7 +5326,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11L-R_support",
         "editMode": false,
-        "name": "11L-R_support",
+        "name": "11L-R_support (Опорные части)",
         "id": 139,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6742,19 +5350,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11L-L_support",
         "editMode": false,
-        "name": "11L-L_support",
+        "name": "11L-L_support (Опорные части)",
         "id": 140,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "285",
+      "id": "283",
       "properties": {
         "filterValues": "1111",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1111",
-        "groupId": "285",
-        "type": "geo",
+        "groupId": "283",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -6766,19 +5374,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1111",
         "editMode": false,
-        "name": "1111",
-        "id": 285,
+        "name": "1111 (Фотограмметрия)",
+        "id": 283,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "286",
+      "id": "284",
       "properties": {
         "filterValues": "1112",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1112",
-        "groupId": "286",
-        "type": "geo",
+        "groupId": "284",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -6790,8 +5398,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1112",
         "editMode": false,
-        "name": "1112",
-        "id": 286,
+        "name": "1112 (Фотограмметрия)",
+        "id": 284,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6838,7 +5446,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11R5",
         "editMode": false,
-        "name": "11R5",
+        "name": "11R5 (Геодезия)",
         "id": 238,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6862,7 +5470,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11R6",
         "editMode": false,
-        "name": "11R6",
+        "name": "11R6 (Геодезия)",
         "id": 239,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6886,7 +5494,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11R10",
         "editMode": false,
-        "name": "11R10",
+        "name": "11R10 (Геодезия)",
         "id": 240,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -6910,56 +5518,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11R11",
         "editMode": false,
-        "name": "11R11",
+        "name": "11R11 (Геодезия)",
         "id": 241,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "242",
-      "properties": {
-        "filterValues": "11R-B3,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "11R-B3,1",
-        "groupId": "242",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 23,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11R-B3,1",
-        "editMode": false,
-        "name": "11R-B3,1",
-        "id": 242,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "243",
-      "properties": {
-        "filterValues": "11R-B3,2",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "11R-B3,2",
-        "groupId": "243",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 23,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "11R-B3,2",
-        "editMode": false,
-        "name": "11R-B3,2",
-        "id": 243,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -6982,7 +5542,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11R-nakl",
         "editMode": false,
-        "name": "11R-nakl",
+        "name": "11R-nakl (Наклономеры)",
         "id": 244,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -7006,7 +5566,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11R-R_support",
         "editMode": false,
-        "name": "11R-R_support",
+        "name": "11R-R_support (Опорные части)",
         "id": 245,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -7030,19 +5590,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "11R-L_support",
         "editMode": false,
-        "name": "11R-L_support",
+        "name": "11R-L_support (Опорные части)",
         "id": 246,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "315",
+      "id": "313",
       "properties": {
         "filterValues": "1121",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1121",
-        "groupId": "315",
-        "type": "geo",
+        "groupId": "313",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -7054,19 +5614,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1121",
         "editMode": false,
-        "name": "1121",
-        "id": 315,
+        "name": "1121 (Фотограмметрия)",
+        "id": 313,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "316",
+      "id": "314",
       "properties": {
         "filterValues": "1124",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1124",
-        "groupId": "316",
-        "type": "geo",
+        "groupId": "314",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -7078,8 +5638,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1124",
         "editMode": false,
-        "name": "1124",
-        "id": 316,
+        "name": "1124 (Фотограмметрия)",
+        "id": 314,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -7126,7 +5686,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "12R3",
         "editMode": false,
-        "name": "12R3",
+        "name": "12R3 (Геодезия)",
         "id": 247,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -7150,7 +5710,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "12R4",
         "editMode": false,
-        "name": "12R4",
+        "name": "12R4 (Геодезия)",
         "id": 248,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -7174,7 +5734,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "12R5",
         "editMode": false,
-        "name": "12R5",
+        "name": "12R5 (Геодезия)",
         "id": 249,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -7198,32 +5758,8 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "12R9",
         "editMode": false,
-        "name": "12R9",
+        "name": "12R9 (Геодезия)",
         "id": 250,
-        "indicatorsRepoId": "pivot.indicators.with.criteria"
-      }
-    },
-    {
-      "id": "251",
-      "properties": {
-        "filterValues": "12R-B4,1",
-        "repoId": "journal.geo.data.view.norm_and_calc",
-        "code": "12R-B4,1",
-        "groupId": "251",
-        "type": "geo",
-        "schemeNodeId": "e751df2a-object-element-sensor",
-        "viewCode": "",
-        "filter": "pointId",
-        "sys_id": 8,
-        "viewerModel": "",
-        "defaultView": "",
-        "indicatorsRepoFilter": "name",
-        "parent_id": 25,
-        "viewer2dModel": "",
-        "indicatorsRepoFilterValues": "12R-B4,1",
-        "editMode": false,
-        "name": "12R-B4,1",
-        "id": 251,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
@@ -7246,7 +5782,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "12R-nakl",
         "editMode": false,
-        "name": "12R-nakl",
+        "name": "12R-nakl (Наклономеры)",
         "id": 252,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -7270,7 +5806,7 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "12R-R_support",
         "editMode": false,
-        "name": "12R-R_support",
+        "name": "12R-R_support (Опорные части)",
         "id": 253,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
@@ -7294,19 +5830,19 @@
         "viewer2dModel": "",
         "indicatorsRepoFilterValues": "12R-L_support",
         "editMode": false,
-        "name": "12R-L_support",
+        "name": "12R-L_support (Опорные части)",
         "id": 254,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "317",
+      "id": "315",
       "properties": {
         "filterValues": "1221",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1221",
-        "groupId": "317",
-        "type": "geo",
+        "groupId": "315",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -7318,19 +5854,19 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1221",
         "editMode": false,
-        "name": "1221",
-        "id": 317,
+        "name": "1221 (Фотограмметрия)",
+        "id": 315,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     },
     {
-      "id": "318",
+      "id": "316",
       "properties": {
         "filterValues": "1222",
         "repoId": "journal.voinar.data.view.norm_and_calc",
         "code": "1222",
-        "groupId": "318",
-        "type": "geo",
+        "groupId": "316",
+        "type": "voinar",
         "schemeNodeId": "e751df2a-object-element-sensor",
         "viewCode": "",
         "filter": "pointId",
@@ -7342,8 +5878,8 @@
         "viewer2dModel": null,
         "indicatorsRepoFilterValues": "1222",
         "editMode": false,
-        "name": "1222",
-        "id": 318,
+        "name": "1222 (Фотограмметрия)",
+        "id": 316,
         "indicatorsRepoId": "pivot.indicators.with.criteria"
       }
     }
@@ -7375,14 +5911,6 @@
                   },
                   {
                     "id": "29",
-                    "children": []
-                  },
-                  {
-                    "id": "30",
-                    "children": []
-                  },
-                  {
-                    "id": "31",
                     "children": []
                   },
                   {
@@ -7427,14 +5955,6 @@
                     "children": []
                   },
                   {
-                    "id": "145",
-                    "children": []
-                  },
-                  {
-                    "id": "146",
-                    "children": []
-                  },
-                  {
                     "id": "147",
                     "children": []
                   },
@@ -7447,11 +5967,11 @@
                     "children": []
                   },
                   {
-                    "id": "287",
+                    "id": "285",
                     "children": []
                   },
                   {
-                    "id": "288",
+                    "id": "286",
                     "children": []
                   }
                 ]
@@ -7480,14 +6000,6 @@
                     "children": []
                   },
                   {
-                    "id": "49",
-                    "children": []
-                  },
-                  {
-                    "id": "50",
-                    "children": []
-                  },
-                  {
                     "id": "51",
                     "children": []
                   },
@@ -7500,11 +6012,11 @@
                     "children": []
                   },
                   {
-                    "id": "260",
+                    "id": "317",
                     "children": []
                   },
                   {
-                    "id": "261",
+                    "id": "318",
                     "children": []
                   }
                 ]
@@ -7533,14 +6045,6 @@
                     "children": []
                   },
                   {
-                    "id": "155",
-                    "children": []
-                  },
-                  {
-                    "id": "156",
-                    "children": []
-                  },
-                  {
                     "id": "157",
                     "children": []
                   },
@@ -7553,11 +6057,11 @@
                     "children": []
                   },
                   {
-                    "id": "289",
+                    "id": "287",
                     "children": []
                   },
                   {
-                    "id": "290",
+                    "id": "288",
                     "children": []
                   }
                 ]
@@ -7582,18 +6086,6 @@
                     "children": []
                   },
                   {
-                    "id": "58",
-                    "children": []
-                  },
-                  {
-                    "id": "59",
-                    "children": []
-                  },
-                  {
-                    "id": "60",
-                    "children": []
-                  },
-                  {
                     "id": "61",
                     "children": []
                   },
@@ -7606,15 +6098,15 @@
                     "children": []
                   },
                   {
+                    "id": "260",
+                    "children": []
+                  },
+                  {
+                    "id": "261",
+                    "children": []
+                  },
+                  {
                     "id": "262",
-                    "children": []
-                  },
-                  {
-                    "id": "263",
-                    "children": []
-                  },
-                  {
-                    "id": "264",
                     "children": []
                   }
                 ]
@@ -7639,18 +6131,6 @@
                     "children": []
                   },
                   {
-                    "id": "164",
-                    "children": []
-                  },
-                  {
-                    "id": "165",
-                    "children": []
-                  },
-                  {
-                    "id": "166",
-                    "children": []
-                  },
-                  {
                     "id": "167",
                     "children": []
                   },
@@ -7663,15 +6143,15 @@
                     "children": []
                   },
                   {
+                    "id": "289",
+                    "children": []
+                  },
+                  {
+                    "id": "290",
+                    "children": []
+                  },
+                  {
                     "id": "291",
-                    "children": []
-                  },
-                  {
-                    "id": "292",
-                    "children": []
-                  },
-                  {
-                    "id": "293",
                     "children": []
                   }
                 ]
@@ -7696,31 +6176,19 @@
                     "children": []
                   },
                   {
-                    "id": "68",
-                    "children": []
-                  },
-                  {
-                    "id": "69",
-                    "children": []
-                  },
-                  {
-                    "id": "70",
-                    "children": []
-                  },
-                  {
                     "id": "71",
                     "children": []
                   },
                   {
+                    "id": "263",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "children": []
+                  },
+                  {
                     "id": "265",
-                    "children": []
-                  },
-                  {
-                    "id": "266",
-                    "children": []
-                  },
-                  {
-                    "id": "267",
                     "children": []
                   }
                 ]
@@ -7745,31 +6213,19 @@
                     "children": []
                   },
                   {
-                    "id": "174",
-                    "children": []
-                  },
-                  {
-                    "id": "175",
-                    "children": []
-                  },
-                  {
-                    "id": "176",
-                    "children": []
-                  },
-                  {
                     "id": "177",
                     "children": []
                   },
                   {
+                    "id": "292",
+                    "children": []
+                  },
+                  {
+                    "id": "293",
+                    "children": []
+                  },
+                  {
                     "id": "294",
-                    "children": []
-                  },
-                  {
-                    "id": "295",
-                    "children": []
-                  },
-                  {
-                    "id": "296",
                     "children": []
                   }
                 ]
@@ -7794,18 +6250,6 @@
                     "children": []
                   },
                   {
-                    "id": "76",
-                    "children": []
-                  },
-                  {
-                    "id": "77",
-                    "children": []
-                  },
-                  {
-                    "id": "78",
-                    "children": []
-                  },
-                  {
                     "id": "79",
                     "children": []
                   },
@@ -7818,15 +6262,15 @@
                     "children": []
                   },
                   {
+                    "id": "266",
+                    "children": []
+                  },
+                  {
+                    "id": "267",
+                    "children": []
+                  },
+                  {
                     "id": "268",
-                    "children": []
-                  },
-                  {
-                    "id": "269",
-                    "children": []
-                  },
-                  {
-                    "id": "270",
                     "children": []
                   }
                 ]
@@ -7851,18 +6295,6 @@
                     "children": []
                   },
                   {
-                    "id": "182",
-                    "children": []
-                  },
-                  {
-                    "id": "183",
-                    "children": []
-                  },
-                  {
-                    "id": "184",
-                    "children": []
-                  },
-                  {
                     "id": "185",
                     "children": []
                   },
@@ -7875,15 +6307,15 @@
                     "children": []
                   },
                   {
+                    "id": "295",
+                    "children": []
+                  },
+                  {
+                    "id": "296",
+                    "children": []
+                  },
+                  {
                     "id": "297",
-                    "children": []
-                  },
-                  {
-                    "id": "298",
-                    "children": []
-                  },
-                  {
-                    "id": "299",
                     "children": []
                   }
                 ]
@@ -7908,18 +6340,6 @@
                     "children": []
                   },
                   {
-                    "id": "86",
-                    "children": []
-                  },
-                  {
-                    "id": "87",
-                    "children": []
-                  },
-                  {
-                    "id": "88",
-                    "children": []
-                  },
-                  {
                     "id": "89",
                     "children": []
                   },
@@ -7932,15 +6352,15 @@
                     "children": []
                   },
                   {
+                    "id": "269",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "children": []
+                  },
+                  {
                     "id": "271",
-                    "children": []
-                  },
-                  {
-                    "id": "272",
-                    "children": []
-                  },
-                  {
-                    "id": "273",
                     "children": []
                   }
                 ]
@@ -7965,18 +6385,6 @@
                     "children": []
                   },
                   {
-                    "id": "192",
-                    "children": []
-                  },
-                  {
-                    "id": "193",
-                    "children": []
-                  },
-                  {
-                    "id": "194",
-                    "children": []
-                  },
-                  {
                     "id": "195",
                     "children": []
                   },
@@ -7989,15 +6397,15 @@
                     "children": []
                   },
                   {
+                    "id": "298",
+                    "children": []
+                  },
+                  {
+                    "id": "299",
+                    "children": []
+                  },
+                  {
                     "id": "300",
-                    "children": []
-                  },
-                  {
-                    "id": "301",
-                    "children": []
-                  },
-                  {
-                    "id": "302",
                     "children": []
                   }
                 ]
@@ -8022,18 +6430,6 @@
                     "children": []
                   },
                   {
-                    "id": "96",
-                    "children": []
-                  },
-                  {
-                    "id": "97",
-                    "children": []
-                  },
-                  {
-                    "id": "98",
-                    "children": []
-                  },
-                  {
                     "id": "99",
                     "children": []
                   },
@@ -8054,15 +6450,15 @@
                     "children": []
                   },
                   {
+                    "id": "272",
+                    "children": []
+                  },
+                  {
+                    "id": "273",
+                    "children": []
+                  },
+                  {
                     "id": "274",
-                    "children": []
-                  },
-                  {
-                    "id": "275",
-                    "children": []
-                  },
-                  {
-                    "id": "276",
                     "children": []
                   }
                 ]
@@ -8087,18 +6483,6 @@
                     "children": []
                   },
                   {
-                    "id": "202",
-                    "children": []
-                  },
-                  {
-                    "id": "203",
-                    "children": []
-                  },
-                  {
-                    "id": "204",
-                    "children": []
-                  },
-                  {
                     "id": "205",
                     "children": []
                   },
@@ -8119,15 +6503,15 @@
                     "children": []
                   },
                   {
+                    "id": "301",
+                    "children": []
+                  },
+                  {
+                    "id": "302",
+                    "children": []
+                  },
+                  {
                     "id": "303",
-                    "children": []
-                  },
-                  {
-                    "id": "304",
-                    "children": []
-                  },
-                  {
-                    "id": "305",
                     "children": []
                   }
                 ]
@@ -8152,18 +6536,6 @@
                     "children": []
                   },
                   {
-                    "id": "108",
-                    "children": []
-                  },
-                  {
-                    "id": "109",
-                    "children": []
-                  },
-                  {
-                    "id": "110",
-                    "children": []
-                  },
-                  {
                     "id": "111",
                     "children": []
                   },
@@ -8176,15 +6548,15 @@
                     "children": []
                   },
                   {
+                    "id": "275",
+                    "children": []
+                  },
+                  {
+                    "id": "276",
+                    "children": []
+                  },
+                  {
                     "id": "277",
-                    "children": []
-                  },
-                  {
-                    "id": "278",
-                    "children": []
-                  },
-                  {
-                    "id": "279",
                     "children": []
                   }
                 ]
@@ -8209,18 +6581,6 @@
                     "children": []
                   },
                   {
-                    "id": "214",
-                    "children": []
-                  },
-                  {
-                    "id": "215",
-                    "children": []
-                  },
-                  {
-                    "id": "216",
-                    "children": []
-                  },
-                  {
                     "id": "217",
                     "children": []
                   },
@@ -8233,15 +6593,15 @@
                     "children": []
                   },
                   {
+                    "id": "304",
+                    "children": []
+                  },
+                  {
+                    "id": "305",
+                    "children": []
+                  },
+                  {
                     "id": "306",
-                    "children": []
-                  },
-                  {
-                    "id": "307",
-                    "children": []
-                  },
-                  {
-                    "id": "308",
                     "children": []
                   }
                 ]
@@ -8266,31 +6626,19 @@
                     "children": []
                   },
                   {
-                    "id": "118",
-                    "children": []
-                  },
-                  {
-                    "id": "119",
-                    "children": []
-                  },
-                  {
-                    "id": "120",
-                    "children": []
-                  },
-                  {
                     "id": "121",
                     "children": []
                   },
                   {
+                    "id": "278",
+                    "children": []
+                  },
+                  {
+                    "id": "279",
+                    "children": []
+                  },
+                  {
                     "id": "280",
-                    "children": []
-                  },
-                  {
-                    "id": "281",
-                    "children": []
-                  },
-                  {
-                    "id": "282",
                     "children": []
                   }
                 ]
@@ -8315,31 +6663,19 @@
                     "children": []
                   },
                   {
-                    "id": "224",
-                    "children": []
-                  },
-                  {
-                    "id": "225",
-                    "children": []
-                  },
-                  {
-                    "id": "226",
-                    "children": []
-                  },
-                  {
                     "id": "227",
                     "children": []
                   },
                   {
+                    "id": "307",
+                    "children": []
+                  },
+                  {
+                    "id": "308",
+                    "children": []
+                  },
+                  {
                     "id": "309",
-                    "children": []
-                  },
-                  {
-                    "id": "310",
-                    "children": []
-                  },
-                  {
-                    "id": "311",
                     "children": []
                   }
                 ]
@@ -8364,14 +6700,6 @@
                     "children": []
                   },
                   {
-                    "id": "126",
-                    "children": []
-                  },
-                  {
-                    "id": "127",
-                    "children": []
-                  },
-                  {
                     "id": "128",
                     "children": []
                   },
@@ -8384,11 +6712,11 @@
                     "children": []
                   },
                   {
-                    "id": "283",
+                    "id": "281",
                     "children": []
                   },
                   {
-                    "id": "284",
+                    "id": "282",
                     "children": []
                   }
                 ]
@@ -8413,18 +6741,6 @@
                     "children": []
                   },
                   {
-                    "id": "232",
-                    "children": []
-                  },
-                  {
-                    "id": "233",
-                    "children": []
-                  },
-                  {
-                    "id": "234",
-                    "children": []
-                  },
-                  {
                     "id": "235",
                     "children": []
                   },
@@ -8437,15 +6753,15 @@
                     "children": []
                   },
                   {
+                    "id": "310",
+                    "children": []
+                  },
+                  {
+                    "id": "311",
+                    "children": []
+                  },
+                  {
                     "id": "312",
-                    "children": []
-                  },
-                  {
-                    "id": "313",
-                    "children": []
-                  },
-                  {
-                    "id": "314",
                     "children": []
                   }
                 ]
@@ -8470,18 +6786,6 @@
                     "children": []
                   },
                   {
-                    "id": "135",
-                    "children": []
-                  },
-                  {
-                    "id": "136",
-                    "children": []
-                  },
-                  {
-                    "id": "137",
-                    "children": []
-                  },
-                  {
                     "id": "138",
                     "children": []
                   },
@@ -8494,11 +6798,11 @@
                     "children": []
                   },
                   {
-                    "id": "285",
+                    "id": "283",
                     "children": []
                   },
                   {
-                    "id": "286",
+                    "id": "284",
                     "children": []
                   }
                 ]
@@ -8523,14 +6827,6 @@
                     "children": []
                   },
                   {
-                    "id": "242",
-                    "children": []
-                  },
-                  {
-                    "id": "243",
-                    "children": []
-                  },
-                  {
                     "id": "244",
                     "children": []
                   },
@@ -8543,11 +6839,11 @@
                     "children": []
                   },
                   {
-                    "id": "315",
+                    "id": "313",
                     "children": []
                   },
                   {
-                    "id": "316",
+                    "id": "314",
                     "children": []
                   }
                 ]
@@ -8572,10 +6868,6 @@
                     "children": []
                   },
                   {
-                    "id": "251",
-                    "children": []
-                  },
-                  {
                     "id": "252",
                     "children": []
                   },
@@ -8588,11 +6880,11 @@
                     "children": []
                   },
                   {
-                    "id": "317",
+                    "id": "315",
                     "children": []
                   },
                   {
-                    "id": "318",
+                    "id": "316",
                     "children": []
                   }
                 ]
