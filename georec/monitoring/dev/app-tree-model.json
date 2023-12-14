@@ -79,6 +79,18 @@
         "version": "1.0.0",
         "schemeNodeId": "c751df2c-module"
       }
+    },
+    {
+      "id": "a12b25be-2546-4209-8d34-866cbf3e9245",
+      "properties": {
+        "id": "8",
+        "uid": "f751df2c-564f-5c2f-1cf9-c12d91d33212",
+        "code": "documentation",
+        "name": "Документация",
+        "ref" : "Monitoring.pdf",
+        "version": "1.0.0",
+        "schemeNodeId": "c751df2c-module"
+      }
     }
 
   ],
@@ -97,7 +109,15 @@
             "children": []
           },
           {
+            "id": "01df25bc-5309-4aa0-bbd0-f2ca1a6e1202",
+            "children": []
+          },
+          {
             "id": "a12b25be-1146-4209-8d34-866cbf3e9245",
+            "children": []
+          },
+          {
+            "id": "a12b25be-2546-4209-8d34-866cbf3e9245",
             "children": []
           }
         ]
