@@ -8,7 +8,7 @@
       "properties": {
         "filterValues": "1L-R_support",
         "repoId": "journal.indicators.data",
-        "code": "Аналитика",
+        "code": "analytics",
         "groupId": "33",
         "type": "support",
         "viewCode": "",
