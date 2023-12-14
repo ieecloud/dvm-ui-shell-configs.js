@@ -273,6 +273,9 @@
                   "store": "journal.geo.data.initial",
                   "viewCode": "no_support",
                   "color": "rgb(247, 182, 182)",
+                  "indicator_name": "u",
+                  "indicator_type_name": "initial",
+                  "mom_type": "geo",
                   "show": false
                 },
                 {
