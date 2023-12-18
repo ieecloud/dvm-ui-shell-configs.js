@@ -11,7 +11,7 @@
         "name": "Геодезический",
         "sys_id": 11,
         "parent_id": "",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "repo.mark.geo.data",
         "groupId": "27",
         "viewerModel": "",
         "viewer2dModel": "",
@@ -27,31 +27,6 @@
         "fixedFields" : [{ "field": "time"}],
         "editMode" : true
       }
-    },
-    {
-      "id": "455",
-      "properties": {
-        "id": 455,
-        "code": "main",
-        "name": "Наклономер",
-        "sys_id": 11,
-        "parent_id": "",
-        "repoId": "journal.nakl.data.norm",
-        "groupId": "27",
-        "viewerModel": "",
-        "viewer2dModel": "",
-        "dataService": "http://notebook.ieecloud.com:8080/dataService/api",
-        "filter": "",
-        "filterValues": "",
-        "defaultView": "",
-        "type": "geo",
-        "indicatorsRepoId": "25",
-        "indicatorsRepoFilter": "name",
-        "indicatorsRepoFilterValues": "Наклономер",
-        "schemeNodeId": "a751df21-main",
-        "fixedFields" : [],
-        "editMode" : false
-      }
     }
   ],
   "treeStructureData": {
@@ -60,11 +35,6 @@
     "nodes": [
       {
         "id": "355",
-        "children": [
-        ]
-      },
-      {
-        "id": "455",
         "children": [
         ]
       }

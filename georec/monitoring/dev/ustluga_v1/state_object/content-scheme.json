@@ -16,12 +16,20 @@
         "id": "c751df2a-object",
         "children" : [
           {
-            "id": "e751df2a-object-element"
+            "id": "c751df2a-kvartal"
           }
         ]
       },
       {
-        "id": "e751df2a-object-element",
+        "id": "c751df2a-kvartal",
+        "children" : [
+          {
+            "id": "c751df2a-titul"
+          }
+        ]
+      },
+      {
+        "id": "c751df2a-titul",
         "children" : [
           {
             "id": "e751df2a-object-element-sensor"
@@ -77,13 +85,19 @@
             "name": "Version",
             "type": "str",
             "unit": ""
+          },
+          {
+            "id": "dataService",
+            "name": "Data Service",
+            "type": "str",
+            "unit": ""
           }
         ]
       },
       {
         "id": "c751df2a-object",
         "$schema": "",
-        "name": "Мост Ижора",
+        "name": "Усть Луга",
         "type": "object",
         "properties": [
           {
@@ -139,13 +153,20 @@
             "name": "Viewer 2d Model",
             "type": "str",
             "unit": ""
+          },
+          {
+            "id": "dataService",
+            "name": "Data Service",
+            "type": "str",
+            "unit": ""
           }
+
         ]
       },
       {
-        "id": "e751df2a-object-element",
+        "id": "c751df2a-kvartal",
         "$schema": "",
-        "name": "Опора",
+        "name": "Квартал",
         "type": "object",
         "properties": [
           {
@@ -201,13 +222,89 @@
             "name": "Viewer 2d Model",
             "type": "str",
             "unit": ""
+          },
+          {
+            "id": "dataService",
+            "name": "Data Service",
+            "type": "str",
+            "unit": ""
           }
+
+        ]
+      },
+      {
+        "id": "c751df2a-titul",
+        "$schema": "",
+        "name": "Титул",
+        "type": "object",
+        "properties": [
+          {
+            "id": "groupId",
+            "name": "GroupId",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "repoId",
+            "name": "RepoId",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "id",
+            "name": "Id",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "uid",
+            "name": "UID",
+            "type": "uid",
+            "unit": ""
+          },
+          {
+            "id": "code",
+            "name": "Code",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "name",
+            "name": "Name",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "version",
+            "name": "Version",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "viewerModel",
+            "name": "Viewer 3d Model",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "viewer2dModel",
+            "name": "Viewer 2d Model",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "dataService",
+            "name": "Data Service",
+            "type": "str",
+            "unit": ""
+          }
+
         ]
       },
       {
         "id": "e751df2a-object-element-sensor",
         "$schema": "",
-        "name": "Датчик",
+        "name": "№ДМ - Точка Измерения",
         "type": "object",
         "properties": [
           {
@@ -249,6 +346,12 @@
           {
             "id": "version",
             "name": "Version",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "dataService",
+            "name": "Data Service",
             "type": "str",
             "unit": ""
           },
@@ -263,13 +366,8 @@
             "name": "Filter Values",
             "type": "str",
             "unit": ""
-          },
-          {
-            "id": "editMode",
-            "name": "editMode",
-            "type": "bool",
-            "unit": ""
           }
+
         ]
       }
     ]

@@ -1,0 +1,52 @@
+{
+  "tree": {
+    "rootElements": [
+      "node"
+    ],
+    "treeStructure": [
+      {
+        "id": "node",
+        "children": [
+          {
+            "id": "node"
+          }
+        ]
+      }
+    ],
+    "nodes": [
+      {
+        "id": "node",
+        "$schema": "",
+        "name": "Дерево",
+        "type": "object",
+        "properties": [
+          {
+            "id": "id",
+            "name": "ID",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "name",
+            "name": "Название",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "type",
+            "name": "Тип",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "unit",
+            "name": "Единицы Измерения",
+            "type": "str",
+            "unit": ""
+          }
+        ]
+      }
+    ]
+  }
+
+}
