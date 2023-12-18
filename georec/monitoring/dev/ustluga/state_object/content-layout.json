@@ -16,6 +16,11 @@
             "add2DNodesEnabled": false,
             "mapViewActions": [
               {
+                "id": "c123df2c-064d-4c2b-9cd9-c82d91d37511",
+                "name": "2D Вид",
+                "view": "viewer-2d"
+              },
+              {
                 "id": "b123df2c-064d-4c2b-9cd9-c82d91d37511",
                 "name": "Стандартная",
                 "map": "default"
@@ -75,6 +80,11 @@
             "editEnabled": false,
             "add2DNodesEnabled": false,
             "viewActions": [
+              {
+                "id": "c123df2c-064d-4c2b-9cd9-c82d91d37511",
+                "name": "2D Вид",
+                "view": "viewer-2d"
+              },
               {
                 "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
                 "name": "3D Вид",
