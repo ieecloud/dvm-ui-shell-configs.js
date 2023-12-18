@@ -86,14 +86,6 @@
                 "view": "viewer-2d"
               },
               {
-                "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "3D Вид",
-                "view": "viewer-3d",
-                "params": {
-                  "url": "http://notebook.ieecloud.com:8080/monitor_izhora_storage/full.zip"
-                }
-              },
-              {
                 "id": "c126df2c-064d-4c2b-9cd9-c82d91d37513",
                 "name": "Таблица",
                 "view": "table"
@@ -105,26 +97,6 @@
               }
             ],
             "modelDataActions": [
-              {
-                "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "Модель без результатов",
-                "model": "default"
-              },
-              {
-                "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Модель с перемещением по Х",
-                "model": "_x"
-              },
-              {
-                "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
-                "name": "Модель с перемещением по Y",
-                "model": "_y"
-              },
-              {
-                "id": "a126df2c-164d-4c2b-9cd9-c82d91d37613",
-                "name": "Модель с перемещением по Z",
-                "model": "_z"
-              }
             ],
             "mapViewActions": [
               {
@@ -151,7 +123,7 @@
             "clazz": "col-xl-12 col-lg-12",
             "widgetContent": {
               "id": "c891733b-4fb3-4231-b901-aaac5eda0061",
-              "view": "viewer-3d",
+              "view": "viewer-2d",
               "model": "default",
               "map": "default"
             }
@@ -180,14 +152,6 @@
                 "view": "viewer-2d"
               },
               {
-                "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "3D Вид",
-                "view": "viewer-3d",
-                "params": {
-                  "url": "http://notebook.ieecloud.com:8080/monitor_izhora_storage/full.zip"
-                }
-              },
-              {
                 "id": "c126df2c-064d-4c2b-9cd9-c82d91d37513",
                 "name": "Таблица",
                 "view": "table"
@@ -199,26 +163,7 @@
               }
             ],
             "modelDataActions": [
-              {
-                "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "Модель без результатов",
-                "model" : "default"
-              },
-              {
-                "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Модель с перемещением по Х",
-                "model" : "_x"
-              },
-              {
-                "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
-                "name": "Модель с перемещением по Y",
-                "model": "_y"
-              },
-              {
-                "id": "a126df2c-164d-4c2b-9cd9-c82d91d37613",
-                "name": "Модель с перемещением по Z",
-                "model": "_z"
-              }
+
             ],
             "mapViewActions": [
               {
@@ -274,14 +219,6 @@
                 "view": "viewer-2d"
               },
               {
-                "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "3D Вид",
-                "view": "viewer-3d",
-                "params": {
-                  "url": "http://notebook.ieecloud.com:8080/monitor_izhora_storage/full.zip"
-                }
-              },
-              {
                 "id": "c126df2c-064d-4c2b-9cd9-c82d91d37513",
                 "name": "Таблица",
                 "view": "table"
@@ -293,26 +230,6 @@
               }
             ],
             "modelDataActions": [
-              {
-                "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "Модель без результатов",
-                "model" : "default"
-              },
-              {
-                "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Модель с перемещением по Х",
-                "model" : "_x"
-              },
-              {
-                "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
-                "name": "Модель с перемещением по Y",
-                "model": "_y"
-              },
-              {
-                "id": "a126df2c-164d-4c2b-9cd9-c82d91d37613",
-                "name": "Модель с перемещением по Z",
-                "model": "_z"
-              }
             ],
             "mapViewActions": [
               {
@@ -367,12 +284,9 @@
             "add2DNodesEnabledTurnOffTitle": "Выключить режим привязки узлов к картинке",
             "viewActions": [
               {
-                "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "3D Вид",
-                "view": "viewer-3d",
-                "params": {
-                  "url": "http://notebook.ieecloud.com:8080/monitor_izhora_storage/full.zip"
-                }
+                "id": "c123df2c-064d-4c2b-9cd9-c82d91d37511",
+                "name": "2D Вид",
+                "view": "viewer-2d"
               },
               {
                 "id": "c751dc2c-064d-4c2b-9cd9-c82d91d37601",
@@ -381,31 +295,11 @@
               }
             ],
             "modelDataActions": [
-              {
-                "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
-                "name": "Модель без результатов",
-                "model": "default"
-              },
-              {
-                "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
-                "name": "Модель с перемещением по Х",
-                "model": "_x"
-              },
-              {
-                "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
-                "name": "Модель с перемещением по Y",
-                "model": "_y"
-              },
-              {
-                "id": "a126df2c-164d-4c2b-9cd9-c82d91d37613",
-                "name": "Модель с перемещением по Z",
-                "model": "_z"
-              }
             ],
             "clazz": "col-xl-12 col-lg-12",
             "widgetContent": {
               "id": "a991733b-4fb3-4231-b901-aaac5edf9067",
-              "view": "viewer-3d",
+              "view": "viewer-2d",
               "model": "default",
               "dataType": "default"
             }
