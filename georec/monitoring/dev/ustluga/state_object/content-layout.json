@@ -487,36 +487,36 @@
                 },
                 {
                   "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Верхний (Расчёт.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
+                  "name": "Предупредительный порог Верхний (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
                   "viewCode": "no_support_bound_norm_upper",
                   "color": "rgb(250,209,2)",
                   "show": false
                 },
                 {
                   "id": "g2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Нижний (Расчёт.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
+                  "name": "Предупредительный порог Нижний (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
                   "viewCode": "no_support_bound_norm_lower",
                   "color": "rgb(250,209,2)",
                   "show": false
                 },
                 {
                   "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Верхний (Расчёт.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
+                  "name": "Предельный порог Верхний (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
                   "viewCode": "no_support_bound_warn_upper",
                   "color": "rgb(250,2,2)",
                   "show": false
                 },
                 {
                   "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Нижний (Расчёт.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
+                  "name": "Предельный порог Нижний (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
                   "viewCode": "no_support_bound_warn_lower",
                   "color": "rgb(250,2,2)",
                   "show": false
