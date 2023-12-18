@@ -72,6 +72,17 @@
       }
     },
     {
+      "id": "a12b25be-1146-4209-8d34-866cbf3e9245",
+      "properties": {
+        "id": "7",
+        "uid": "f751df2c-064f-4c2f-9cf9-c82d91d33212",
+        "code": "settings",
+        "name": "Настройки",
+        "version": "1.0.0",
+        "schemeNodeId": "c751df2c-module"
+      }
+    },
+    {
       "id": "a12b25be-2546-4209-8d34-866cbf3e9245",
       "properties": {
         "id": "8",
@@ -101,10 +112,6 @@
           },
           {
             "id": "01df25bc-5309-4aa0-bbd0-f2ca1a6e1202",
-            "children": []
-          },
-          {
-            "id": "a12b25be-1146-4209-8d34-866cbf3e9245",
             "children": []
           },
           {
