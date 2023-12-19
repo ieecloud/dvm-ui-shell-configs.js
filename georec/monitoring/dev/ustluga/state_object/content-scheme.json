@@ -85,12 +85,6 @@
             "name": "Version",
             "type": "str",
             "unit": ""
-          },
-          {
-            "id": "dataService",
-            "name": "Data Service",
-            "type": "str",
-            "unit": ""
           }
         ]
       },
@@ -151,12 +145,6 @@
           {
             "id": "viewer2dModel",
             "name": "Viewer 2d Model",
-            "type": "str",
-            "unit": ""
-          },
-          {
-            "id": "dataService",
-            "name": "Data Service",
             "type": "str",
             "unit": ""
           }
@@ -222,14 +210,7 @@
             "name": "Viewer 2d Model",
             "type": "str",
             "unit": ""
-          },
-          {
-            "id": "dataService",
-            "name": "Data Service",
-            "type": "str",
-            "unit": ""
           }
-
         ]
       },
       {
@@ -291,14 +272,7 @@
             "name": "Viewer 2d Model",
             "type": "str",
             "unit": ""
-          },
-          {
-            "id": "dataService",
-            "name": "Data Service",
-            "type": "str",
-            "unit": ""
           }
-
         ]
       },
       {
@@ -350,12 +324,6 @@
             "unit": ""
           },
           {
-            "id": "dataService",
-            "name": "Data Service",
-            "type": "str",
-            "unit": ""
-          },
-          {
             "id": "filter",
             "name": "Filter",
             "type": "str",
@@ -366,8 +334,13 @@
             "name": "Filter Values",
             "type": "str",
             "unit": ""
+          },
+          {
+            "id": "editMode",
+            "name": "editMode",
+            "type": "bool",
+            "unit": ""
           }
-
         ]
       }
     ]
