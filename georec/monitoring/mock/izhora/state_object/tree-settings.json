@@ -5,10 +5,10 @@
       "settings": [
         {
           "currentValue": true,
-          "model" : "showBadges",
-          "mobileModeOnly" : false,
+          "model": "showBadges",
+          "mobileModeOnly": false,
           "type": "bool",
-          "optionsType" : "manual",
+          "optionsType": "manual",
           "defaultOptions": [
             {
               "value": "Показать",
@@ -26,11 +26,11 @@
       "label": "Активная нода",
       "settings": [
         {
-          "model" : "activeNode",
-          "mobileModeOnly" : false,
+          "model": "activeNode",
+          "mobileModeOnly": false,
           "currentValue": "",
           "type": "string",
-          "optionsType" : "node"
+          "optionsType": "node"
         }
       ]
     },
@@ -38,11 +38,11 @@
       "label": "Тип активной ноды",
       "settings": [
         {
-          "model" : "activeNodeScheme",
-          "mobileModeOnly" : false,
+          "model": "activeNodeScheme",
+          "mobileModeOnly": false,
           "currentValue": "c751df2a-object",
           "type": "string",
-          "optionsType" : "nodeScheme"
+          "optionsType": "nodeScheme"
         }
       ]
     },
@@ -50,11 +50,11 @@
       "label": "Автоскролл",
       "settings": [
         {
-          "model" : "scrollAutoToActive",
+          "model": "scrollAutoToActive",
           "currentValue": false,
           "type": "bool",
-          "mobileModeOnly" : false,
-          "optionsType" : "manual",
+          "mobileModeOnly": false,
+          "optionsType": "manual",
           "defaultOptions": [
             {
               "value": "Включить",
@@ -72,11 +72,11 @@
       "label": "Ресайз",
       "settings": [
         {
-          "model" : "resizeTree",
+          "model": "resizeTree",
           "currentValue": true,
-          "mobileModeOnly" : false,
+          "mobileModeOnly": false,
           "type": "bool",
-          "optionsType" : "manual",
+          "optionsType": "manual",
           "defaultOptions": [
             {
               "value": "Включить",
@@ -94,11 +94,11 @@
       "label": "Структура",
       "settings": [
         {
-          "model" : "defaultTreeView",
+          "model": "defaultTreeView",
           "currentValue": false,
-          "mobileModeOnly" : true,
+          "mobileModeOnly": true,
           "type": "bool",
-          "optionsType" : "manual",
+          "optionsType": "manual",
           "defaultOptions": [
             {
               "value": "Показать",
@@ -111,12 +111,24 @@
           ]
         }
       ]
+    },
+    "7": {
+      "label": "Тип развернутой ноды",
+      "settings": [
+        {
+          "model": "expandedNodeScheme",
+          "analyticModeOnly": true,
+          "currentValue": "e751df2a-object-element",
+          "type": "string",
+          "optionsType": "nodeScheme"
+        }
+      ]
     }
   },
   "settingsStructure": {
     "common": {
       "label": "Общие",
-      "type"  : "single",
+      "type": "single",
       "list": [
         "1",
         "2",
