@@ -356,7 +356,7 @@
                   "viewCode": "",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
-                  "show": false
+                  "show": true
                 },
                 {
                   "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
