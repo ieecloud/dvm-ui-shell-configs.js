@@ -87,6 +87,24 @@
             "name": "Version",
             "type": "str",
             "unit": ""
+          },
+          {
+            "id": "ref",
+            "name": "ref",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "repoId",
+            "name": "repoId",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "formatData",
+            "name": "formatData",
+            "type": "str",
+            "unit": ""
           }
         ]
       }
