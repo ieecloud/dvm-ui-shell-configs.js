@@ -252,7 +252,7 @@
                   "name": "Журнал событий общий",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
@@ -262,7 +262,7 @@
                   "name": "Журнал событий локальный",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
@@ -340,7 +340,7 @@
                   "name": "Журнал событий общий",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
@@ -350,7 +350,7 @@
                   "name": "Журнал событий локальный",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
@@ -448,7 +448,7 @@
                   "name": "Журнал событий общий",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
@@ -458,7 +458,7 @@
                   "name": "Журнал событий локальный",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
@@ -479,7 +479,7 @@
                   "name": "Журнал показаний наклономеров (Норм.)",
                   "repoId": "journal.nakl.data.norm",
                   "store": "journal.nakl.data.norm",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "color": "rgb(27,151,182)",
                   "show": true
                 },
@@ -489,7 +489,7 @@
                   "name": "Журнал показаний наклономеров (Расчёт.)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "color": "rgb(146,181,151)",
                   "show": true
                 },
@@ -536,7 +536,7 @@
                   "name": "Журнал событий общий",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
@@ -546,7 +546,7 @@
                   "name": "Журнал событий локальный",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
@@ -557,7 +557,7 @@
                   "name": "Журнал показаний фотограмметрии (Исх.)",
                   "repoId": "journal.voinar.data.initial",
                   "store": "journal.voinar.data.initial",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "color": "rgb(247, 182, 182)",
                   "show": false
                 },
@@ -567,7 +567,7 @@
                   "name": "Журнал показаний фотограмметрии (Норм.)",
                   "repoId": "journal.voinar.data.norm",
                   "store": "journal.voinar.data.norm",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "color": "rgb(27,151,182)",
                   "show": true
                 },
@@ -577,7 +577,7 @@
                   "name": "Журнал показаний фотограмметрии (Расчёт.)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "color": "rgb(146,181,151)",
                   "show": true
                 },
