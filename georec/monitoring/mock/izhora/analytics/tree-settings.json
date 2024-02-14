@@ -18,7 +18,7 @@
         {
           "model" : "activeNodeScheme",
           "mobileModeOnly" : false,
-          "currentValue": "b751dd21-main",
+          "currentValue": "main",
           "type": "string",
           "optionsType" : "nodeScheme"
         }

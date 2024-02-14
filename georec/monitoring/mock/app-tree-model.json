@@ -44,6 +44,8 @@
         "id": "4",
         "uid": "c751df2c-064d-4c2b-9cd9-c82d91d37500",
         "code": "analytics",
+        "repoId": "catalog.analytic.criteries",
+        "formatData": "treeEntity",
         "name": "Аналитика",
         "version": "1.0.0",
         "schemeNodeId": "c751df2c-module"
