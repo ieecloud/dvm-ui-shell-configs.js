@@ -18,7 +18,7 @@
         {
           "model" : "activeNodeScheme",
           "mobileModeOnly" : false,
-          "currentValue": "main",
+          "currentValue": "analysis",
           "type": "string",
           "optionsType" : "nodeScheme"
         }
