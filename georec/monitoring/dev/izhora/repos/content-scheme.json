@@ -16,7 +16,7 @@
         "id": "folder",
         "children" : [
           {
-            "id": "analysis"
+            "id": "repo"
           }
         ]
       }
@@ -25,7 +25,7 @@
       {
         "id": "main",
         "$schema": "",
-        "name": "Аналитические Выборки",
+        "name": "Каталоги/Журналы",
         "type": "object",
         "properties": [
           {
@@ -135,7 +135,7 @@
         ]
       },
       {
-        "id": "analysis",
+        "id": "repo",
         "$schema": "",
         "name": "Выборка",
         "type": "object",
