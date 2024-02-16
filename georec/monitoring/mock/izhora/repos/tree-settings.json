@@ -6,7 +6,7 @@
         {
           "model" : "activeNode",
           "mobileModeOnly" : false,
-          "currentValue": "355",
+          "currentValue": "",
           "type": "string",
           "optionsType" : "node"
         }
@@ -18,7 +18,7 @@
         {
           "model" : "activeNodeScheme",
           "mobileModeOnly" : false,
-          "currentValue": "a751df21-main",
+          "currentValue": "repo",
           "type": "string",
           "optionsType" : "nodeScheme"
         }
