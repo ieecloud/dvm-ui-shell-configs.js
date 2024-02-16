@@ -1,21 +1,143 @@
 {
   "tree": {
     "rootElements": [
-      "a751df21-main"
+      "main"
     ],
     "treeStructure": [
       {
-        "id": "a751df21-main",
+        "id": "main",
         "children": [
-
+          {
+            "id": "folder"
+          }
+        ]
+      },
+      {
+        "id": "folder",
+        "children" : [
+          {
+            "id": "repo"
+          }
         ]
       }
     ],
     "nodes": [
       {
-        "id": "a751df21-main",
+        "id": "main",
         "$schema": "",
-        "name": "Главная",
+        "name": "Каталоги/Журналы",
+        "type": "object",
+        "properties": [
+          {
+            "id": "groupId",
+            "name": "GroupId",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "repoId",
+            "name": "RepoId",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "id",
+            "name": "Id",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "uid",
+            "name": "UID",
+            "type": "uid",
+            "unit": ""
+          },
+          {
+            "id": "code",
+            "name": "Code",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "name",
+            "name": "Name",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "version",
+            "name": "Version",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "dataService",
+            "name": "Data Service",
+            "type": "str",
+            "unit": ""
+          }
+        ]
+      },
+      {
+        "id": "folder",
+        "$schema": "",
+        "name": "Папка",
+        "type": "object",
+        "properties": [
+          {
+            "id": "groupId",
+            "name": "GroupId",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "repoId",
+            "name": "RepoId",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "id",
+            "name": "Id",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "uid",
+            "name": "UID",
+            "type": "uid",
+            "unit": ""
+          },
+          {
+            "id": "code",
+            "name": "Code",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "name",
+            "name": "Name",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "version",
+            "name": "Version",
+            "type": "str",
+            "unit": ""
+          },
+          {
+            "id": "dataService",
+            "name": "Data Service",
+            "type": "str",
+            "unit": ""
+          }
+        ]
+      },
+      {
+        "id": "repo",
+        "$schema": "",
+        "name": "Выборка",
         "type": "object",
         "properties": [
           {
