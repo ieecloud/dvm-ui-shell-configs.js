@@ -89,6 +89,28 @@
           ]
         }
       ]
+    },
+    "7": {
+      "label": "Поиск по дереву",
+      "settings": [
+        {
+          "model" : "searchNodeTree",
+          "currentValue": false,
+          "mobileModeOnly" : false,
+          "type": "bool",
+          "optionsType" : "manual",
+          "defaultOptions": [
+            {
+              "value": "Включить",
+              "key": true
+            },
+            {
+              "value": "Отключить",
+              "key": false
+            }
+          ]
+        }
+      ]
     }
   },
   "settingsStructure": {
@@ -100,7 +122,8 @@
         "3",
         "4",
         "5",
-        "6"
+        "6",
+        "7"
       ]
     }
   }
