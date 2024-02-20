@@ -19,7 +19,7 @@
               "id": "a101733b-4db3-4231-d901-fffc5edf9118",
               "view": "table",
               "model": "default",
-              "dataType": "repos"
+              "dataType": "default"
             }
           }
         ]
@@ -46,7 +46,7 @@
               "id": "d101733b-4db3-4231-c901-fffc5edf9119",
               "view": "table",
               "model": "default",
-              "dataType": "repos"
+              "dataType": "default"
             }
           }
         ]
