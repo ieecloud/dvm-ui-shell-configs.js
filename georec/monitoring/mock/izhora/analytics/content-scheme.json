@@ -179,7 +179,7 @@
           },
           {
             "id": "name",
-            "name": "Name",
+            "name": "Название",
             "type": "str",
             "system": false,
             "unit": ""
