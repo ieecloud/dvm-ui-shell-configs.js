@@ -182,6 +182,7 @@
             "name": "Название",
             "type": "str",
             "system": false,
+            "defaultValue" : "Анализ (Draft)",
             "unit": ""
           },
           {
