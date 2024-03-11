@@ -21,6 +21,8 @@
         ]
       }
     ],
+
+
     "nodes": [
       {
         "id": "main",
@@ -141,51 +143,67 @@
         "type": "object",
         "properties": [
           {
-            "id": "groupId",
-            "name": "GroupId",
+            "id": "id",
+            "name": "Id",
             "type": "int",
+            "system": true,
+            "unit": ""
+          },
+          {
+            "id": "indicatorDataRepoId",
+            "name": "Indicator Repo",
+            "type": "str",
+            "system": true,
+            "unit": ""
+          },
+          {
+            "id": "indicatorDataViewCode",
+            "name": "Indicator ViewCode",
+            "type": "str",
+            "system": true,
             "unit": ""
           },
           {
             "id": "repoId",
-            "name": "RepoId",
-            "type": "int",
-            "unit": ""
-          },
-          {
-            "id": "id",
-            "name": "Id",
-            "type": "int",
-            "unit": ""
-          },
-          {
-            "id": "uid",
-            "name": "UID",
-            "type": "uid",
+            "name": "Repo",
+            "type": "str",
+            "system": true,
             "unit": ""
           },
           {
             "id": "code",
             "name": "Code",
             "type": "str",
+            "system": true,
             "unit": ""
           },
           {
             "id": "name",
-            "name": "Name",
+            "name": "Название",
             "type": "str",
+            "system": false,
+            "defaultValue" : "Анализ (Draft)",
             "unit": ""
           },
           {
-            "id": "version",
-            "name": "Version",
+            "id": "analyticCriteriesRepoId",
+            "name": "Analytic Criteria RepoId",
             "type": "str",
+            "system": true,
             "unit": ""
           },
           {
-            "id": "dataService",
-            "name": "Data Service",
+            "id": "analyticCriteriesViewCode",
+            "name": "Analytic Criteria View Code",
             "type": "str",
+            "system": true,
+            "unit": ""
+          },
+          {
+            "id": "schemeNodeId",
+            "name": "Scheme Node Id",
+            "type": "str",
+            "system": true,
             "unit": ""
           }
         ]
