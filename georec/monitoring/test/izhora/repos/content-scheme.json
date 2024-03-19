@@ -16,18 +16,16 @@
         "id": "folder",
         "children" : [
           {
-            "id": "analysis"
+            "id": "repo"
           }
         ]
       }
     ],
-
-
     "nodes": [
       {
         "id": "main",
         "$schema": "",
-        "name": "Аналитические Выборки",
+        "name": "Каталоги/Журналы",
         "type": "object",
         "properties": [
           {
@@ -137,73 +135,57 @@
         ]
       },
       {
-        "id": "analysis",
+        "id": "repo",
         "$schema": "",
         "name": "Выборка",
         "type": "object",
         "properties": [
           {
-            "id": "id",
-            "name": "Id",
+            "id": "groupId",
+            "name": "GroupId",
             "type": "int",
-            "system": true,
-            "unit": ""
-          },
-          {
-            "id": "indicatorDataRepoId",
-            "name": "Indicator Repo",
-            "type": "str",
-            "system": true,
-            "unit": ""
-          },
-          {
-            "id": "indicatorDataViewCode",
-            "name": "Indicator ViewCode",
-            "type": "str",
-            "system": true,
             "unit": ""
           },
           {
             "id": "repoId",
-            "name": "Repo",
-            "type": "str",
-            "system": true,
+            "name": "RepoId",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "id",
+            "name": "Id",
+            "type": "int",
+            "unit": ""
+          },
+          {
+            "id": "uid",
+            "name": "UID",
+            "type": "uid",
             "unit": ""
           },
           {
             "id": "code",
             "name": "Code",
             "type": "str",
-            "system": true,
             "unit": ""
           },
           {
             "id": "name",
-            "name": "Название",
+            "name": "Name",
             "type": "str",
-            "system": false,
-            "defaultValue" : "Анализ (Draft)",
             "unit": ""
           },
           {
-            "id": "analyticCriteriesRepoId",
-            "name": "Analytic Criteria RepoId",
+            "id": "version",
+            "name": "Version",
             "type": "str",
-            "system": true,
             "unit": ""
           },
           {
-            "id": "analyticCriteriesViewCode",
-            "name": "Analytic Criteria View Code",
+            "id": "dataService",
+            "name": "Data Service",
             "type": "str",
-            "system": true,
-            "unit": ""
-          },
-          {
-            "id": "schemeNodeId",
-            "name": "Scheme Node Id",
-            "type": "str",
-            "system": true,
             "unit": ""
           }
         ]
