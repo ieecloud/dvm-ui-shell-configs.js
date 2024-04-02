@@ -18,7 +18,7 @@
         {
           "model" : "activeNodeScheme",
           "mobileModeOnly" : false,
-          "currentValue": "analysis",
+          "currentValue": "repo",
           "type": "string",
           "optionsType" : "nodeScheme"
         }
