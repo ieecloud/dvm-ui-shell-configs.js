@@ -1,0 +1,24 @@
+{
+  "theme": {
+    "errorImg": {
+      "label": "Ошибки с картинкой",
+      "settings": {
+        "model": "errorImgModel",
+        "currentValue": true,
+        "mobileModeOnly": false,
+        "type": "bool",
+        "optionsType": "manual",
+        "defaultOptions": [
+          {
+            "value": "Включить",
+            "key": true
+          },
+          {
+            "value": "Отключить",
+            "key": false
+          }
+        ]
+      }
+    }
+  }
+}
