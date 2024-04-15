@@ -11,6 +11,7 @@
         "code": "1",
         "name": "IEE Платформа",
         "version": "1.0.0",
+        "isApp" : false,
         "schemeNodeId": "c751df2c-application"
       }
     },
@@ -22,6 +23,7 @@
         "code": "2",
         "name": "Состояние Объекта",
         "version": "1.0.0",
+        "isApp" : true,
         "schemeNodeId": "c751df2c-module"
       }
     },
@@ -33,6 +35,7 @@
         "code": "3",
         "name": "Отчеты",
         "version": "1.0.0",
+        "isApp" : true,
         "schemeNodeId": "c751df2c-module"
       }
     },
@@ -44,6 +47,7 @@
         "code": "4",
         "name": "Аналитика",
         "version": "1.0.0",
+        "isApp" : true,
         "schemeNodeId": "c751df2c-module"
       }
     },
@@ -55,6 +59,7 @@
         "code": "5",
         "name": "События",
         "version": "1.0.0",
+        "isApp" : true,
         "schemeNodeId": "c751df2c-module"
       }
     },
@@ -66,6 +71,7 @@
         "code": "catalog_apps",
         "name": "Каталог Приложений",
         "version": "1.0.0",
+        "isApp" : true,
         "schemeNodeId": "c751df2c-module"
       }
     },
@@ -77,6 +83,7 @@
         "code": "7",
         "name": "Настройки",
         "version": "1.0.0",
+        "isApp" : true,
         "schemeNodeId": "c751df2c-module"
       }
     }
