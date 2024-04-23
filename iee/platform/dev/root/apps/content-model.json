@@ -11,7 +11,7 @@
         "name": "Приложения",
         "sys_id": 11,
         "parent_id": "",
-        "repoId": "repo.apps",
+        "repoId": "ctlg.apps",
         "groupId": "",
         "viewCode": "viewForEndUser",
         "viewerModel": "",

@@ -68,7 +68,7 @@
       "properties": {
         "id": "6",
         "uid": "c751df2c-064d-4c2b-9cd9-c82d91d33112",
-        "code": "catalog_apps",
+        "code": "apps",
         "name": "Каталог Приложений",
         "version": "1.0.0",
         "isApp" : true,
@@ -81,7 +81,7 @@
         "id": "7",
         "uid": "c751df2c-064d-4c2b-9cd9-c82d91d33113",
         "code": "repos",
-        "repoId": "catalog.repos",
+        "repoId": "ctlg.repos",
         "formatData": "treeEntity",
         "name": "Журналы Данных",
         "isApp" : true,
@@ -111,6 +111,10 @@
         "children": [
           {
             "id": "c82b25be-1146-4208-8d34-866cbf3e9244",
+            "children": []
+          },
+          {
+            "id": "c82b25be-1146-4208-8d34-866cbf3e9245",
             "children": []
           }
         ]

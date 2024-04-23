@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "scheme": "app-schema.json"
+  },
+  "nodeData": [
+    {
+      "id": "355",
+      "properties": {
+        "id": 355,
+        "code": "main",
+        "name": "Приложения",
+        "sys_id": 11,
+        "parent_id": "",
+        "repoId": "ctlg.apps",
+        "groupId": "",
+        "viewCode": "viewForEndUser",
+        "viewerModel": "",
+        "viewer2dModel": "",
+        "dataService": "http://localhost:8080/dvm/api/root/data/",
+        "filter": "",
+        "filterValues": "",
+        "defaultView": "",
+        "type": "geo",
+        "indicatorsRepoId": "25",
+        "indicatorsRepoFilter": "name",
+        "indicatorsRepoFilterValues": "Приложения",
+        "schemeNodeId": "a751df21-main",
+        "fixedFields" : [{ "field": "time"}],
+        "editMode" : true
+      }
+    },
+    {
+      "id": "455",
+      "properties": {
+        "id": 455,
+        "code": "main",
+        "name": "Наклономер",
+        "sys_id": 11,
+        "parent_id": "",
+        "repoId": "repo.mark.nakl.data",
+        "groupId": "27",
+        "viewerModel": "",
+        "viewer2dModel": "",
+        "dataService": "http://notebook.ieecloud.com:8080/dataService/api",
+        "filter": "",
+        "filterValues": "",
+        "defaultView": "",
+        "type": "geo",
+        "indicatorsRepoId": "25",
+        "indicatorsRepoFilter": "name",
+        "indicatorsRepoFilterValues": "Наклономер",
+        "schemeNodeId": "a751df21-main",
+        "fixedFields" : [],
+        "editMode" : false
+      }
+    }
+  ],
+  "treeStructureData": {
+    "id": "bde9ff58-3ca5-40a9-9ee1-5bce1052b5ab",
+    "name" : "Каталоги",
+    "nodes": [
+      {
+        "id": "355",
+        "children": [
+        ]
+      }
+    ]
+  }
+}
