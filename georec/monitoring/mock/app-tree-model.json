@@ -56,6 +56,19 @@
       }
     },
     {
+      "id": "d686a557-7fbc-495d-a212-4d95f72f2a97",
+      "properties": {
+        "id": "14",
+        "uid": "c751df2c-064d-4c2b-9cd9-c82d91d37501",
+        "code": "incidents",
+        "formatData": "treeEntity",
+        "name": "Инциденты",
+        "isApp" : true,
+        "version": "1.0.0",
+        "schemeNodeId": "c751df2c-module"
+      }
+    },
+    {
       "id": "c82b25be-1146-4208-8d34-866cbf3e9289",
       "properties": {
         "id": "5",
@@ -119,11 +132,11 @@
             "children": []
           },
           {
-            "id": "01df25bc-5309-4aa0-bbd0-f2ca1a6e1202",
+            "id": "d686a557-7fbc-495d-a212-4d95f72f2a97",
             "children": []
           },
           {
-            "id": "a12b25be-1146-4209-8d34-866cbf3e9245",
+            "id": "01df25bc-5309-4aa0-bbd0-f2ca1a6e1202",
             "children": []
           },
           {

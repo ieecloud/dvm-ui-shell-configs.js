@@ -226,7 +226,7 @@
             "id": "a891733b-4fb3-4231-b901-aaac5edf916b",
             "name": "Показатели Объекта",
             "fullScreenEnabled": false,
-            "editEnabled": false,
+            "editEnabled": true,
             "dateTimeRangeEnabled": true,
             "viewActions": [
               {
@@ -249,27 +249,27 @@
               "geo": [
                 {
                   "id": "a223df2c-064d-4c2b-9cd9-c82d91d37511",
-                  "name": "Журнал событий общий",
+                  "name": "Общие события",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
                 },
                 {
                   "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Журнал событий локальный",
+                  "name": "Локальные события",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
                 },
                 {
                   "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Журнал Геодезических Показаний (Исх.)",
+                  "name": "Исх. (данные в исходном виде)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "no_support",
@@ -281,7 +281,7 @@
                 },
                 {
                   "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Журнал Геодезических Показаний (Норм.)",
+                  "name": "Норм. (в приращениях от базовой точки)",
                   "repoId": "journal.geo.data.norm",
                   "store": "journal.geo.data.norm",
                   "viewCode": "no_support",
@@ -290,7 +290,7 @@
                 },
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Журнал Геодезических Показаний (Расчёт.)",
+                  "name": "Расч. (аппроксимация по мат. модели)",
                   "repoId": "journal.geo.data.calc",
                   "store": "journal.geo.data.calc",
                   "viewCode": "no_support",
@@ -299,7 +299,7 @@
                 },
                 {
                   "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "name": "Порог верхний (Расч.)",
                   "repoId": "journal.geo.data.calc",
                   "store": "journal.geo.data.calc",
                   "viewCode": "no_support_bound_norm_upper",
@@ -308,7 +308,7 @@
                 },
                 {
                   "id": "g2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "name": "Порог нижний (Расч.)",
                   "repoId": "journal.geo.data.calc",
                   "store": "journal.geo.data.calc",
                   "viewCode": "no_support_bound_norm_lower",
@@ -317,7 +317,7 @@
                 },
                 {
                   "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "name": "Порог верхний (Расч.)",
                   "repoId": "journal.geo.data.calc",
                   "store": "journal.geo.data.calc",
                   "viewCode": "no_support_bound_warn_upper",
@@ -326,7 +326,7 @@
                 },
                 {
                   "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "name": "Порог нижний (Расч.)",
                   "repoId": "journal.geo.data.calc",
                   "store": "journal.geo.data.calc",
                   "viewCode": "no_support_bound_warn_lower",
@@ -337,20 +337,20 @@
               "support": [
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-a82d91d37512",
-                  "name": "Журнал событий общий",
+                  "name": "Общие события",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
                 },
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-b82d91d37512",
-                  "name": "Журнал событий локальный",
+                  "name": "Локальные события",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
@@ -358,7 +358,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-c82d91d37518",
                   "type": "initial",
-                  "name": "Журнал Геодезических Показаний Опора (Исх.)",
+                  "name": "Исх. (данные в исходном виде)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "support",
@@ -368,7 +368,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-f82d91d37512",
                   "type": "norm",
-                  "name": "Журнал Геодезических Показаний Опора (Норм.)",
+                  "name": "Норм. (в приращениях от базовой точки)",
                   "repoId": "journal.geo.data.norm",
                   "store": "journal.geo.data.norm",
                   "viewCode": "support",
@@ -378,7 +378,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-d82d91d37512",
                   "type": "calc",
-                  "name": "Журнал Геодезических Показаний Опора (Расчёт.)",
+                  "name": "Расч. (аппроксимация по мат. модели)",
                   "repoId": "journal.geo.data.calc",
                   "store": "journal.geo.data.calc",
                   "viewCode": "support",
@@ -388,7 +388,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9ad9-d82d91d37512",
                   "type": "forecast.summer",
-                  "name": "Журнал Геодезических Показаний Опора (Прогноз Лето)",
+                  "name": "Прогноз лето",
                   "repoId": "journal.geo.data.forecast.summer",
                   "store": "journal.geo.data.forecast.summer",
                   "viewCode": "support",
@@ -398,7 +398,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9dd9-d82d91d37512",
                   "type": "forecast.winter",
-                  "name": "Журнал Геодезических Показаний Опора (Прогноз Зима)",
+                  "name": "Прогноз зима",
                   "repoId": "journal.geo.data.forecast.winter",
                   "store": "journal.geo.data.forecast.winter",
                   "viewCode": "support",
@@ -407,7 +407,7 @@
                 },
                 {
                   "id": "s1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Верхний (Исх.)",
+                  "name": "Порог верхний (Исх.)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "support_bound_norm_upper",
@@ -416,7 +416,7 @@
                 },
                 {
                   "id": "s2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Нижний (Исх.)",
+                  "name": "Порог нижний (Исх.)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "support_bound_norm_lower",
@@ -425,7 +425,7 @@
                 },
                 {
                   "id": "s1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Верхний (Исх.)",
+                  "name": "Порог верхний (Исх.)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "support_bound_warn_upper",
@@ -434,7 +434,7 @@
                 },
                 {
                   "id": "s2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Нижний (Исх.)",
+                  "name": "Порог нижний (Исх.)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "support_bound_warn_lower",
@@ -445,20 +445,20 @@
               "nakl": [
                 {
                   "id": "f221df2c-064d-4c2b-9dd9-d82d91d37512",
-                  "name": "Журнал событий общий",
+                  "name": "Общие события",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
                 },
                 {
                   "id": "f222df2c-064d-4c2b-9dd9-d82d91d37512",
-                  "name": "Журнал событий локальный",
+                  "name": "Локальные события",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
@@ -466,7 +466,7 @@
                 {
                   "id": "f223df2c-064d-4c2b-9dd9-d82d91d37512",
                   "type": "initial",
-                  "name": "Журнал Показаний Наклономера (Исх.)",
+                  "name": "Исх. (данные в исходном виде)",
                   "repoId": "journal.nakl.data.initial",
                   "store": "journal.nakl.data.initial",
                   "viewCode": "default2",
@@ -476,7 +476,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9dd9-d82d91d37517",
                   "type": "norm",
-                  "name": "Журнал Показаний Наклономера (Норм.)",
+                  "name": "Норм. (в приращениях от базовой точки)",
                   "repoId": "journal.nakl.data.norm",
                   "store": "journal.nakl.data.norm",
                   "viewCode": "default",
@@ -486,7 +486,7 @@
                 {
                   "id": "f225df2c-064d-4c2b-9dd9-d82d91d37512",
                   "type": "calc",
-                  "name": "Журнал Показаний Наклономера (Расчёт.)",
+                  "name": "Расч. (аппроксимация по мат. модели)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
                   "viewCode": "default",
@@ -495,7 +495,7 @@
                 },
                 {
                   "id": "n1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "name": "Порог верхний (Расч.)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
                   "viewCode": "no_support_bound_norm_upper",
@@ -504,7 +504,7 @@
                 },
                 {
                   "id": "n2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "name": "Порог нижний (Расч.)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
                   "viewCode": "no_support_bound_norm_lower",
@@ -513,7 +513,7 @@
                 },
                 {
                   "id": "n1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "name": "Порог верхний (Расч.)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
                   "viewCode": "no_support_bound_warn_upper",
@@ -522,7 +522,7 @@
                 },
                 {
                   "id": "n2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "name": "Порог нижний (Расч.)",
                   "repoId": "journal.nakl.data.calc",
                   "store": "journal.nakl.data.calc",
                   "viewCode": "no_support_bound_warn_lower",
@@ -533,20 +533,20 @@
               "voinar": [
                 {
                   "id": "f224df2c-064d-1c2b-9cd9-a82d91d37512",
-                  "name": "Журнал событий общий",
+                  "name": "Общие события",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
                   "show": false
                 },
                 {
                   "id": "f224df2c-064d-2c2b-9cd9-b82d91d37512",
-                  "name": "Журнал событий локальный",
+                  "name": "Локальные события",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": false
@@ -554,7 +554,7 @@
                 {
                   "id": "f224df2c-064d-3c2b-9cd9-b82d91d37512",
                   "type": "initial",
-                  "name": "Журнал Показаний Войнаровского (Исх.)",
+                  "name": "Исх. (данные в исходном виде)",
                   "repoId": "journal.voinar.data.initial",
                   "store": "journal.voinar.data.initial",
                   "viewCode": "default",
@@ -564,7 +564,7 @@
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-b82d91d37519",
                   "type": "norm",
-                  "name": "Журнал Показаний Войнаровского (Норм.)",
+                  "name": "Норм. (в приращениях от базовой точки)",
                   "repoId": "journal.voinar.data.norm",
                   "store": "journal.voinar.data.norm",
                   "viewCode": "default",
@@ -574,7 +574,7 @@
                 {
                   "id": "f224df2c-064d-5c2b-9cd9-b82d91d37512",
                   "type": "calc",
-                  "name": "Журнал Показаний Войнаровского (Расчёт.)",
+                  "name": "Расч. (аппроксимация по мат. модели)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
                   "viewCode": "default",
@@ -583,7 +583,7 @@
                 },
                 {
                   "id": "v1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "name": "Порог верхний (Расч.)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
                   "viewCode": "no_support_bound_norm_upper",
@@ -592,7 +592,7 @@
                 },
                 {
                   "id": "v2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "name": "Порог нижний (Расч.)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
                   "viewCode": "no_support_bound_norm_lower",
@@ -601,7 +601,7 @@
                 },
                 {
                   "id": "v1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "name": "Порог верхний (Расч.)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
                   "viewCode": "no_support_bound_warn_upper",
@@ -610,10 +610,97 @@
                 },
                 {
                   "id": "v2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "name": "Порог нижний (Расч.)",
                   "repoId": "journal.voinar.data.calc",
                   "store": "journal.voinar.data.calc",
                   "viewCode": "no_support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                }
+              ],"joint": [
+                {
+                  "id": "jf224df2c-064d-4c2b-9cd9-a82d91d37512",
+                  "name": "Общие события",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "default",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "jf224df2c-064d-4c2b-9cd9-b82d91d37512",
+                  "name": "Локальные события",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "default",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "jf224df2c-064d-4c2b-9cd9-c82d91d37518",
+                  "type": "initial",
+                  "name": "Исх. (данные в исходном виде)",
+                  "repoId": "journal.joint.data.initial",
+                  "store": "journal.joint.data.initial",
+                  "viewCode": "default",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "jf224df2c-064d-4c2b-9cd9-f82d91d37512",
+                  "type": "norm",
+                  "name": "Норм. (в приращениях от базовой точки)",
+                  "repoId": "journal.joint.data.norm",
+                  "store": "journal.joint.data.norm",
+                  "viewCode": "default",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "jf224df2c-064d-4c2b-9cd9-d82d91d37512",
+                  "type": "calc",
+                  "name": "Расч. (аппроксимация по мат. модели)",
+                  "repoId": "journal.joint.data.calc",
+                  "store": "journal.joint.data.calc",
+                  "viewCode": "default",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                },
+                {
+                  "id": "js1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "js2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "js1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "js2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_warn_lower",
                   "color": "rgb(250,2,2)",
                   "show": false
                 }
