@@ -53,7 +53,7 @@
       }
     ]
   },
-  "analysis": {
+  "file": {
     "dialog": false,
     "excludeSettings": [
       "dialog"

@@ -16,7 +16,7 @@
         "id": "folder",
         "children" : [
           {
-            "id": "analysis"
+            "id": "file"
           }
         ]
       }
@@ -137,9 +137,9 @@
         ]
       },
       {
-        "id": "analysis",
+        "id": "file",
         "$schema": "",
-        "name": "Выборка",
+        "name": "Документ",
         "type": "object",
         "properties": [
           {
