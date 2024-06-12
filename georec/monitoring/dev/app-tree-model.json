@@ -125,7 +125,7 @@
         "id": "10",
         "uid": "df751df2c-564f-5c2f-1cf9-c12d91d33212",
         "code": "docs",
-        "repoId": "catalog.files",
+        "repoId": "catalog.docs",
         "formatData": "treeEntity",
         "name": "Документация",
         "isApp" : true,
