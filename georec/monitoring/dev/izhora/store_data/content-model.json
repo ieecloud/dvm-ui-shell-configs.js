@@ -43,7 +43,7 @@
         "dataService": "http://notebook.ieecloud.com:8080/dataService/api",
         "filter": "",
         "filterValues": "",
-        "defaultView": "",
+        "defaultView": "default2",
         "type": "geo",
         "indicatorsRepoId": "25",
         "indicatorsRepoFilter": "name",
