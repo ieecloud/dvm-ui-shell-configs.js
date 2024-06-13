@@ -479,7 +479,7 @@
                   "name": "Норм. (в приращениях от базовой точки)",
                   "repoId": "journal.nakl.data.norm",
                   "store": "journal.nakl.data.norm",
-                  "viewCode": "default",
+                  "viewCode": "default2",
                   "color": "rgb(27,151,182)",
                   "show": true
                 },
