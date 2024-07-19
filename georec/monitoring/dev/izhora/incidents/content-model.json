@@ -52,6 +52,31 @@
         "fixedFields" : [{ "field": "time"}],
         "editMode" : true
       }
+    },
+    {
+      "id": "555",
+      "properties": {
+        "id": 555,
+        "code": "main",
+        "name": "Заключения",
+        "sys_id": 11,
+        "parent_id": "",
+        "repoId": "rstr.conclusions",
+        "groupId": "27",
+        "viewerModel": "",
+        "viewer2dModel": "",
+        "dataService": "http://notebook.ieecloud.com:8080/dataService/api",
+        "filter": "",
+        "filterValues": "",
+        "defaultView": "",
+        "type": "geo",
+        "indicatorsRepoId": "25",
+        "indicatorsRepoFilter": "name",
+        "indicatorsRepoFilterValues": "Инциденты",
+        "schemeNodeId": "a751df21-main",
+        "fixedFields" : [],
+        "editMode" : false
+      }
     }
   ],
   "treeStructureData": {
@@ -65,6 +90,11 @@
       },
       {
         "id": "455",
+        "children": [
+        ]
+      },
+      {
+        "id": "555",
         "children": [
         ]
       }
