@@ -79,7 +79,7 @@
                   "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
-                  "show": false
+                  "show": true
                 },
                 {
                   "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
@@ -89,7 +89,7 @@
                   "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
-                  "show": false
+                  "show": true
                 }
               ]
             },
