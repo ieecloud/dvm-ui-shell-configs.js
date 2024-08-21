@@ -335,42 +335,6 @@
                   "viewCode": "no_support",
                   "color": "rgb(146,181,151)",
                   "show": true
-                },
-                {
-                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Расч.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
-                  "viewCode": "no_support_bound_norm_upper",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "g2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Расч.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
-                  "viewCode": "no_support_bound_norm_lower",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Расч.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
-                  "viewCode": "no_support_bound_warn_upper",
-                  "color": "rgb(250,2,2)",
-                  "show": false
-                },
-                {
-                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Расч.)",
-                  "repoId": "journal.geo.data.calc",
-                  "store": "journal.geo.data.calc",
-                  "viewCode": "no_support_bound_warn_lower",
-                  "color": "rgb(250,2,2)",
-                  "show": false
                 }
               ],
               "support": [
@@ -443,42 +407,6 @@
                   "viewCode": "support",
                   "color": "rgb(0,0,255)",
                   "show": true
-                },
-                {
-                  "id": "s1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_norm_upper",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "s2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_norm_lower",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "s1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_warn_upper",
-                  "color": "rgb(250,2,2)",
-                  "show": false
-                },
-                {
-                  "id": "s2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_warn_lower",
-                  "color": "rgb(250,2,2)",
-                  "show": false
                 }
               ],
               "nakl": [
@@ -531,42 +459,6 @@
                   "viewCode": "default",
                   "color": "rgb(146,181,151)",
                   "show": true
-                },
-                {
-                  "id": "n1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Расч.)",
-                  "repoId": "journal.nakl.data.calc",
-                  "store": "journal.nakl.data.calc",
-                  "viewCode": "no_support_bound_norm_upper",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "n2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Расч.)",
-                  "repoId": "journal.nakl.data.calc",
-                  "store": "journal.nakl.data.calc",
-                  "viewCode": "no_support_bound_norm_lower",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "n1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Расч.)",
-                  "repoId": "journal.nakl.data.calc",
-                  "store": "journal.nakl.data.calc",
-                  "viewCode": "no_support_bound_warn_upper",
-                  "color": "rgb(250,2,2)",
-                  "show": false
-                },
-                {
-                  "id": "n2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Расч.)",
-                  "repoId": "journal.nakl.data.calc",
-                  "store": "journal.nakl.data.calc",
-                  "viewCode": "no_support_bound_warn_lower",
-                  "color": "rgb(250,2,2)",
-                  "show": false
                 }
               ],
               "voinar": [
@@ -619,42 +511,6 @@
                   "viewCode": "default",
                   "color": "rgb(146,181,151)",
                   "show": true
-                },
-                {
-                  "id": "v1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Расч.)",
-                  "repoId": "journal.voinar.data.calc",
-                  "store": "journal.voinar.data.calc",
-                  "viewCode": "no_support_bound_norm_upper",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "v2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Расч.)",
-                  "repoId": "journal.voinar.data.calc",
-                  "store": "journal.voinar.data.calc",
-                  "viewCode": "no_support_bound_norm_lower",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "v1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Расч.)",
-                  "repoId": "journal.voinar.data.calc",
-                  "store": "journal.voinar.data.calc",
-                  "viewCode": "no_support_bound_warn_upper",
-                  "color": "rgb(250,2,2)",
-                  "show": false
-                },
-                {
-                  "id": "v2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Расч.)",
-                  "repoId": "journal.voinar.data.calc",
-                  "store": "journal.voinar.data.calc",
-                  "viewCode": "no_support_bound_warn_lower",
-                  "color": "rgb(250,2,2)",
-                  "show": false
                 }
               ],
               "joint": [
@@ -707,42 +563,6 @@
                   "viewCode": "default",
                   "color": "rgb(146,181,151)",
                   "show": true
-                },
-                {
-                  "id": "js1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_norm_upper",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "js2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_norm_lower",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "js1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог верхний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_warn_upper",
-                  "color": "rgb(250,2,2)",
-                  "show": false
-                },
-                {
-                  "id": "js2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Порог нижний (Исх.)",
-                  "repoId": "journal.geo.data.initial",
-                  "store": "journal.geo.data.initial",
-                  "viewCode": "support_bound_warn_lower",
-                  "color": "rgb(250,2,2)",
-                  "show": false
                 }
               ]
             },
