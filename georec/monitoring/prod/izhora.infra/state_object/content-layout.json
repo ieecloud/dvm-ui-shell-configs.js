@@ -1,0 +1,648 @@
+{
+  "c751df21-main": {
+    "dialog": false,
+    "excludeSettings": [
+      "dialog"
+    ],
+    "widgetRows": [
+      {
+        "id": "row2",
+        "widgets": [
+          {
+            "id": "c891733b-4fb3-4231-b901-aaac5edf806f",
+            "name": "Состояние Объектов",
+            "fullScreenEnabled": true,
+            "editEnabled": false,
+            "add2DNodesEnabled": false,
+            "mapViewActions": [
+              {
+                "id": "b123df2c-064d-4c2b-9cd9-c82d91d37511",
+                "name": "Стандартная",
+                "map": "default"
+              },
+              {
+                "id": "c424df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "Карта улиц",
+                "map": "mapbox"
+              },
+              {
+                "id": "a425df2c-064d-4c2b-9cd9-c82d91d37529",
+                "name": "Карта Местности",
+                "map": "jawg-terrain"
+              },
+              {
+                "id": "f425df3c-054d-4c2b-9cd9-c82d91d37521",
+                "name": "Спутник",
+                "map": "arcgisonline"
+              }
+            ],
+            "viewActions": [
+              {
+                "id": "c791df2c-064d-4c2b-9cd9-c82d91d37600",
+                "name": "Таблица",
+                "view": "table"
+              },
+              {
+                "id": "c126df2c-164d-4c2b-9cd9-c82d91d37600",
+                "name": "Карта",
+                "view": "map"
+              }
+            ],
+            "clazz": "col-xl-12 col-lg-12",
+            "widgetContent": {
+              "id": "c901733b-4fb3-4231-b901-aaac5edf9060",
+              "view": "map",
+              "map": "default"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "c751df2a-object": {
+    "dialog": false,
+    "excludeSettings": [
+      "dialog"
+    ],
+    "widgetRows": [
+      {
+        "id": "row1",
+        "widgets": [
+          {
+            "id": "c111df2c-064d-4c2b-9cd9-c82d91d37533",
+            "name": "Модель объекта",
+            "fullScreenEnabled": true,
+            "editEnabled": false,
+            "add2DNodesEnabled": false,
+            "viewActions": [
+              {
+                "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "3D Вид",
+                "view": "viewer-3d",
+                "params": {
+                  "url": "http://notebook.ieecloud.com:8080/monitor_izhora_storage/full.zip"
+                }
+              },
+              {
+                "id": "c126df2c-064d-4c2b-9cd9-c82d91d37513",
+                "name": "Таблица",
+                "view": "table"
+              },
+              {
+                "id": "c126df2c-164d-4c2b-9cd9-c82d91d37613",
+                "name": "Карта",
+                "view": "map"
+              }
+            ],
+            "modelDataActions": [
+              {
+                "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
+                "name": "Модель без результатов",
+                "model": "default"
+              },
+              {
+                "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "Модель с перемещением по Х",
+                "model": "_x"
+              },
+              {
+                "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
+                "name": "Модель с перемещением по Y",
+                "model": "_y"
+              },
+              {
+                "id": "a126df2c-164d-4c2b-9cd9-c82d91d37613",
+                "name": "Модель с перемещением по Z",
+                "model": "_z"
+              }
+            ],
+            "mapViewActions": [
+              {
+                "id": "b123df2c-064d-4c2b-9cd9-c82d91d37511",
+                "name": "Стандартная",
+                "map": "default"
+              },
+              {
+                "id": "c424df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "Карта улиц",
+                "map": "mapbox"
+              },
+              {
+                "id": "a425df2c-064d-4c2b-9cd9-c82d91d37529",
+                "name": "Карта Местности",
+                "map": "jawg-terrain"
+              },
+              {
+                "id": "f425df3c-054d-4c2b-9cd9-c82d91d37521",
+                "name": "Спутник",
+                "map": "arcgisonline"
+              }
+            ],
+            "clazz": "col-xl-12 col-lg-12",
+            "widgetContent": {
+              "id": "c891733b-4fb3-4231-b901-aaac5eda0061",
+              "view": "viewer-3d",
+              "model": "default",
+              "map": "default"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "e751df2a-object-element": {
+    "dialog": false,
+    "excludeSettings": [
+      "dialog"
+    ],
+    "widgetRows": [
+      {
+        "id": "row2",
+        "widgets": [
+          {
+            "id": "c891733b-4fb3-4231-b901-aaac5edf906b",
+            "name": "Модель Объекта",
+            "fullScreenEnabled": true,
+            "editEnabled": false,
+            "add2DNodesEnabled": true,
+            "add2DNodesEnabledTurnTitle": "Включить режим привязки узлов к картинке",
+            "add2DNodesEnabledTurnOffTitle": "Выключить режим привязки узлов к картинке",
+            "viewActions": [
+              {
+                "id": "c124df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "3D Вид",
+                "view": "viewer-3d",
+                "params": {
+                  "url": "http://notebook.ieecloud.com:8080/monitor_izhora_storage/full.zip"
+                }
+              },
+              {
+                "id": "c751dc2c-064d-4c2b-9cd9-c82d91d37601",
+                "name": "Таблица",
+                "view": "table"
+              }
+            ],
+            "modelDataActions": [
+              {
+                "id": "a123df2c-064d-4c2b-9cd9-c82d91d37511",
+                "name": "Модель без результатов",
+                "model": "default"
+              },
+              {
+                "id": "a124df2c-064d-4c2b-9cd9-c82d91d37512",
+                "name": "Модель с перемещением по Х",
+                "model": "_x"
+              },
+              {
+                "id": "a126df2c-064d-4c2b-9cd9-c82d91d37513",
+                "name": "Модель с перемещением по Y",
+                "model": "_y"
+              },
+              {
+                "id": "a126df2c-164d-4c2b-9cd9-c82d91d37613",
+                "name": "Модель с перемещением по Z",
+                "model": "_z"
+              }
+            ],
+            "clazz": "col-xl-12 col-lg-12",
+            "widgetContent": {
+              "id": "a991733b-4fb3-4231-b901-aaac5edf9067",
+              "view": "viewer-3d",
+              "model": "default",
+              "dataType": "default"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "e751df2a-object-element-sensor": {
+    "dialog": false,
+    "widgetRows": [
+      {
+        "id": "row2",
+        "widgets": [
+          {
+            "id": "a891733b-4fb3-4231-b901-aaac5edf916b",
+            "name": "Показатели Объекта",
+            "fullScreenEnabled": true,
+            "editEnabled": true,
+            "viewActions": [
+              {
+                "id": "c951dc2c-064d-4c2b-9cd9-c82d91d37601",
+                "name": "Таблица",
+                "view": "table"
+              },
+              {
+                "id": "c751dd2c-064d-4c2b-9cd9-c82d91d37610",
+                "name": "Графики",
+                "view": "chart"
+              },
+              {
+                "id": "f751dd2f-064d-5c2b-9cd9-c82d91d37611",
+                "name": "Редактировать",
+                "view": "editMode"
+              }
+            ],
+            "availableRepos": {
+              "geo": [
+                {
+                  "id": "a223df2c-064d-4c2b-9cd9-c82d91d37511",
+                  "name": "Журнал событий общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал Геодезических Показаний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "no_support",
+                  "color": "rgb(247, 182, 182)",
+                  "indicator_name": "u",
+                  "indicator_type_name": "initial",
+                  "mom_type": "geo",
+                  "show": false
+                },
+                {
+                  "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал Геодезических Показаний (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
+                  "viewCode": "no_support",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Журнал Геодезических Показаний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "g2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "no_support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                }
+              ],
+              "support": [
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-a82d91d37512",
+                  "name": "Журнал событий общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-b82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-c82d91d37518",
+                  "type": "initial",
+                  "name": "Смещение опорной части (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-f82d91d37512",
+                  "type": "norm",
+                  "name": "Смещение опорной части (Норм.)",
+                  "repoId": "journal.geo.data.norm",
+                  "store": "journal.geo.data.norm",
+                  "viewCode": "support",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-d82d91d37512",
+                  "type": "calc",
+                  "name": "Смещение опорной части (Расчёт.)",
+                  "repoId": "journal.geo.data.calc",
+                  "store": "journal.geo.data.calc",
+                  "viewCode": "support",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9ad9-d82d91d37512",
+                  "type": "forecast.summer",
+                  "name": "Смещение опорной части (Прогноз Лето)",
+                  "repoId": "journal.geo.data.forecast.summer",
+                  "store": "journal.geo.data.forecast.summer",
+                  "viewCode": "support",
+                  "color": "rgb(255,128,0)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "forecast.winter",
+                  "name": "Смещение опорной части (Прогноз Зима)",
+                  "repoId": "journal.geo.data.forecast.winter",
+                  "store": "journal.geo.data.forecast.winter",
+                  "viewCode": "support",
+                  "color": "rgb(0,0,255)",
+                  "show": true
+                },
+                {
+                  "id": "s1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "s2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "s1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "s2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Исх.)",
+                  "repoId": "journal.geo.data.initial",
+                  "store": "journal.geo.data.initial",
+                  "viewCode": "support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                }
+              ],
+              "nakl": [
+                {
+                  "id": "f221df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "name": "Журнал событий общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "f222df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "f223df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "initial",
+                  "name": "Журнал показаний наклономеров (Исх.)",
+                  "repoId": "journal.nakl.data.initial",
+                  "store": "journal.nakl.data.initial",
+                  "viewCode": "default2",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9dd9-d82d91d37517",
+                  "type": "norm",
+                  "name": "Журнал показаний наклономеров (Норм.)",
+                  "repoId": "journal.nakl.data.norm",
+                  "store": "journal.nakl.data.norm",
+                  "viewCode": "",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f225df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "calc",
+                  "name": "Журнал показаний наклономеров (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                },
+                {
+                  "id": "n1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "n2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "n1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "n2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "repoId": "journal.nakl.data.calc",
+                  "store": "journal.nakl.data.calc",
+                  "viewCode": "no_support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                }
+              ],
+              "voinar": [
+                {
+                  "id": "f224df2c-064d-1c2b-9cd9-a82d91d37512",
+                  "name": "Журнал событий общий",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-2c2b-9cd9-b82d91d37512",
+                  "name": "Журнал событий локальный",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-3c2b-9cd9-b82d91d37512",
+                  "type": "initial",
+                  "name": "Журнал показаний фотограмметрии (Исх.)",
+                  "repoId": "journal.voinar.data.initial",
+                  "store": "journal.voinar.data.initial",
+                  "viewCode": "",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "f224df2c-064d-4c2b-9cd9-b82d91d37519",
+                  "type": "norm",
+                  "name": "Журнал показаний фотограмметрии (Норм.)",
+                  "repoId": "journal.voinar.data.norm",
+                  "store": "journal.voinar.data.norm",
+                  "viewCode": "",
+                  "color": "rgb(27,151,182)",
+                  "show": true
+                },
+                {
+                  "id": "f224df2c-064d-5c2b-9cd9-b82d91d37512",
+                  "type": "calc",
+                  "name": "Журнал показаний фотограмметрии (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "",
+                  "color": "rgb(146,181,151)",
+                  "show": true
+                },
+                {
+                  "id": "v1124df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Верхний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_norm_upper",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "v2224df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предупредительный порог Нижний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_norm_lower",
+                  "color": "rgb(250,209,2)",
+                  "show": false
+                },
+                {
+                  "id": "v1324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Верхний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_warn_upper",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                },
+                {
+                  "id": "v2324df2c-064d-4c2b-9cd9-c82d91d37512",
+                  "name": "Предельный порог Нижний (Расчёт.)",
+                  "repoId": "journal.voinar.data.calc",
+                  "store": "journal.voinar.data.calc",
+                  "viewCode": "no_support_bound_warn_lower",
+                  "color": "rgb(250,2,2)",
+                  "show": false
+                }
+              ]
+            },
+            "clazz": "col-xl-12 col-lg-12",
+            "widgetContent": {
+              "id": "a991733b-4fb3-4231-b901-aaac5edf9007",
+              "view": "chart",
+              "dataType": "default",
+              "store": [
+                "journal.geo.data.norm",
+                "journal.geo.data.calc"
+              ]
+            }
+          },
+          {
+            "id": "a891733b-4fb3-8231-b101-baac5edf815b",
+            "name": "Показатели с критериями",
+            "fullScreenEnabled": false,
+            "clazz": "col-xl-12 col-lg-12",
+            "widgetContent": {
+              "id": "f101733b-4fb3-4231-b901-fffc5edf9118",
+              "view": "table",
+              "model": "default",
+              "dataType": "indicators"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
