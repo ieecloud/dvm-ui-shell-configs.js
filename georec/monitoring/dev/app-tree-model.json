@@ -142,7 +142,7 @@
         "repoId": "catalog.docs",
         "formatData": "treeEntity",
         "name": "Помощь",
-        "link" : "cf079d0c-10b0-4b57-a9ee-4f110ad7523d",
+        "link" : "Краткое описание интерфейса системы мониторинга.pdf",
         "isApp" : false,
         "version": "1.0.0",
         "schemeNodeId": "c751df2c-module"
