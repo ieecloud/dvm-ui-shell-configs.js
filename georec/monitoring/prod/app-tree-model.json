@@ -132,6 +132,21 @@
         "version": "1.0.0",
         "schemeNodeId": "c751df2c-module"
       }
+    },
+    {
+      "id": "ff12b25ff-2546-4209-8f34-866cbf3f9245",
+      "properties": {
+        "id": "10",
+        "uid": "dd751ff2c-564f-5c2f-1cf1-c12d91d33111",
+        "code": "docs",
+        "repoId": "catalog.docs",
+        "formatData": "treeEntity",
+        "name": "Помощь",
+        "link" : "Краткое описание интерфейса системы мониторинга.pdf",
+        "isApp" : false,
+        "version": "1.0.0",
+        "schemeNodeId": "c751df2c-module"
+      }
     }
 
   ],
@@ -159,6 +174,10 @@
           },
           {
             "id": "da12b25be-2546-4209-8d34-866cbf3e9245",
+            "children": []
+          },
+          {
+            "id": "ff12b25ff-2546-4209-8f34-866cbf3f9245",
             "children": []
           }
         ]
