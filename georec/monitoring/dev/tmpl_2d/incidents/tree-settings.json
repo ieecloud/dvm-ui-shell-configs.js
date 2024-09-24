@@ -6,7 +6,7 @@
         {
           "model" : "activeNode",
           "mobileModeOnly" : false,
-          "currentValue": "",
+          "currentValue": "355",
           "type": "string",
           "optionsType" : "node"
         }
@@ -18,7 +18,7 @@
         {
           "model" : "activeNodeScheme",
           "mobileModeOnly" : false,
-          "currentValue": "analysis",
+          "currentValue": "a751df21-main",
           "type": "string",
           "optionsType" : "nodeScheme"
         }
@@ -89,28 +89,6 @@
           ]
         }
       ]
-    },
-    "7": {
-      "label": "Поиск по дереву",
-      "settings": [
-        {
-          "model" : "searchNodeTree",
-          "currentValue": true,
-          "mobileModeOnly" : false,
-          "type": "bool",
-          "optionsType" : "manual",
-          "defaultOptions": [
-            {
-              "value": "Включить",
-              "key": true
-            },
-            {
-              "value": "Отключить",
-              "key": false
-            }
-          ]
-        }
-      ]
     }
   },
   "settingsStructure": {
@@ -122,8 +100,7 @@
         "3",
         "4",
         "5",
-        "6",
-        "7"
+        "6"
       ]
     }
   }

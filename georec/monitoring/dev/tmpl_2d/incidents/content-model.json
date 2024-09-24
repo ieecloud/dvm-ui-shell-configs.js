@@ -8,10 +8,35 @@
       "properties": {
         "id": 355,
         "code": "main",
-        "name": "Геодезический",
+        "name": "Инциденты",
         "sys_id": 11,
         "parent_id": "",
-        "repoId": "journal.geo.data.norm",
+        "repoId": "rstr.incidents",
+        "groupId": "27",
+        "viewerModel": "",
+        "viewer2dModel": "",
+        "dataService": "http://notebook.ieecloud.com:8080/dataService/api",
+        "filter": "",
+        "filterValues": "",
+        "defaultView": "",
+        "type": "geo",
+        "indicatorsRepoId": "25",
+        "indicatorsRepoFilter": "name",
+        "indicatorsRepoFilterValues": "Инциденты",
+        "schemeNodeId": "a751df21-main",
+        "fixedFields" : [],
+        "editMode" : false
+      }
+    },
+    {
+      "id": "455",
+      "properties": {
+        "id": 455,
+        "code": "main",
+        "name": "Отклонения",
+        "sys_id": 11,
+        "parent_id": "",
+        "repoId": "rstr.deviations",
         "groupId": "27",
         "viewerModel": "",
         "viewer2dModel": "",
@@ -29,25 +54,25 @@
       }
     },
     {
-      "id": "455",
+      "id": "555",
       "properties": {
-        "id": 455,
+        "id": 555,
         "code": "main",
-        "name": "Наклономер",
+        "name": "Заключения",
         "sys_id": 11,
         "parent_id": "",
-        "repoId": "journal.nakl.data.norm",
+        "repoId": "rstr.conclusions",
         "groupId": "27",
         "viewerModel": "",
         "viewer2dModel": "",
         "dataService": "http://notebook.ieecloud.com:8080/dataService/api",
         "filter": "",
         "filterValues": "",
-        "defaultView": "default2",
+        "defaultView": "",
         "type": "geo",
         "indicatorsRepoId": "25",
         "indicatorsRepoFilter": "name",
-        "indicatorsRepoFilterValues": "Наклономер",
+        "indicatorsRepoFilterValues": "Инциденты",
         "schemeNodeId": "a751df21-main",
         "fixedFields" : [],
         "editMode" : false
@@ -56,7 +81,7 @@
   ],
   "treeStructureData": {
     "id": "bde9ff58-3ca5-40a9-9ee1-5bce1052b5ab",
-    "name" : "Журналы",
+    "name" : "Инциденты",
     "nodes": [
       {
         "id": "355",
@@ -65,6 +90,11 @@
       },
       {
         "id": "455",
+        "children": [
+        ]
+      },
+      {
+        "id": "555",
         "children": [
         ]
       }
