@@ -40,7 +40,7 @@
         {
           "model": "activeNodeScheme",
           "mobileModeOnly": false,
-          "currentValue": "c751df2a-object",
+          "currentValue": "complex",
           "type": "string",
           "optionsType": "nodeScheme"
         }
@@ -118,7 +118,7 @@
         {
           "model": "expandedNodeScheme",
           "analyticModeOnly": true,
-          "currentValue": "c751df2a-object",
+          "currentValue": "complex",
           "type": "string",
           "optionsType": "nodeScheme"
         }
