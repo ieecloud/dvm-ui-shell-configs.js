@@ -319,6 +319,7 @@
             "name": "Показатели Объекта",
             "fullScreenEnabled": true,
             "editEnabled": true,
+            "dateTimeRangeEnabled": true,
             "viewActions": [
               {
                 "id": "c951dc2c-064d-4c2b-9cd9-c82d91d37601",
