@@ -341,80 +341,86 @@
               "geo": [
                 {
                   "id": "a223df2c-064d-4c2b-9cd9-c82d91d37511",
-                  "name": "Журнал событий общий",
+                  "name": "Общие события",
                   "repoId": "journal.events.general",
                   "store": "journal.events.general",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
-                  "show": false
+                  "show": true
                 },
                 {
                   "id": "a224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Журнал событий локальный",
+                  "name": "Локальные события",
                   "repoId": "journal.events.objs",
                   "store": "journal.events.objs",
-                  "viewCode": "",
+                  "viewCode": "default",
                   "filter": "obj_code",
                   "filterValues": "${node_code}",
                   "show": true
                 },
                 {
                   "id": "d224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Журнал Геодезических Показаний (Исх.)",
+                  "name": "Исх. (данные в исходном виде)",
                   "repoId": "journal.geo.data.initial",
                   "store": "journal.geo.data.initial",
                   "viewCode": "no_support",
                   "color": "rgb(247, 182, 182)",
-                  "indicator_name": "u",
+                  "indicator_name": "w",
                   "indicator_type_name": "initial",
                   "mom_type": "geo",
-                  "show": false
+                  "show": true
                 },
                 {
                   "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Журнал Геодезических Показаний (Норм.)",
+                  "name": "Норм. (в приращениях от базовой точки)",
                   "repoId": "journal.geo.data.norm",
                   "store": "journal.geo.data.norm",
                   "viewCode": "no_support",
                   "color": "rgb(27,151,182)",
                   "show": true
+                }
+              ],
+              "nakl": [
+                {
+                  "id": "f221df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "name": "Общие события",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "default",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": true
                 },
                 {
-                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Верхний (Норм.)",
-                  "repoId": "journal.geo.data.norm",
-                  "store": "journal.geo.data.norm",
-                  "viewCode": "no_support_bound_norm_upper",
-                  "color": "rgb(250,209,2)",
+                  "id": "f222df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "name": "Локальные события",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "default",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": true
+                },
+                {
+                  "id": "f223df2c-064d-4c2b-9dd9-d82d91d37512",
+                  "type": "initial",
+                  "name": "Исх. (данные в исходном виде)",
+                  "repoId": "journal.nakl.data.initial",
+                  "store": "journal.nakl.data.initial",
+                  "viewCode": "default2",
+                  "color": "rgb(247, 182, 182)",
                   "show": false
                 },
                 {
-                  "id": "g2224df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предупредительный порог Нижний (Норм.)",
-                  "repoId": "journal.geo.data.norm",
-                  "store": "journal.geo.data.norm",
-                  "viewCode": "no_support_bound_norm_lower",
-                  "color": "rgb(250,209,2)",
-                  "show": false
-                },
-                {
-                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Верхний (Норм.)",
-                  "repoId": "journal.geo.data.norm",
-                  "store": "journal.geo.data.norm",
-                  "viewCode": "no_support_bound_warn_upper",
-                  "color": "rgb(250,2,2)",
-                  "show": false
-                },
-                {
-                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512",
-                  "name": "Предельный порог Нижний (Норм.)",
-                  "repoId": "journal.geo.data.norm",
-                  "store": "journal.geo.data.norm",
-                  "viewCode": "no_support_bound_warn_lower",
-                  "color": "rgb(250,2,2)",
-                  "show": false
+                  "id": "f224df2c-064d-4c2b-9dd9-d82d91d37517",
+                  "type": "norm",
+                  "name": "Норм. (в приращениях от базовой точки)",
+                  "repoId": "journal.nakl.data.norm",
+                  "store": "journal.nakl.data.norm",
+                  "viewCode": "default2",
+                  "color": "rgb(27,151,182)",
+                  "show": true
                 }
               ]
             },
