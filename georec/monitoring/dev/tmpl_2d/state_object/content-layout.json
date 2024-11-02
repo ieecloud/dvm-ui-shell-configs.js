@@ -369,7 +369,7 @@
                   "indicator_name": "w",
                   "indicator_type_name": "initial",
                   "mom_type": "geo",
-                  "show": true
+                  "show": false
                 },
                 {
                   "id": "c224df2c-064d-4c2b-9cd9-c82d91d37512",
@@ -390,7 +390,7 @@
                   "viewCode": "default",
                   "filter": "",
                   "filterValues": "",
-                  "show": true
+                  "show": false
                 },
                 {
                   "id": "f222df2c-064d-4c2b-9dd9-d82d91d37512",
