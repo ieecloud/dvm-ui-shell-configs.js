@@ -1,0 +1,6 @@
+.idea/es.iml
+.idea/modules.xml
+.idea/vcs.xml
+georec/monitoring/test/tomcat-users.xml
+georec/monitoring/test/web.xml
+.idea/.gitignore
