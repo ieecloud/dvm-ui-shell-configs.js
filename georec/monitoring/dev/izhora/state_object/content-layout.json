@@ -567,6 +567,38 @@
                   "color": "rgb(146,181,151)",
                   "show": false
                 }
+              ],
+              "temp": [
+                {
+                  "id": "tf224df2c-064d-4c2b-9cd9-a82d91d37512",
+                  "name": "Общие события",
+                  "repoId": "journal.events.general",
+                  "store": "journal.events.general",
+                  "viewCode": "default",
+                  "filter": "",
+                  "filterValues": "",
+                  "show": true
+                },
+                {
+                  "id": "tf224df2c-064d-4c2b-9cd9-b82d91d37512",
+                  "name": "Локальные события",
+                  "repoId": "journal.events.objs",
+                  "store": "journal.events.objs",
+                  "viewCode": "default",
+                  "filter": "obj_code",
+                  "filterValues": "${node_code}",
+                  "show": true
+                },
+                {
+                  "id": "tf224df2c-064d-4c2b-9cd9-c82d91d37518",
+                  "type": "initial",
+                  "name": "Исх. (данные в исходном виде)",
+                  "repoId": "journal.temp.data.initial",
+                  "store": "journal.temp.data.initial",
+                  "viewCode": "default",
+                  "color": "rgb(247, 182, 182)",
+                  "show": false
+                }
               ]
             },
             "clazz": "col-xl-12 col-lg-12",

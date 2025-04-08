@@ -40,5 +40,14 @@
       "name": "name",
       "color" : "rgb(27,151,182)"
     }
+  },
+  "temp": {
+    "title" : "Температура (°С)",
+    "zoomLimit" : 2592000000,
+    "indicatorsTml": {
+      "code": "code",
+      "name": "name",
+      "color" : "rgb(27,151,182)"
+    }
   }
 }
