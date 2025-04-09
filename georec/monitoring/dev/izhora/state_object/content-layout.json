@@ -591,10 +591,10 @@
                 },
                 {
                   "id": "tf224df2c-064d-4c2b-9cd9-c82d91d37518",
-                  "type": "initial",
-                  "name": "Исх. (данные в исходном виде)",
-                  "repoId": "journal.temp.data.initial",
-                  "store": "journal.temp.data.initial",
+                  "type": "norm",
+                  "name": "Норм. (данные в исходном виде)",
+                  "repoId": "journal.temp.data.norm",
+                  "store": "journal.temp.data.norm",
                   "viewCode": "default",
                   "color": "rgb(247, 182, 182)",
                   "show": false
