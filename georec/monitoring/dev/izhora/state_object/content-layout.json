@@ -338,6 +338,58 @@
                   "viewCode": "no_support",
                   "color": "rgb(146,181,151)",
                   "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-geo-1",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "geo",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "geo",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-geo-2",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "geo",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "geo",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512-geo-3",
+                  "name": "Порог верхний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "geo",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "geo",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512-geo-4",
+                  "name": "Порог нижний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "geo",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "geo",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
                 }
               ],
               "support": [
@@ -410,6 +462,58 @@
                   "viewCode": "support",
                   "color": "rgb(0,0,255)",
                   "show": true
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-support-1",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "support",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "support",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-support-2",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "support",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "support",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512-support-3",
+                  "name": "Порог верхний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "support",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "support",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512-support-4",
+                  "name": "Порог нижний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "support",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "support",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
                 }
               ],
               "nakl": [
@@ -461,6 +565,58 @@
                   "store": "journal.nakl.data.calc",
                   "viewCode": "default",
                   "color": "rgb(146,181,151)",
+                  "show": false
+                },
+                {
+                  "id": "n1124df2c-064d-4c2b-9cd9-c82d91d37512-nakl-1",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "nakl",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "nakl",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "n2124df2c-064d-4c2b-9cd9-c82d91d37512-nakl-2",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "nakl",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "nakl",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "n3324df2c-064d-4c2b-9cd9-c82d91d37512-nakl-3",
+                  "name": "Порог верхний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "nakl",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "nakl",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "n4324df2c-064d-4c2b-9cd9-c82d91d37512-nakl-4",
+                  "name": "Порог нижний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "nakl",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "nakl",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
                   "show": false
                 }
               ],
@@ -514,6 +670,58 @@
                   "viewCode": "default",
                   "color": "rgb(146,181,151)",
                   "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-voinar-1",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "voinar",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "voinar",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-voinar-2",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "voinar",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "voinar",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512-voinar-3",
+                  "name": "Порог верхний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "voinar",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "voinar",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512-voinar-4",
+                  "name": "Порог нижний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "voinar",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "voinar",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
                 }
               ],
               "joint": [
@@ -566,6 +774,58 @@
                   "viewCode": "default",
                   "color": "rgb(146,181,151)",
                   "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-joint-1",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "joint",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "joint",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-joint-2",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "joint",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "joint",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512-joint-3",
+                  "name": "Порог верхний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "joint",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "joint",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512-joint-4",
+                  "name": "Порог нижний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "joint",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "joint",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
                 }
               ],
               "temp": [
@@ -597,6 +857,58 @@
                   "store": "journal.temp.data.norm",
                   "viewCode": "default",
                   "color": "rgb(247, 182, 182)",
+                  "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-temp-1",
+                  "name": "Порог верхний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "temp",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "temp",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1124df2c-064d-4c2b-9cd9-c82d91d37512-temp-2",
+                  "name": "Порог нижний (Исх.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "temp",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "initial",
+                  "mom_type": "temp",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g1324df2c-064d-4c2b-9cd9-c82d91d37512-temp-3",
+                  "name": "Порог верхний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "temp",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "temp",
+                  "bound_level": "upper",
+                  "bound_type": "critical",
+                  "show": false
+                },
+                {
+                  "id": "g2324df2c-064d-4c2b-9cd9-c82d91d37512-temp-4",
+                  "name": "Порог нижний (Расч.)",
+                  "repoId": "rinf.normatives.data",
+                  "store": "rinf.normatives.data",
+                  "viewCode": "temp",
+                  "color": "rgb(250,2,2)",
+                  "indicator_type_code": "calc",
+                  "mom_type": "temp",
+                  "bound_level": "lower",
+                  "bound_type": "critical",
                   "show": false
                 }
               ]
