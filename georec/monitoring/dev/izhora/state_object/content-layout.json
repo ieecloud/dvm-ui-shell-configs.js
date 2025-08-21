@@ -421,7 +421,7 @@
                   "store": "journal.geo.data.initial",
                   "viewCode": "support",
                   "color": "rgb(247, 182, 182)",
-                  "show": false
+                  "show": true
                 },
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-f82d91d37512",
@@ -431,7 +431,7 @@
                   "store": "journal.geo.data.norm",
                   "viewCode": "support",
                   "color": "rgb(27,151,182)",
-                  "show": true
+                  "show": false
                 },
                 {
                   "id": "f224df2c-064d-4c2b-9cd9-d82d91d37512",
