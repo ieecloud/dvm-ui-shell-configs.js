@@ -1,0 +1,44 @@
+{
+  "nakl": {
+    "title" : "Наклон (угл. секунды)",
+    "zoomLimit" : 86400000,
+    "indicatorsTml":  {
+      "code": "code",
+      "name": "name"
+    }
+  },
+  "geo": {
+    "title" : "Перемещение (мм)",
+    "zoomLimit" : 2592000000,
+    "indicatorsTml": {
+      "code": "code",
+      "name": "name"
+    }
+  },
+  "voinar": {
+    "title" : "Перемещение (мм)",
+    "zoomLimit" : 100,
+    "indicatorsTml": {
+      "code": "code",
+      "name": "name"
+    }
+  },
+  "support": {
+    "title" : "Перемещение (мм)",
+    "zoomLimit" : 2592000000,
+    "indicatorsTml": {
+      "code": "code",
+      "name": "name",
+      "color" : "rgb(27,151,182)"
+    }
+  },
+  "joint": {
+    "title" : "Раскрытие шва (мм)",
+    "zoomLimit" : 2592000000,
+    "indicatorsTml": {
+      "code": "code",
+      "name": "name",
+      "color" : "rgb(27,151,182)"
+    }
+  }
+}

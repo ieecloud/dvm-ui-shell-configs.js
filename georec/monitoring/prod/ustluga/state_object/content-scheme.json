@@ -1,45 +1,45 @@
 {
   "tree": {
     "rootElements": [
-      "c751df21-main"
+      "main"
     ],
     "treeStructure": [
       {
-        "id": "c751df21-main",
+        "id": "main",
         "children": [
           {
-            "id": "c751df2a-object"
+            "id": "complex"
           }
         ]
       },
       {
-        "id": "c751df2a-object",
+        "id": "complex",
         "children" : [
           {
-            "id": "c751df2a-kvartal"
+            "id": "kvartal"
           }
         ]
       },
       {
-        "id": "c751df2a-kvartal",
+        "id": "kvartal",
         "children" : [
           {
-            "id": "c751df2a-titul"
+            "id": "titul"
           }
         ]
       },
       {
-        "id": "c751df2a-titul",
+        "id": "titul",
         "children" : [
           {
-            "id": "e751df2a-object-element-sensor"
+            "id": "data_point_geo"
           }
         ]
       }
     ],
     "nodes": [
       {
-        "id": "c751df21-main",
+        "id": "main",
         "$schema": "",
         "name": "Главная",
         "type": "object",
@@ -89,7 +89,7 @@
         ]
       },
       {
-        "id": "c751df2a-object",
+        "id": "complex",
         "$schema": "",
         "name": "Усть Луга",
         "type": "object",
@@ -152,7 +152,7 @@
         ]
       },
       {
-        "id": "c751df2a-kvartal",
+        "id": "kvartal",
         "$schema": "",
         "name": "Квартал",
         "type": "object",
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "id": "c751df2a-titul",
+        "id": "titul",
         "$schema": "",
         "name": "Титул",
         "type": "object",
@@ -276,7 +276,7 @@
         ]
       },
       {
-        "id": "e751df2a-object-element-sensor",
+        "id": "data_point_geo",
         "$schema": "",
         "name": "№ДМ - Точка Измерения",
         "type": "object",

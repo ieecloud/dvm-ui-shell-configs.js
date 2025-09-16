@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "scheme": "app-schema.json"
+  },
+  "nodeData": [
+    {
+      "id": "655",
+      "properties": {
+        "filterValues": "1L-R_support",
+        "repoId": "journal.indicators.data",
+        "code": "analytics",
+        "groupId": "33",
+        "type": "support",
+        "viewCode": "",
+        "filter": "pointId",
+        "sys_id": 8,
+        "viewerModel": "",
+        "defaultView": "",
+        "indicatorsRepoFilter": "name",
+        "parent_id": 2,
+        "viewer2dModel": "",
+        "editMode": false,
+        "name": "Аналитика",
+        "id": 33,
+        "indicatorsRepoId": "pivot.indicators.with.criteria",
+        "indicatorsRepoFilterValues": "Аналитика",
+        "schemeNodeId": "b751dd21-main",
+        "editTreeMode" : true
+      }
+    }
+  ],
+  "treeStructureData": {
+    "id": "ffd9ff58-3ca5-40a9-9ee1-5bce1052b5ab",
+    "name" : "Аналитика",
+    "nodes": [
+      {
+        "id": "655",
+        "children": [
+        ]
+      }
+    ]
+  }
+}
